@@ -1,0 +1,81 @@
+python==3.10.8
+appnope==0.1.3
+asttokens==2.1.0
+backcall==0.2.0
+bitarray==2.6.0
+camelot-py==0.10.1
+certifi==2022.9.24
+cffi==1.15.1
+chardet==5.0.0
+charset-normalizer==2.1.1
+click==8.1.3
+cryptography==38.0.3
+debugpy==1.6.3
+decorator==5.1.1
+distro==1.8.0
+entrypoints==0.4
+et-xmlfile==1.1.0
+executing==1.2.0
+ghostscript==0.7
+idna==3.4
+ipykernel==6.17.0
+ipython==8.6.0
+jedi==0.18.1
+joblib==1.2.0
+jupyter_client==7.4.4
+jupyter_core==4.11.2
+Levenshtein==0.20.8
+matplotlib-inline==0.1.6
+nest-asyncio==1.5.6
+nltk==3.7
+numpy==1.23.4
+opencv-python==4.6.0.66
+openpyxl==3.0.10
+packaging==21.3
+pandas==1.5.1
+parso==0.8.3
+pdfminer.six==20221105
+pdfreader==0.1.12
+pdftotext==2.2.2
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow==9.3.0
+prompt-toolkit==3.0.32
+psutil==5.9.3
+ptyprocess==0.7.0
+pure-eval==0.2.2
+pycparser==2.21
+pycryptodome==3.15.0
+Pygments==2.13.0
+PyMuPDF==1.21.0
+pyparsing==3.0.9
+PyPDF2==2.11.1
+PyPDF4==1.27.0
+python-dateutil==2.8.2
+python3-ghostscript #@ file:///Users/anureddy/Desktop/Sem01/ISWKM/Assignments/#python3_ghostscript-0.5.0-py3-none-any.whl
+pytz==2022.6
+pyzmq==24.0.1
+rapidfuzz==2.13.1
+regex==2022.10.31
+requests==2.28.1
+scikit-learn==1.1.3
+scipy==1.9.3
+six==1.16.0
+sklearn==0.0
+stack-data==0.6.0
+tabula-py==2.5.1
+tabulate==0.9.0
+threadpoolctl==3.1.0
+tika==1.24
+tornado==6.2
+tqdm==4.64.1
+traitlets==5.5.0
+urllib3==1.26.12
+wcwidth==0.2.5
+!pip install ghostscript
+!pip install camelot-py[cv]
+!pip install excalibur-py
+!apt install ghostscript python3-tk
+from ctypes.util import find_library
+print(find_library("gs")) #will display libgs.so.9 if installed; will print None if not
+!excalibur initdb
