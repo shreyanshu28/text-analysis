@@ -1,0 +1,409 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Fraunhofer-Institut für
+Angewandte Festkör-
+perphysik
+Hauptadresse
+Tullastraße
+72
+Freiburg
+7910
+8
+http://www.iaf.fraunho-
+fer.de
++49 761
+5159-0
++49 761
+5159-400
+Fraunhofer-Institut für
+Angewandte Informati-
+onstechnik
+Hauptadresse
+Schloß Bir-
+linghoven
+Sankt Au-
+gustin
+5375
+4
+nfo@fit.fraunhofer.de
+http://www.fit.fraunho-
+fer.de
++49 2241
+14-2808
++49 2241
+14-2080
+Fraunhofer-Institut für
+Angewandte Optik und
+Feinmechanik
+Hauptadresse
+Albert-Ein-
+stein-Straße
+7
+Jena
+0774
+5
+info@iof.fraunhofer.de
+http://www.iof.fraunho-
+fer.de
++49 3641
+807-0
++49 3641
+807-600
+Fraunhofer-Institut für
+Angewandte Polymer-
+forschung
+Hauptadresse
+Geiselberg-
+straße 69
+Potsdam
+1440
+6
+info@iap.fraunhofer.de
+http://www.iap.fraun-
+hofer.de
++49 331
+568-10
++49 331
+568-3000
+Fraunhofer-Institut für
+Angewandte Polymer-
+forschung
+Aussenstelle
+Berlin-Adlers-
+dorf
+Volmerstra-
+ße 7 b
+Berlin-Ad-
+lersdorf
+1248
+9
+info@iap.fraunhofer.de
+http://www.iap.fraun-
+hofer.de
++49 331
+568-10
++49 331
+568-3000
+Fraunhofer-Institut für
+Arbeitswirtschaft und
+Organisation
+Hauptadresse
+Nobelstraße
+12
+Stuttgart
+7056
+9
+presse@iao.fraunho-
+fer.de
+http://www.iao.fraun-
+hofer.de
++49 711
+970-2124
++49 711
+970-2299
+Fraunhofer-Institut für
+Bauphysik
+Hauptadresse
+Nobelstraße
+12
+Stuttgart
+7056
+9
+info@ibp.fraunhofer.de
+http://www.ibp.fraun-
+hofer.de
++49 711
+970-00
++49 711
+970-3395
+Fraunhofer-Institut für
+Bauphysik
+Institutsteil
+Holzkirchen
+Fraunhofer-
+straße 10
+Valley/Ob
+erlaindern
+8362
+6
+info@hoki.ibp.fraunho-
+fer.de
+http://www.ibp.fraun-
+hofer.de
++49 8024
+643-0
++49 8024
+643-366
+Fraunhofer-Institut für
+Bauphysik
+Standort Ro-
+senheim
+Hochschul-
+straße 1
+Rosen-
+heim
+8302
+4
+info@hoki.ibp.fraunho-
+fer.de
+http://www.ibp.fraun-
+hofer.de
++49 8031
+805-2684
++49 8031
+805-2697
+Fraunhofer-Institut für
+Bauphysik
+Projektgrup-
+pe Kassel
+Gottschalk-
+straße 28 a
+Kassel
+3412
+7
+info-ks@ibp.fraunho-
+fer.de
+http://www.ibp.fraun-
+hofer.de
++49 561
+804-1870
++49 561
+804-3187
+Fraunhofer-Institut für
+Betriebsfestigkeit und
+Systemzuverlässigkeit
+Hauptadresse
+Bartningstra-
+ße 47
+Darmstadt
+6428
+9
+info@lbf.fraunhofer.de
+http://www.lbf.fraunho-
+fer.de
++49 6151
+705-0
++49 6151
+705-214
+Fraunhofer-Institut für
+Betriebsfestigkeit und
+Systemzuverlässigkeit
+Bereich
+Kunststoffe
+Schlossgar-
+tenstraße 6
+Darmstadt
+6428
+9
+info@lbf.fraunhofer.de
+http://www.lbf.fraunho-
+fer.de
++49 6151
+705-0
++49 6151
+705-8601
+Fraunhofer-Institut für
+Biomedizinische Tech-
+nik
+Hauptadresse
+Joseph-von-
+Fraunhofer-
+Weg 1
+Sulzbach
+6628
+0
+info@ibmt.fraunhofer.d
+e
+http://www.ibmt.fraun-
+hofer.de
++49 6897
+9071-0
++49 6897
+9071-490
+Fraunhofer-Institut für
+Biomedizinische Tech-
+nik
+Außenstelle
+Münster/Wol-
+beck
+Mendelstra-
+ße 11
+Münster
+4814
+9
+info@ibmt.fraunhofer.d
+e
+http://www.ibmt.fraun-
+hofer.de
++49 6897
+9071-251
++49 6897
+9071-490
+Fraunhofer-Institut für
+Biomedizinische Tech-
+nik
+Außenstelle
+St. Ingbert
+Ensheimer
+Straße 48
+St. Ingbert
+6638
+6
+info@ibmt.fraunhofer.d
+e
+http://www.ibmt.fraun-
+hofer.de
++49 6894
+980-0
++49 6894
+980-400
+Fraunhofer-Institut für
+Biomedizinische Tech-
+nik
+Außenstelle
+Berlin
+Anna-Louisa-
+Karsch-Stra-
+ße 2
+Berlin
+1017
+8
+info@ibmt.fraunhofer.d
+e
+http://www.ibmt.fraun-
+hofer.de
++49 6894
+980-0
++49 6894
+980-400
+Fraunhofer-Institut für
+Digitale Medientech-
+nologie
+Hauptadresse
+Ehrenberg-
+straße 31
+Ilmenau
+9869
+3
+info@idmt.fraunhofer.d
+e
+http://www.idmt.fraun-
+hofer.de
++49 3677
+467-0
++49 3677
+467-467
+Fraunhofer-Institut für
+Digitale Medientech-
+nologie
+Außenstelle
+Erfurt
+Erich-Käst-
+ner-Straße 1
+Erfurt
+9909
+4
+info@idmt.fraunhofer.d
+e
+http://www.idmt.fraun-
+hofer.de
++49 361
+653122-
+1110
++49 361
+653122-
+1111
+Fraunhofer-Institut für
+Digitale Medientech-
+nologie
+Außenstelle
+Oldenburg
+Marie-Curie-
+Straße 2
+Oldenburg
+2612
+9
+info@idmt.fraunhofer.d
+e
+http://www.idmt.fraun-
+hofer.de
++49 441
+2172-400
++49 441
+2172-450
+Fraunhofer-Institut für
+Eingebettete Systeme
+und Kommunikations-
+technik
+Hauptadresse
+Hansastraße
+32
+München
+8068
+6
+http://www.esk.fraun-
+hofer.de
++49 89
+547088-0
++49 89
+547088-220
+Fraunhofer-Institut für
+Elektronenstrahl- und
+Plasmatechnik
+Hauptadresse
+Winterberg-
+straße 28
+Dresden
+0127
+7
+http://www.fep.fraun-
+hofer.de
++49 351
+2586-0
++49 351
+2586-105
+Fraunhofer-Institut für
+Experimentelles Soft-
+ware Engineering
+Hauptadresse
+Fraunhofer
+Platz 1
+Kaisers-
+lautern
+6766
+3
+http://www.iese.fraun-
+hofer.de
++49 631 68
+00-0
++49 631 68
+00-10 99
+Fraunhofer-Institut für
+Fabrikbetrieb und -au-
+tomatisierung
+Hauptadresse
+Sandtorstra-
+ße 22
+Magde-
+burg
+3910
+6
+ideen@iff.fraunhofer.d
+e
+http://www.iff.fraunho-
+fer.de
++49 391
+4090-0
++49 391
+4090-596
+Seite 37 von 80

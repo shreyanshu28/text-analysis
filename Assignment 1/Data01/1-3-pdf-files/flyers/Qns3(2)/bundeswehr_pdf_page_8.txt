@@ -1,0 +1,406 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Neumünster
+Boostedt
+Neumünster-
+straße 110
+Boostedt
+2459
+8
+M19Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 531
+3545-0
++49 531
+3545-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Trier (Liegen-
+schaft 2)
+Diedenhofe-
+ner Straße 6-
+8
+Trier
+5429
+4
+M19Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 531
+3545-0
++49 531
+3545-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Osnabrück
+(Despen-
+dance der
+Außenstelle
+Bramsche im
+Ankunftszen-
+trum)
+Sedanstraße
+115
+Osna-
+brück
+4907
+3
+M19Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 531
+3545-0
++49 531
+3545-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Leipzig (im
+Ankunftszen-
+trum)
+Brahestraße
+8
+Leipzig
+0434
+7
+M19Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 531
+3545-0
++49 531
+3545-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Regionalstel-
+le - Neu-
+münster
+Brachenfel-
+der Straße 45
+Neumüns-
+ter
+2453
+9
+M19Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 531
+3545-0
++49 531
+3545-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Stern-Buch-
+holz (im An-
+kunftszen-
+trum)
+Stern-Buch-
+holz 16
+Schwerin
+1906
+1
+M19Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 531
+3545-0
++49 531
+3545-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Bremen (im
+Ankunftszen-
+trum)
+Lindenstraße
+110
+Bremen
+2875
+5
+M17Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 421
+8391-0
++49 421
+8391-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Bad Falling-
+bostel (im An-
+kunftszen-
+trum)
+Hartemer
+Weg 2
+Osterhei-
+de
+2968
+3
+M17Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 421
+8391-0
++49 421
+8391-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Jena/Herms-
+dorf
+Am Rasthof 2
+Hermsdorf
+0762
+9
+M17Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 421
+8391-0
++49 421
+8391-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Speyer (im
+Ankunftszen-
+trum)
+Spaldinger
+Straße 100
+Speyer
+6734
+6
+M17Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 421
+8391-0
++49 421
+8391-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Neumünster
+(im Ankunfts-
+zentrum)
+Haart 148
+Neumüns-
+ter
+2453
+9
+M17Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 421
+8391-0
++49 421
+8391-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Neustadt
+Niederkleiner
+Straße 21
+Neustadt
+3527
+9
+M17Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 421
+8391-0
++49 421
+8391-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Suhl (im An-
+kunftszen-
+trum)
+Weidberg-
+straße 10
+Suhl
+9852
+7
+M17Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 421
+8391-0
++49 421
+8391-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Trier (Liegen-
+schaft 1)
+Dasbachstra-
+ße 15 b
+Trier
+5429
+2
+M17Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 421
+8391-0
++49 421
+8391-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Gießen (im
+Ankunftszen-
+trum)
+Rödgener
+Straße 59-61
+Gießen
+3539
+4
+M17Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 421
+8391-0
++49 421
+8391-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Bayreuth (Du-
+blin-Verfah-
+ren)
+Dr.-Hans-
+Frisch-Stra-
+ße 4
+Bayreuth
+9544
+8
+M17Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 421
+8391-0
++49 421
+8391-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Unna
+Lippestraße
+37
+Unna-
+Massen
+5942
+7
+M17Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 421
+8391-0
++49 421
+8391-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Dresden (in
+AnkER-Ein-
+richtung)
+Nossener
+Brücke 12
+Dresden
+0118
+7
+M17Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 421
+8391-0
++49 421
+8391-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Dortmund -
+Dublin-Ver-
+fahren
+Märkische
+Straße 109
+Dortmund
+4414
+1
+M17Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 421
+8391-0
++49 421
+8391-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Bochum
+Alleestraße
+165
+Bochum
+4479
+3
+M17Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 421
+8391-0
++49 421
+8391-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Regionalstel-
+le - Chemnitz
+Otto-Schmer-
+bach-Straße
+20
+Chemnitz
+0911
+7
+M17Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 421
+8391-0
++49 421
+8391-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Chemnitz (im
+Ankunftszen-
+trum)
+Adalbert-Stif-
+ter-Weg 25
+Chemnitz
+0913
+1
+M11Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 371
+4901-0
++49 371
+4901-199
+Seite 8 von 80

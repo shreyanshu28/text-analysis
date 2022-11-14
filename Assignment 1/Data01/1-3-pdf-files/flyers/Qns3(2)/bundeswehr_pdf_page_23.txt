@@ -1,0 +1,377 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Bundeswehr-Dienst-
+leistungszentrum Leer
+Hauptadresse
+Osseweg 31
+Leer
+2678
+9
+BwDLZLeer@bundes-
+wehr.org
+http://www.iud.bundes-
+wehr.de
++49 491
+9195-0
++49 491
+9195-5110
+Bundeswehr-Dienst-
+leistungszentrum
+Mayen
+Hauptadresse
+Holler Pfad 6
+Mayen
+5672
+7
+BwDLZMayen@bun-
+deswehr.org
+http://www.iud.bundes-
+wehr.de
++49 2651
+4960-0
++49 2651
+4960-3714
+Bundeswehr-Dienst-
+leistungszentrum Mün-
+chen
+Hauptadresse
+Dachauer
+Straße 128
+München
+8063
+7
+BwDLZMuenchen@bu
+ndeswehr.org
+http://www.iud.bundes-
+wehr.de
++49 89
+1249-0
++49 89
+1249-3018
+Bundeswehr-Dienst-
+leistungszentrum
+Munster
+Hauptadresse
+Emminger
+Weg 59-61
+Munster
+2963
+3
+BwDLZMunster@bun-
+deswehr.org
+http://www.iud.bundes-
+wehr.de
++49 5192
+12-0
++49 5192
+12-2260
+Bundeswehr-Dienst-
+leistungszentrum
+Münster
+Hauptadresse
+Josefine-
+Mauser-Stra-
+ße 51
+Münster
+4815
+7
+BwDLZMuenster@bun
+deswehr.org
+http://www.iud.bundes-
+wehr.de
++49 251
+133398-0
++49 251
+133398-
+4221
+Bundeswehr-Dienst-
+leistungszentrum Ol-
+denburg
+Hauptadresse
+Bremer Stra-
+ße 69
+Odenburg
+2613
+5
+BwDLZOldenburg@bu
+ndeswehr.org
+http://www.iud.bundes-
+wehr.de
++49 441
+929-0
++49 441
+929-2535
+Bundeswehr-Dienst-
+leistungszentrum Plön
+Hauptadresse
+Stadtheide 10
+- 11
+Plön
+2430
+6
+BwDLZPloen@bun-
+deswehr.org
+http://www.bundes-
+wehr.de
++49 (0)4522
+-7444-0
++49 (0)4522
+7444-2100
+Bundeswehr-Dienst-
+leistungszentrum Ro-
+stock
+Hauptadresse
+Kopernikuss-
+traße 1
+Rostock
+1805
+7
+BwDLZRostock@bun-
+deswehr.org
+http://www.iud.bundes-
+wehr.de
++49 381
+802-50
++49 381
+802-4102
+Bundeswehr-Dienst-
+leistungszentrum Ro-
+tenburg (Wümme)
+Hauptadresse
+Am Luhner
+Holze 39
+Roten-
+burg
+(Wümme)
+2735
+6
+BwDLZRotenburg@bu
+ndeswehr.org
+http://www.iud.bundes-
+wehr.de
++49 4261
+188-0
++49 4261
+188-2109
+Bundeswehr-Dienst-
+leistungszentrum Stet-
+ten am kalten Markt
+Hauptadresse
+Lager Heu-
+berg
+Stetten
+am kalten
+Markt
+7251
+0
+BwDLZStettenakM@B
+undeswehr.org
+http://www.iud.bundes-
+wehr.de
++49 7573
+504-0
++49 7573
+504-2823
+Bundeswehr-Dienst-
+leistungszentrum Tor-
+gelow
+Hauptadresse
+Pasewalker
+Chaussee 3
+Torgelow
+1735
+8
+BwDLZTorgelow@bun
+deswehr.org
+http://www.iud.bundes-
+wehr.de
++49 3976
+250-0
++49 3976
+250-1008
+Bundeswehr-Dienst-
+leistungszentrum Ulm
+Hauptadresse
+Westerlinger
+Straße 13/2
+Ulm/Do-
+nau
+8907
+7
+BwDLZUlm@bundes-
+wehr.org
+http://www.iud.bundes-
+wehr.de
++49 731
+18996-0
++49 731
+18996-2450
+Bundeswehr-Dienst-
+leistungszentrum
+Veitshöchheim
+Hauptadresse
+Balthasar-
+Neumann-Ka-
+serne
+Veits-
+höchheim
+9720
+9
+BwDLZVeitshoech-
+heim@bundeswehr.or
+g
+http://www.iud.bundes-
+wehr.de
++49 931
+9707-0
++49 931
+9707-4111
+Bundeswehr-Dienst-
+leistungszentrum Wei-
+ßenfels
+Hauptadresse
+Zeitzer Stra-
+ße 95
+Weißen-
+fels
+0666
+7
+BwDLZWeissenfels@
+bundeswehr.org
+http://www.terrwv.bun-
+deswehr.de
++49 3443
+33-0
++49 3443
+33-2408
+Bundeswehr-Dienst-
+leistungszentrum Wil-
+helmshaven
+Hauptadresse
+Rheinstraße
+53
+Wilhelms-
+haven
+2638
+2
+BwDLZWilhelmsha-
+ven@bundeswehr.org
+http://www.iud.bundes-
+wehr.de
++49 4421
+4838-0
++49 4421
+4838-35 67
+Bundeswehr-Dienst-
+leistungszentrum
+Wunstorf
+Hauptadresse
+Am Dänen-
+berg 2
+Wunstorf
+3151
+5
+BwDLZWunstorf@bun
+deswehr.org
+http://www.iud.bundes-
+wehr.de
++49 5031
+405-0
++49 5031
+405-2015
+Bundeswehr-Dienst-
+leistungszentrum
+Zweibrücken
+Hauptadresse
+22-er-Straße
+25
+Zwei-
+brücken
+6648
+2
+BwDLZZweibrue-
+cken@bundeswehr.or
+g
+http://www.iud.bundes-
+wehr.de
++49 6332
+5665-3
++49 6332
+5665-5116
+Bundeswehrdiszipli-
+naranwalt beim Bun-
+desverwaltungsgericht
+Hauptadresse
+Simsonplatz
+1
+Leipzig
+0410
+7
++49 341
+124793-51
++49 341
+124793-48
+Bundeswehrfachschu-
+le Berlin
+Hauptadresse
+Kladower
+Damm 182
+Berlin
+1408
+6
+BwFachSBerlin@bun-
+deswehr.org
+http://www.bildungs-
+zentrum.bundeswehr.d
+e
++49 30
+3687-0
++49 30
+3687-2504
+Bundeswehrfachschu-
+le Hamburg
+Hauptadresse
+Osdorfer
+Landstraße
+365
+Hamburg
+2258
+9
+BwFachSHamburg@b
+undeswehr.org
+http://www.bildungs-
+zentrum.bundeswehr.d
+e
++49 40
+86648-0
++49 40
+86648-4212
+Bundeswehrfachschu-
+le Hannover
+Hauptadresse
+Langen-
+forther Stra-
+ße 1
+Hannover
+3065
+7
+BwFachSHannover@b
+undeswehr.org
+http://www.bildungs-
+zentrum.bundeswehr.d
+e
++49 511
+903-0
++49 511
+903-4636
+Seite 23 von 80

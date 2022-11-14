@@ -1,0 +1,402 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Julius-Kühn Institut,
+Bundesforschungsin-
+stitut für Kulturpflan-
+zen
+Standort
+Groß Lüse-
+witz
+Rudolf-Schick
+-Platz 3a
+Sanitz
+1819
+0
+poststelle@julius-
+kuehn.de
+http://www.julius-
+kuehn.de
++49 38209
+45-200
++49 6221
+86805-15
+Julius-Kühn Institut,
+Bundesforschungsin-
+stitut für Kulturpflan-
+zen
+Standort
+Kleinmach-
+now
+Stahnsdorfer
+Damm 81
+Klein-
+machnow
+1453
+2
+poststelle@julius-
+kuehn.de
+http://www.julius-
+kuehn.de
++49 33203
+48-0
++49 33203
+48-425
+Julius-Kühn Institut,
+Bundesforschungsin-
+stitut für Kulturpflan-
+zen
+Standort
+Münster
+Toppheide-
+weg 88
+Muenster
+4816
+1
+poststelle@julius-
+kuehn.de
+http://www.julius-
+kuehn.de
++49 251
+87106-0
++49 251
+87106-33
+Julius-Kühn Institut,
+Bundesforschungsin-
+stitut für Kulturpflan-
+zen
+Standort
+Quetlinburg
+Erwin-Baur-
+Straße 27
+Quedlin-
+burg
+0648
+4
+poststelle@julius-
+kuehn.de
+http://www.julius-
+kuehn.de
++49 3946
+47-0
++49 251
+87106-33
+Julius-Kühn Institut,
+Bundesforschungsin-
+stitut für Kulturpflan-
+zen
+Standort Sie-
+beldingen
+Geilweilerhof
+Siebeldin-
+gen
+7683
+3
+poststelle@julius-
+kuehn.de
+http://www.julius-
+kuehn.de
++49 6345
+41-0
++49 251
+87106-33
+juris GmbH - Das juris-
+tische Informations-
+system Deutschland
+Hauptadresse
+Gutenberg-
+straße 23
+Saar-
+brücken
+6611
+7
+info@juris.de
+http://www.juris.de
++49 681
+5866-0
++49 681
+5866-239
+Karlsruher Institut für
+Technologie
+Hauptadresse
+Kaiserstraße
+12
+Karlsruhe
+7613
+1
+info@kit.edu
+http://www.kit.edu
++49 721
+608 - 0
++49 721
+608 44290
+Karlsruher Institut für
+Technologie
+Campus Süd
+Kaiserstraße
+12
+Karlsruhe
+7613
+1
+info@kit.edu
+http://www.kit.edu
++49 721
+608 - 0
++49 721
+608 44290
+Karlsruher Institut für
+Technologie
+Außenstelle
+Dresden
+Hallwachss-
+traße 3
+Dresden
+0106
+9
+info@kit.edu
+http://www.kit.edu
++49 721
+608 - 0
++49 721
+608 44290
+Karlsruher Institut für
+Technologie
+Standort Gar-
+misch-Parten-
+kirchen
+Kreuzeck-
+bahnstraße19
+Garmisch-
+Partenkir-
+chen
+8246
+7
+info@kit.edu
+http://www.kit.edu
++49 721
+608 - 0
++49 721
+608 44290
+Karlsruher Institut für
+Technologie
+Helmholtz-In-
+stitut Ulm
+Albert-Ein-
+stein-Allee 11
+Ulm
+8906
+9
+info@kit.edu
+http://www.kit.edu
++49 721
+608 - 0
++49 721
+608 44290
+Karrierecenter der
+Bundeswehr Berlin
+Hauptadresse
+Regattastra-
+ße 12
+Berlin
+1252
+7
+BewerbungenBerlin@
+bundeswehr.org
+http://www.bundes-
+wehrkarriere.de
++49 30
+67781 401
+oder 408
++49 30
+67781-325
+Karrierecenter der
+Bundeswehr Düssel-
+dorf
+Hauptadresse
+Ludwig-Beck-
+Straße 23
+Düssel-
+dorf
+4047
+0
+BewerbungenDuessel-
+dorf@bundeswehr.org
+http://www.bundes-
+wehrkarriere.de
++49 211
+619-3400
++49 211
+619-3395
+Karrierecenter der
+Bundeswehr Erfurt
+Hauptadresse
+Zeppelinstra-
+ße 18
+Erfurt
+9909
+6
+karrcbwerfurtein-
+gang@bundeswehr.or
+g
+http://www.bundes-
+wehr.de
+Karrierecenter der
+Bundeswehr Hannover
+Hauptadresse
+General-We-
+ver-Straße
+119
+Hannover
+3065
+7
+bewerbungenhanno-
+ver@bundeswehr.org
+http://www.bundes-
+wehrkarriere.de
++49 511
+86699-4444
++49 511
+86699-4372
+Karrierecenter der
+Bundeswehr II Mainz
+Hauptadresse
+Moltkering 9
+Wiesba-
+den
+6518
+9
+BewerbungenMainz@
+bundeswehr.org
+http://www.bundes-
+wehrkarriere.de
++49 611
+799-5000
+Karrierecenter der
+Bundeswehr München
+Hauptadresse
+Dachauer Str.
+128
+München
+8063
+7
+BewerbungenMuen-
+chen@bundeswehr.or
+g
+http://www.bundes-
+wehrkarriere.de
++49 89
+1249-5111
++49 89
+1249-5190
+Karrierecenter der
+Bundeswehr Stuttgart
+Hauptadresse
+Heilbronner
+Straße 188
+Stuttgart
+7019
+1
+BewerbungenStutt-
+gart@bundeswehr.org
+http://www.bundes-
+wehrkarriere.de
++49 711
+2540-3900
++49 711
+2540-3006
+Karrierecenter der
+Bundeswehr Wil-
+helmshaven
+Hauptadresse
+Opdenhoffstr.
+63
+Wilhelms-
+haven
+2638
+4
+BewerbungenWil-
+helmshaven@bundes-
+wehr.org
+http://www.bundes-
+wehrkarriere.de
++49 4421
+68-62821
++49 4421
+6862-836
+Kassenärztliche Bun-
+desvereinigung
+Hauptadresse
+Herbert-Le-
+win-Platz 2
+Berlin
+1062
+3
+info@KBV.de
+http://www.kbv.de
++49 30
+4005-0
++49 30
+4005-1590
+Kassenzahnärztliche
+Bundesvereinigung
+Hauptadresse
+Universitätss-
+traße 73
+Köln
+5093
+1
+post@kzbv.de
+http://www.kzbv.de
++49 221
+4001-0
++49 221
+404035
+Kassenzahnärztliche
+Bundesvereinigung
+Büro Berlin/
+Presse- und
+Öffentlich-
+keitsarbeit
+der KZBV
+Behrenstra-
+ße 42
+Berlin
+1011
+7
+post@kzbv.de
+http://www.kzbv.de
++49 30
+280179-0
+(Zentrale),
++49 30
+280179-27
+(Presse)
++49 30
+280179-20
+Katholisches Militärbi-
+schofsamt
+Hauptadresse
+Am Weiden-
+damm 2
+Berlin
+1011
+7
+kmba@bundeswehr.or
+g
+http://www.kmba.mili-
+taerseelsorge.bundes-
+wehr.de
++49 30
+20617-322
++49 30
+20617-199
+Seite 50 von 80

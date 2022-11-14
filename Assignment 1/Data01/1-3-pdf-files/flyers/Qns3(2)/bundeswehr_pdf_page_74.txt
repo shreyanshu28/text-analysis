@@ -1,0 +1,379 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Wasserstraßen- und
+Schifffahrtsamt Weser-
+Jade-Nordsee
+(Dienstort Bremen)
+Außenbezirk
+Farge
+Unterm Berg
+24
+Bremen
+2877
+7
+wsa-
+bremen@wsv.bund.de
+http://www.wsa-weser-
+jade-nordsee.wsv.de
++49 421
+69212-211
++49 421
+5378-400
+Wasserstraßen- und
+Schifffahrtsamt Weser-
+Jade-Nordsee
+(Dienstort Bremen)
+Außenbezirk
+Oldenburg
+Werftweg 2
+Oldenburg
+2613
+5
+wsa-
+bremen@wsv.bund.de
+http://www.wsa-weser-
+jade-nordsee.wsv.de
++49 441
+20939-211
++49 421
+5378-400
+Wasserstraßen- und
+Schifffahrtsamt Weser-
+Jade-Nordsee
+(Dienstort Bremen)
+Bauhof Brake
+Hinrich-
+Schnitger-
+Straße 53
+Brake
+2691
+9
+wsa-
+bremen@wsv.bund.de
+http://www.wsa-weser-
+jade-nordsee.wsv.de
++49 4401
+708-340
++49 421
+5378-400
+Wasserstraßen- und
+Schifffahrtsamt Weser-
+Jade-Nordsee
+(Dienstort Bremerha-
+ven)
+Hauptadresse
+Am Alten Vor-
+hafen 1
+Bremer-
+haven
+2756
+8
+wsa-weser-jade-nord-
+see@wsv.bund.de
+http://www.wsa-weser-
+jade-nordsee.wsv.de
++49 471
+4835-0
++49 471
+4835-210
+Wasserstraßen- und
+Schifffahrtsamt Weser-
+Jade-Nordsee
+(Dienstort Bremerha-
+ven)
+Außenbezirk
+Blexen
+Am Deich
+21b
+Norden-
+ham
+2695
+4
+wsa-weser-jade-nord-
+see@wsv.bund.de
+http://www.wsa-weser-
+jade-nordsee.wsv.de
++49 471
+4835-0
++49 471
+4835-210
+Wasserstraßen- und
+Schifffahrtsamt Weser-
+Jade-Nordsee
+(Dienstort Wilhelmsha-
+ven)
+Hauptadresse
+Mozartstraße
+32
+Wilhelms-
+haven
+2638
+2
+wsa-weser-jade-nord-
+see@wsv.bund.de
+http://www.wsa-weser-
+jade-nordsee.wsv.de
++49 4421
+186-0
++49 4421
+186-308
+Wasserstraßen- und
+Schifffahrtsamt West-
+deutsche Kanäle
+(Dienstort Duisburg-
+Meiderich)
+Hauptadresse
+Emmericher
+Staße 201
+Duisburg
+4713
+8
+wsa-westdeutsche-ka-
+naele@wsv.bund.de
+http://www.wsa-west-
+deutsche-
+kanaele.wsv.de
++49 203
+4504-0
++49 203
+4504-333
+Wasserstraßen- und
+Schifffahrtsamt West-
+deutsche Kanäle
+(Dienstort Duisburg-
+Meiderich)
+Außenbezirk
+DU-Meiderich
+Emmericher
+Straße 203
+Duisburg
+4713
+8
+Abz-Duisburg-Meide-
+rich@wsv.bund.de
+http://www.wsa-west-
+deutsche-
+kanaele.wsv.de
++49 203
+4109-590
++49 203
+4109-598
+Wasserstraßen- und
+Schifffahrtsamt West-
+deutsche Kanäle
+(Dienstort Duisburg-
+Meiderich)
+Außenbezirk
+Herne
+Hoverskamp
+33
+Herne
+4462
+9
+Abz-
+Herne@wsv.bund.de
+http://www.wsa-west-
+deutsche-
+kanaele.wsv.de
++49 2323
+9223-50
++49 2323
+9223-5508
+Wasserstraßen- und
+Schifffahrtsamt West-
+deutsche Kanäle
+(Dienstort Duisburg-
+Meiderich)
+Außenbezirk
+Friedrichsfeld
+Alte Bühlstra-
+ße 10
+Voerde
+4656
+2
+Abz-
+Friedrichsfeld@wsv.bu
+nd.de
+http://www.wsa-west-
+deutsche-
+kanaele.wsv.de
++49 281
+9423-190
++49 281
+9423-198
+Wasserstraßen- und
+Schifffahrtsamt West-
+deutsche Kanäle
+(Dienstort Duisburg-
+Meiderich)
+Außenbezirk
+Dorsten
+Buererstr.
+367
+Dorsten
+4628
+2
+ABz-
+Dorsten@wsv.bund.de
+http://www.wsa-west-
+deutsche-
+kanaele.wsv.de
++49 2362
+9217-30
++49 2362
+9217-38
+Wasserstraßen- und
+Schifffahrtsamt West-
+deutsche Kanäle
+(Dienstort Duisburg-
+Meiderich)
+Außenbezirk
+Datteln
+Höttingstr.
+120
+Datteln
+4571
+1
+ABz-
+Datteln@wsv.bund.de
+http://www.wsa-west-
+deutsche-
+kanaele.wsv.de
++49 2363
+9100-40
++49 2363
+9100-48
+Wasserstraßen- und
+Schifffahrtsamt West-
+deutsche Kanäle
+(Dienstort Duisburg-
+Meiderich)
+Bauhof Herne
+Pöppinghau-
+ser Straße 12
+Herne
+4462
+8
+Bhf-
+Herne@wsv.bund.de
+http://www.wsa-west-
+deutsche-
+kanaele.wsv.de
++49 2323
+9850-0
++49 2323
+9850-224
+Wasserstraßen- und
+Schifffahrtsamt West-
+deutsche Kanäle
+(Dienstort Rheine)
+Hauptadresse
+Münsterstra-
+ße 77
+Rheine
+4843
+1
+wsa-westdeutsche-ka-
+naele@wsv.bund.de
+http://www.wsa-west-
+deutsche-
+kanaele.wsv.de
++49 5971
+916-0
++49 5971
+916-222
+Wasserstraßen- und
+Schifffahrtsamt West-
+deutsche Kanäle
+(Dienstort Rheine)
+Außenbezirk
+Hamm
+Fährstraße 6
+Hamm
+5907
+3
+Abz-
+Hamm@wsv.bund.de
+http://www.wsa-west-
+deutsche-
+kanaele.wsv.de
++49 2381
+9019-252
++49 5971
+916-222
+Wasserstraßen- und
+Schifffahrtsamt West-
+deutsche Kanäle
+(Dienstort Rheine)
+Außenbezirk
+Lüdinghau-
+sen
+Seppenrader
+Str. 42
+Lüding-
+hausen
+5934
+8
+Abz-
+Luedinghausen@wsv.
+bund.de
+http://www.wsa-west-
+deutsche-
+kanaele.wsv.de
++49 2591
+7990-503
++49 5971
+916-222
+Wasserstraßen- und
+Schifffahrtsamt West-
+deutsche Kanäle
+(Dienstort Rheine)
+Außenbezirk
+Münster
+Schiffahrter
+Damm 190
+Münster
+4814
+5
+Abz-
+Muenster@wsv.bund.
+de
+http://www.wsa-west-
+deutsche-
+kanaele.wsv.de
++49 251
+23938-1
++49 5971
+916-222
+Wasserstraßen- und
+Schifffahrtsamt West-
+deutsche Kanäle
+(Dienstort Rheine)
+Außenbezirk
+Altenrheine
+Kanalstraße
+67
+Hörstel
+4847
+7
+Abz-
+Altenrheine@wsv.bun
+d.de
+http://www.wsa-west-
+deutsche-
+kanaele.wsv.de
++49 5459
+8028-452
++49 5971
+916-222
+Seite 74 von 80

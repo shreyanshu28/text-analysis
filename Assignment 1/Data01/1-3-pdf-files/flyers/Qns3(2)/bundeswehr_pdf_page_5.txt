@@ -1,0 +1,384 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Berufsgenossenschaft
+Verkehrswirtschaft,
+Post-Logistik und Te-
+lekommunikation
+Dienststelle
+Schiffssicher-
+heit
+Reimerstwie-
+te 2
+Hamburg
+2045
+7
+schiffssicherheit@bg-
+verkehr.de
+http://www.bg-
+verkehr.de
++49 40
+36137-0
++49 40
+36137-204
+Beschaffungsamt des
+BMI
+Hauptadresse
+Brühler Stra-
+ße 3
+Bonn
+5311
+9
+poststelle@bescha.bu
+nd.de
+http://www.bescha.bun
+d.de
++49 22899
+610-0
++49 22899
+610-1610
+Betriebszentrum IT-
+System der Bundes-
+wehr
+Hauptadresse
+Münstereife-
+ler Straße 75
+Rhein-
+bach
+5335
+9
+bits@bundeswehr.org
+http://www.bundes-
+wehr.de
++49 2226
+88 20000
+Bevollmächtigte der
+Bundesregierung für
+Pflege
+Hauptadresse
+Friedrichstra-
+ße 108
+Berlin
+1011
+7
+pflegebevollmaechtig-
+te@bmg.bund.de
+http://www.pflegebe-
+vollmaechtigte.de
++49 30
+18441-3425
++49 30
+18441-3422
+Bildungs- und Wissen-
+schaftszentrum der
+Bundesfinanzverwal-
+tung
+Hauptadresse
+Gescherweg
+100
+Münster
+4816
+1
+poststelle@bwz.bund.
+de
+http://www.zoll.de
++49 251
+8670-0
++49 251
+8670-8666
+Bildungs- und Wissen-
+schaftszentrum der
+Bundesfinanzverwal-
+tung
+Dienstsitz
+Plessow
+Plessower
+Hauptstraße
+17
+Plessow
+1454
+2
+poststelle@bwz-
+pm.bund.de
+http://www.zoll.de
++49 3327
+467-0
++49 3327
+467-288, -
+299
+Bildungs- und Wissen-
+schaftszentrum der
+Bundesfinanzverwal-
+tung
+Dienstsitz Ro-
+stock
+Pressentin-
+straße 83
+Rostock
+1814
+7
+poststelle@bwz-
+hro.bund.de
+http://www.zoll.de
++49 381
+6596-459
++49 381
+6596-379
+Bildungs- und Wissen-
+schaftszentrum der
+Bundesfinanzverwal-
+tung
+Dienstsitz
+Sigmaringen
+Schmeier
+Straße 15
+Sigmarin-
+gen
+7248
+8
+poststelle@bwz-
+sig.bund.de
+http://www.zoll.de
++49 7571
+736-0
++49 7571
+736-200
+Bildungszentrum der
+Bundeswehr
+Hauptadresse
+Seckenhei-
+mer Landstra-
+ße 12
+Mannheim
+6816
+3
+bizbw@bundeswehr.or
+g
+http://www.bildungs-
+zentrum.bundeswehr.d
+e
++49 621
+4295-2115
++49 621
+4295-1316
+Bund der Vertriebe-
+nen e. V.
+Hauptadresse
+Godesberger
+Allee 72 - 74
+Bonn
+5317
+5
+info@bund-der-vertrie-
+benen.de
+http://www.bund-der-
+vertriebenen.de
++49 228
+81007-0
++49 228
+81007-52
+Bund deutscher Nord-
+schleswiger
+Hauptadresse
+Westerstra-
+ße 30
+Apenrade
+6200
+generalsekretariat@bd
+n.dk
+http://www.bdn.dk
++45 7462
+3833
+Bundes-Energiebeauf-
+tragter
+Hauptadresse
+Reitpietschu-
+fer 86-90
+Berlin
+1078
+5
+olaf.boettcher@bbr.bu
+nd.de
+http://www.bbsr.bund.
+de
++49 30
+18401-2770
++49 30
+18401-2779
+Bundesagentur für Ar-
+beit
+Hauptadresse
+Regensbur-
+ger Straße
+104
+Nürnberg
+9047
+8
+Zentrale@arbeits-
+agentur.de
+http://www.arbeits-
+agentur.de
++49 911
+179-0
++49 911
+179-2123
+Bundesagentur für Ar-
+beit - Regionaldirekti-
+on Baden-Württem-
+berg
+Hauptadresse
+Hölderlinstra-
+ße 36
+Stuttgart
+7017
+4
+Baden-Wuerttem-
+berg@arbeitsagentur.
+de
+http://www.arbeits-
+agentur.de
++49 711
+941-0
++49 711
+941-1640
+Bundesagentur für Ar-
+beit - Regionaldirekti-
+on Bayern
+Hauptadresse
+Thomas-
+Mann-Str. 50
+Nürnberg
+9047
+8
+Bayern@arbeitsagen-
+tur.de
+http://www.arbeits-
+agentur.de
++49 911
+179-0
++49 911
+179-4202
+Bundesagentur für Ar-
+beit - Regionaldirekti-
+on Berlin Brandenburg
+Hauptadresse
+Friedrichstra-
+ße 34
+Berlin
+1096
+9
+Berlin-
+Brandenburg@arbeits-
+agentur.de
+http://www.arbeits-
+agentur.de
++49 30
+55555
++49 30
+555599-
+4999
+Bundesagentur für Ar-
+beit - Regionaldirekti-
+on Hessen
+Hauptadresse
+Saonestraße
+2 - 4
+Frankfurt
+am Main
+6052
+8
+Hessen@arbeitsagen-
+tur.de
+http://www.arbeits-
+agentur.de
++49 69
+6670-0
++49 69
+6670-459
+Bundesagentur für Ar-
+beit - Regionaldirekti-
+on Niedersachsen-
+Bremen
+Hauptadresse
+Röpkestraße
+3
+Hannover
+3017
+3
+niedersachsen-bre-
+men@arbeitsagentur.d
+e
+http://www.arbeits-
+agentur.de
++49 511
+9885-0
++49 511
+9885-7777
+Bundesagentur für Ar-
+beit - Regionaldirekti-
+on Nord
+Hauptadresse
+Projensdor-
+fer Straße 82
+Kiel
+2410
+6
+Nord@arbeitsagentur.
+de
+http://www.arbeits-
+agentur.de
++49 431
+3395-0
++49 431
+3395-9999
+Bundesagentur für Ar-
+beit - Regionaldirekti-
+on Nordrhein-Westfa-
+len
+Hauptadresse
+Josef-Go-
+ckeln-Straße
+7
+Düssel-
+dorf
+4047
+4
+Nordrhein-
+Westfalen@arbeits-
+agentur.de
+http://www.arbeits-
+agentur.de
++49 211
+4306-0
++49 211
+4306-377
+Bundesagentur für Ar-
+beit - Regionaldirekti-
+on Rheinland-Pfalz
+Saarland
+Hauptadresse
+Eschberger
+Weg 68
+Saar-
+brücken
+6612
+1
+Rheinland-Pfalz-Saar-
+land@arbeitsagentur.d
+e
+http://www.arbeits-
+agentur.de
++49 681
+849-0
++49 681
+849-180
+Seite 5 von 80

@@ -1,0 +1,426 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Bundesamt für Sozia-
+le Sicherung
+Außenstelle
+Fulda
+Daimler-Benz
+-Straße 8
+Fulda
+3603
+9
+poststelle@bas.bund.d
+e
+http://www.bundes-
+amtsozialesicherung.d
+e
++49 661
+67931-0
++49 661
+67931-15
+Bundesamt für Sozia-
+le Sicherung
+Außenstelle
+Duisburg
+Königstraße
+57
+Duisburg
+4705
+1
+poststelle@bas.bund.d
+e
+http://www.bundes-
+amtsozialesicherung.d
+e
++49 203
+39342-0
++49 203
+39342-55
+Bundesamt für Sozia-
+le Sicherung
+Außenstelle
+Cloppenburg
+Hohe Tan-
+nen  10 - 14
+Cloppen-
+burg
+4966
+1
+poststelle@bas.bund.d
+e
+http://www.bundes-
+amtsozialesicherung.d
+e
++49 4471
+1807-0
++49 4471
+1807-45
+Bundesamt für Sozia-
+le Sicherung
+Außenstelle
+Berlin
+Fehrbelliner
+Platz 3
+Berlin
+1070
+7
+poststelle@bas.bund.d
+e
+http://www.bundes-
+amtsozialesicherung.d
+e
++49 30
+206328-0
++49 30
+206328-18,
++49 30
+206328-44
+Bundesamt für Strah-
+lenschutz
+Hauptadresse
+Willy-Brandt-
+Straße 5
+Salzgitter
+3822
+6
+ePost@bfs.de
+http://www.bfs.de
++49 30 18
+333-0
++49 30 18
+333-1885
+Bundesamt für Strah-
+lenschutz
+Dienststelle
+Berlin
+Köpenicker
+Allee 120-130
+Berlin
+1031
+8
+ePost@bfs.de
+http://www.bfs.de
++49 30 18
+333-0
++49 30 18
+333-4885
+Bundesamt für Strah-
+lenschutz
+Dienststelle
+Bonn
+Robert-Schu-
+man-Platz 3
+Bonn
+5317
+5
+ePost@bfs.de
+http://www.bfs.de
++49 22899
+305-3761
++49 22899
+305-3765
+Bundesamt für Strah-
+lenschutz
+Dienststelle
+Freiburg
+Rosastraße 9
+Freiburg
+7909
+8
+ePost@bfs.de
+http://www.bfs.de
++49 30 18
+333-6710
++49 30 18
+333-6751
+Bundesamt für Strah-
+lenschutz
+Dienststelle
+Neuherberg
+Ingolstädter
+Landstraße 1
+Neuher-
+berg
+8576
+4
+ePost@bfs.de
+http://www.bfs.de
++49 893
+160-30
++49 30 18
+333-6751
+Bundesamt für Strah-
+lenschutz
+Dienststelle
+Rendsburg
+Graf-von-
+Stauffenberg-
+Straße 13
+Rends-
+burg
+2476
+8
+ePost@bfs.de
+http://www.bfs.de
++49 4331
+1322-0
++49 30 18
+333-6751
+Bundesamt für Strah-
+lenschutz
+Dienststelle
+Schauinsland
+Schauins-
+landweg 7
+Oberried/
+Hofsgrund
+7925
+4
+ePost@bfs.de
+http://www.bfs.de
++49 4331
+1322-0
++49 30 18
+333-6751
+Bundesamt für Ver-
+braucherschutz und
+Lebensmittelsicherheit
+Hauptadresse
+Bundesallee
+51
+Braun-
+schweig
+3811
+6
+poststelle@bvl.bund.d
+e
+http://www.bvl.bund.de
++49 3018
+444-99999
+Bundesamt für Ver-
+braucherschutz und
+Lebensmittelsicherheit
+Dienstsitz
+Berlin-Mari-
+enfelde
+Diedersdor-
+fer Weg 1
+Berlin
+1227
+7
+poststelle@bvl.bund.d
+e
+http://www.bvl.bund.de
++49 30
+18445-8210
++49 30
+18445-8099
+Bundesamt für Ver-
+braucherschutz und
+Lebensmittelsicherheit
+Dienstsitz
+Berlin-Mitte-
+Mauerstraße
+Mauerstr. 39 -
+42
+Berlin
+1011
+7
+poststelle@bvl.bund.d
+e
+http://www.bvl.bund.de
++49 18444-
+00-0
++49 18444-
+89 99 9
+Bundesamt für Ver-
+braucherschutz und
+Lebensmittelsicherheit
+Dienstsitz
+Braun-
+schweig
+Messeweg 11
+- 12
+Braun-
+schweig
+3810
+4
+poststelle@bvl.bund.d
+e
+http://www.bvl.bund.de
++49 531
+299-3401
++49 531
+299-3002
+Bundesamt für Verfas-
+sungsschutz
+Hauptadresse
+Merianstraße
+100
+Köln
+5076
+5
+bfvinfo@verfassungs-
+schutz.de
+http://www.verfas-
+sungsschutz.de
++49 221
+792-0
++49 221
+792-2915
+Bundesamt für Wirt-
+schaft und Ausfuhr-
+kontrolle
+Hauptadresse
+Frankfurter
+Straße 29 -
+35
+Eschborn
+6576
+0
+Poststelle@bafa.bund.
+de
+http://www.bafa.de
++49 6196
+908-0
++49 6196
+908-1800
+Bundesamt für Wirt-
+schaft und Ausfuhr-
+kontrolle
+Aussenstelle
+Bochum
+Pieperstraße
+14 - 28
+Bochum
+4478
+9
+Poststelle@bafa.bund.
+de
+http://www.bafa.de
++49 6196
+908-0
++49 6196
+908-1800
+Bundesamt für Wirt-
+schaft und Ausfuhr-
+kontrolle
+Abschluss-
+prüferauf-
+sichtsstelle
+beim BAFA
+Uhlandstra-
+ße 88-90
+Berlin
+1071
+7
+Poststelle@bafa.bund.
+de
+http://www.bafa.de
++49 6196
+908-0
++49 6196
+908-1800
+Bundesamt für zentra-
+le Dienste und offene
+Vermögensfragen
+Hauptadresse
+DGZ-Ring 12
+Berlin
+1308
+6
+poststelle@badv.bund.
+de
+http://www.badv.bund.
+de
++49 3018
+7030-0
++49 30
+187030-
+1140
+Bundesamt für zentra-
+le Dienste und offene
+Vermögensfragen
+Dienstsitz
+Bad Homburg
+Saalburgstra-
+ße 155 - 157
+Bad Hom-
+burg
+v.d.Höhe
+6135
+0
+poststelle.hg@badv.bu
+nd.de
+http://www.badv.bund.
+de
++49 3018
+7030-0
++49 3018
+7030-3450
+Bundesamt für zentra-
+le Dienste und offene
+Vermögensfragen
+Dienstsitz
+Chemnitz
+Brückenstra-
+ße 10
+Chemnitz
+0911
+1
+poststelle.c@badv.bun
+d.de
+http://www.badv.bund.
+de
++49 3018
+7030-0
++49 3018
+7030-2609
+Bundesamt für zentra-
+le Dienste und offene
+Vermögensfragen
+Dienstsitz
+Cottbus
+Heinrich-
+Hertz-Straße
+2
+Cottbus
+0304
+4
+poststelle.cb@badv.bu
+nd.de
+http://www.badv.bund.
+de
++49 3018
+7030-0
++49 3018
+7030-2470
+Bundesamt für zentra-
+le Dienste und offene
+Vermögensfragen
+Dienstsitz Er-
+furt
+Ludwig-Er-
+hard-Ring  8
+Erfurt
+9909
+9
+poststelle.ef@badv.bu
+nd.de
+http://www.badv.bund.
+de
++49 3018
+7030-0
++49 3018
+7030-2808
+Seite 11 von 80

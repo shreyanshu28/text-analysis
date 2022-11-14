@@ -1,0 +1,398 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Bundeskasse
+Dienstort Halle
+Hauptadresse
+Merseburger
+Straße 196
+Halle
+0611
+0
+bk-
+hal.gzd@zoll.bund.de
+http://www.zrb.bund.d
+e
++49 228
+303-20300
++49 228
+303-20326
+Bundeskasse
+Dienstort Kiel
+Hauptadresse
+Kronshage-
+ner Weg 105
+Kiel
+2411
+6
+bk-
+ki.gzd@zoll.bund.de
+http://www.zrb.bund.d
+e
++49 431
+20083-3000
++49 431
+20083-3118
+Bundeskasse
+Dienstort Trier
+Hauptadresse
+Dasbachstra-
+ße 15
+Trier
+5429
+2
+bk-
+tr.gzd@zoll.bund.de
+http://www.zrb.bund.d
+e
++49 651
+1448-0
++49 651
+1448-1001
+Bundeskasse
+Dienstort Weiden
+Hauptadresse
+Moosbürger
+Straße 20
+Weiden
+9263
+7
+bk-
+wen.gzd@zoll.bund.de
+http://www.zrb.bund.d
+e
++49 228
+303-20550
++49 228
+303-20720
+Bundeskriminalamt
+Hauptadresse
+Thaerstraße
+11
+Wiesba-
+den
+6519
+3
+http://www.bka.de
++49 611 55-
+0
++49 611 55-
+12141
+Bundeslotsenkammer
+Hauptadresse
+Theodorstra-
+ße 42-90
+Hamburg
+2276
+1
+office@bundeslotsen-
+kammer.de
+http://www.bundeslot-
+senkammer.de
+Bundesministerium
+der Finanzen
+Hauptadresse
+Wilhelmstra-
+ße 97
+Berlin
+1011
+7
+Poststelle@bmf.bund.
+de
+http://www.bundesfi-
+nanzministerium.de
++49 3018
+682-0
++49 3018
+682-3260
+Bundesministerium
+der Finanzen
+Bundesfi-
+nanzakade-
+mie
+Willy-Brandt-
+Straße 10
+Brühl
+5032
+1
+BFA@bmf.bund.de
+http://www.bundesfi-
+nanzministerium.de
++49 22899
+682-5199
++49 22899
+682-5185
+Bundesministerium
+der Finanzen
+Dienstsitz
+Bonn
+Am Propst-
+hof 78 a
+Bonn
+5312
+1
+Poststelle@bmf.bund.
+de
+http://www.bundesfi-
+nanzministerium.de
++49 3018
+682-0
++49 3018
+682-4420
+Bundesministerium
+der Justiz
+Hauptadresse
+Mohrenstra-
+ße 37
+Berlin
+1011
+7
+http://www.bmj.de
++49 3018
+580-0
++49 3018
+580-9525
+Bundesministerium
+der Justiz
+Dienststelle
+Bonn
+Adenaueral-
+lee 99 - 103
+Bonn
+5311
+3
+http://www.bmj.de
++49 22899
+580-0
++49 22899
+580-8325
+Bundesministerium
+der Verteidigung
+Hauptadresse
+Fontainengra-
+ben 150
+Bonn
+5312
+3
+poststelle@bmvg.bund
+.de
+http://www.bmvg.de
++49 228
+9924-00
++49 228
+9924-45754
+Bundesministerium
+der Verteidigung
+Dienstsitz
+Berlin
+Stauffenberg-
+straße 18
+Berlin
+1078
+5
+BMVgBesucherdienst-
+Berlin@bmvg.bund.de
+http://www.bmvg.de
++49 30
+1824-24242
++49 30
+2300 3918
+Bundesministerium
+des Innern und für
+Heimat
+Hauptadresse
+Alt-Moabit
+140
+Berlin
+1055
+7
+poststelle@bmi.bund.d
+e
+http://www.bmi.bund.d
+e
++49 3018
+681-0
++49 3018
+681-12926
+Bundesministerium
+des Innern und für
+Heimat
+Dienstsitz
+Bonn
+Graurheindor-
+fer Straße
+198
+Bonn
+5311
+7
+poststelle@bmi.bund.d
+e
+http://www.bmi.bund.d
+e
++49 22899
+681-0
++49 3018
+681-12926
+Bundesministerium
+des Innern und für
+Heimat
+Dienstgebäu-
+de Bundes-
+haus
+Bundesallee
+216-218
+Berlin
+1071
+9
+poststelle@bmi.bund.d
+e
+http://www.bmi.bund.d
+e
++49 3018
+681-0
++49 3018
+681-12926
+Bundesministerium für
+Arbeit und Soziales
+Hauptadresse
+Wilhelmstra-
+ße 49
+Berlin
+1011
+7
+info@bmas.bund.de
+http://www.bmas.de
++49 3018
+527-0
++49 3018
+527-1830
+Bundesministerium für
+Arbeit und Soziales
+Dienstsitz
+Bonn
+Rochusstra-
+ße 1
+Bonn
+5312
+3
+poststelle@bmas.bund
+.de
+http://www.bmas.de
++49 22899
+527-0
++49 22899
+527-2965
+Bundesministerium für
+Bildung und For-
+schung
+Hauptadresse
+Heinemann-
+straße 2
+Bonn
+5317
+5
+information@bmbf.bun
+d.de
+http://www.bmbf.de
++49 228 99
+57-0
++49 228 99
+57-36 01
+Bundesministerium für
+Bildung und For-
+schung
+Dienstsitz
+Berlin
+Kapelle-Ufer
+1
+Berlin
+1011
+7
+bmbf@bmbf.bund.de
+http://www.bmbf.de
++49 3018
+57-0
++49 3018
+57-83601
+Bundesministerium für
+Digitales und Verkehr
+Hauptadresse
+Invalidenstra-
+ße 44
+Berlin
+1011
+5
+buergerinfo@bmvi.bun
+d.de
+http://www.bmdv.de
++49 3018
+300-0
++49 3018
+300-1942
+Bundesministerium für
+Digitales und Verkehr
+Dienstgebäu-
+de Bonn
+Robert-Schu-
+man-Platz 1
+Bonn
+5317
+5
+buergerinfo@bmvi.bun
+d.de
+http://www.bmdv.de
++49 228 99
+300-0
++49 228 99
+300-3428, -
+3429
+Bundesministerium für
+Digitales und Verkehr
+Oberprü-
+fungsamt für
+den höheren
+technischen
+Verwaltungs-
+dienst
+-Sonderstelle
+OPA beim
+BMDV-
+Robert-Schu-
+mann-Platz 1
+Bonn
+5317
+5
+buergerinfo@bmvi.bun
+d.de
+http://www.bmdv.de
++49 22899
+300-0
++49 22899
+300-3428, -
+3429
+Bundesministerium für
+Ernährung und Land-
+wirtschaft
+Hauptadresse
+Rochusstra-
+ße 1
+Bonn
+5312
+3
+poststelle@bmel.bund.
+de
+http://www.bmel.de
++49 228 9
+95 29-0
++49 228 9
+95 29-31 79
+Seite 16 von 80

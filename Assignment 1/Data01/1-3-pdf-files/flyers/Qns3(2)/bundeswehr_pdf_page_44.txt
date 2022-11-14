@@ -1,0 +1,404 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Gesellschaft für
+Schwerionenfor-
+schung mbH
+Helmholtz-In-
+stitut Mainz
+Johann-Joa-
+chim-Becher-
+weg 36
+Mainz
+5512
+8
+info@gsi.de
+http://www.gsi.de
++49 3641
+947-601
++49 3641
+947-602
+Gesellschaft für Versi-
+cherungswissenschaft
+und -gestaltung e. V.
+Hauptadresse
+Reinhardt-
+straße 34
+Berlin
+1011
+7
+info@gvg.org
+http://www.gvg.org
++49 30
+8561123-20
++49 30
+8561123-22
+Gesellschaft für Wehr-
+und Sicherheitspolitik
+e. V.
+Hauptadresse
+Wenzelgas-
+se 42
+Bonn
+5311
+1
+gfw-bonn@t-online.de
+http://www.gfw-ev.de
++49 228
+652556
++49 228
+658093
+GESIS - Leibniz-Insti-
+tut für Sozialwissen-
+schaften
+Hauptadresse
+Quadrat B 2,
+1
+Mannheim
+6815
+9
+gesis@gesis.org
+http://www.gesis.org
++49 621
+1246-0
++49 621
+1246-100
+GESIS - Leibniz-Insti-
+tut für Sozialwissen-
+schaften
+Standort Köln
+Unter Sach-
+senhausen 6-
+8
+Köln
+5066
+7
+gesis@gesis.org
+http://www.gesis.org
++49 221
+47694-0
++49 221
+47694-199
+GIGA German Institu-
+te of Global and Area
+Studies / Leibniz-Insti-
+tut für Globale und Re-
+gionale Studien
+Hauptadresse
+Neuer Jungf-
+ernstieg 21
+Hamburg
+2035
+4
+info@giga-hamburg.de
+http://www.giga-ham-
+burg.de
++49 40
+42825-593
++49 40
+42825-547
+gkv informatik
+Hauptadresse
+Lichtscheider
+Straße 89
+Wuppertal
+4228
+5
+info@gkvi.de
+http://www.gkvinforma-
+tik.de
++49 202
+6958-1102
++49 202
+6958-1109
+Goethe-Institut e. V.
+Hauptadresse
+Oskar-von-
+Miller-Ring 18
+München
+8033
+3
+info@goethe.de
+http://www.goethe.de
++49 89
+15921-0
++49 89
+15921-450
+Goethe-Institut e. V.
+Hauptstadt-
+büro Berlin
+Neue Schön-
+hauser Stra-
+ße 20
+Berlin
+1017
+8
+hauptstadtbuero@goet
+he.de
+http://www.goethe.de
++49 30
+25906-473
++49 30
+25906-565
+Hanns-Seidel-Stiftung
+e. V.
+Hauptadresse
+Lazarettstra-
+ße 33
+München
+8063
+6
+info@hss.de
+http://www.hss.de
++49 89
+1258-0
++49 89
+1258-356
+Hans-Böckler-Stiftung
+Hauptadresse
+Hans-Böck-
+ler-Straße 39
+Düssel-
+dorf
+4047
+6
+zentrale@boeckler.de
+http://www.boeckler.de
++49 211
+7778-0
++49 211
+7778-120
+Hauptzollamt Aachen
+Hauptadresse
+Eisenbahn-
+weg 18
+Aachen
+5206
+8
+poststelle.hza-aa-
+chen@zoll.bund.de
+http://www.zoll.de
++49 241
+9091-0
++49 241
+9091-1500
+Hauptzollamt Augs-
+burg
+Hauptadresse
+Prinzregen-
+tenplatz 3
+Augsburg
+8615
+0
+poststelle.hza-augs-
+burg@zoll.bund.de
+http://www.zoll.de
++49 821
+5012-0
++49 228
+303-98150
+Hauptzollamt Berlin
+Hauptadresse
+Mehring-
+damm 129c
+Berlin
+1096
+5
+poststelle.hza-
+berlin@zoll.bund.de
+http://www.zoll.de
++49 30
+69009-0
++49 30
+69009-209
+Hauptzollamt Bielefeld
+Hauptadresse
+Werner-Bock-
+Straße 25 -
+29
+Bielefeld
+3360
+2
+poststelle.hza-biele-
+feld@zoll.bund.de
+http://www.zoll.de
++49 521
+3047-0
++49 521
+3047-9010
+Hauptzollamt Bielefeld
+Dienstsitz Pa-
+derborn
+Am Hoppen-
+hof 30
+Paderborn
+3310
+4
+poststelle@hzapb.bfin
+v.de
+http://www.zoll.de
++49 5251
+87915-0
++49 5251
+87915-100
+Hauptzollamt Braun-
+schweig
+Hauptadresse
+Kasernen-
+straße 17
+Braun-
+schweig
+3810
+6
+poststelle.hza-braun-
+schweig@zoll.bund.de
+http://www.zoll.de
++49 531
+3809-0
++49 531
+3809-200
+Hauptzollamt Bremen
+Hauptadresse
+Konsul-Smidt
+-Straße 29
+Bremen
+2821
+7
+poststelle.hza-bre-
+men@zoll.bund.de
+http://www.zoll.de
++49 421
+3897-1141
++49 421
+3897-1199
+Hauptzollamt Darm-
+stadt
+Hauptadresse
+Hilpertstraße
+20 a
+Darmstadt
+6429
+5
+poststelle.hza-darm-
+stadt@zoll.bund.de
+http://www.zoll.de
++49 6151
+9180-0
++49 6151
+9180-1900
+Hauptzollamt Dort-
+mund
+Hauptadresse
+Semerteich-
+straße 47 - 49
+Dortmund
+4414
+1
+poststelle.hza-dort-
+mund@zoll.bund.de
+http://www.zoll.de
++49 231
+9571-0
++49 231
+9571-1999
+Hauptzollamt Dresden
+Hauptadresse
+Schützenhö-
+he 24 - 26
+Dresden
+0109
+9
+poststelle.hza-dres-
+den@zoll.bund.de
+http://www.zoll.de
++49 351
+4644-0
++49 351
+4644-3900
+Hauptzollamt Dresden
+Dienstsitz
+Leipzig
+Hamburger
+Straße 5
+Leipzig
+0412
+9
+poststelle@hzal.bfinv.
+de
+http://www.zoll.de
++49 341
+4919-0
++49 341
+4919-101
+Hauptzollamt Duisburg
+Hauptadresse
+Köhnenstaße
+5 - 11
+Duisburg
+4705
+1
+poststelle.hza-duis-
+burg@zoll.bund.de
+http://www.zoll.de
++49 203
+7134-0
++49 203
+7134-111
+Hauptzollamt Düssel-
+dorf
+Hauptadresse
+Am Stufstock
+1 - 7
+Düssel-
+dorf
+4023
+1
+poststelle.hza-dues-
+seldorf@zoll.bund.de
+http://www.zoll.de
++49 211
+2101-0
++49 211
+2101-222
+Hauptzollamt Erfurt
+Hauptadresse
+Am Tannen-
+wäldchen 50
+Erfurt
+9909
+6
+poststelle.hza-
+erfurt@zoll.bund.de,
+poststelle.hza-
+erfurt@zoll.de-mail.de
+http://www.zoll.de
++49 361
+60176-0
++49 361
+60176-910
+Hauptzollamt Frank-
+furt (Oder)
+Hauptadresse
+Kopernikuss-
+traße 25
+Frankfurt
+(Oder)
+1523
+6
+poststelle.hza-
+ff@zoll.bund.de
+http://www.zoll.de
++49 335
+563-0
++49 335
+563-1099
+Seite 44 von 80

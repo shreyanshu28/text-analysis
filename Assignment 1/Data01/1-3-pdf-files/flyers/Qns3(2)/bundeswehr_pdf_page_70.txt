@@ -1,0 +1,395 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Wasserstraßen- und
+Schifffahrtsamt Mittel-
+landkanal/Elbe-Seiten-
+kanal (Dienstort Uel-
+zen)
+Außenbezirk
+Haldensleben
+Kronesruhe
+27
+Haldens-
+leben
+3934
+0
+abz-
+haldensleben@wsv.bu
+nd.de
+http://www.wsa-mittel-
+landkanal-elbe-seiten-
+kanal.wsv.de
++49 3904
+6603-0
++49 581
+9079-1177
+Wasserstraßen- und
+Schifffahrtsamt Mittel-
+landkanal/Elbe-Seiten-
+kanal (Dienstort Uel-
+zen)
+Bauhof
+Scharnebeck
+Am Unteren
+Vorhafen
+Scharne-
+beck
+2137
+9
+bhf-
+scharnebeck@wsv.bu
+nd.de
+http://www.wsa-mittel-
+landkanal-elbe-seiten-
+kanal.wsv.de
++49 4136
+9126-0
++49 581
+9079-1177
+Wasserstraßen- und
+Schifffahrtsamt Mosel-
+Saar-Lahn (Dienstort
+Koblenz)
+Hauptadresse
+Schartwie-
+senweg 4
+Koblenz
+5607
+0
+wsa-mosel-saar-
+lahn@wsv.bund.de
+http://www.wsa-mosel-
+saar-lahn.wsv.de
++49 261
+9819-0
++49 261
+9819-3155
+Wasserstraßen- und
+Schifffahrtsamt Mosel-
+Saar-Lahn (Dienstort
+Koblenz)
+Außenbezirk
+Wetzlar
+Uferstraße 8a
+Wetzlar
+3557
+6
+abz-
+wetzlar@wsv.bund.de
+http://www.wsa-mosel-
+saar-lahn.wsv.de
++49 6441
+44799-0
++49 6441
+44799-25
+Wasserstraßen- und
+Schifffahrtsamt Mosel-
+Saar-Lahn (Dienstort
+Koblenz)
+Außenbezirk
+Diez
+Oranienstei-
+ner Straße 3
+Diez
+6558
+2
+abz-
+diez@wsv.bund.de
+http://www.wsa-mosel-
+saar-lahn.wsv.de
++49 6432
+9528-0
++49 6432
+9528-25
+Wasserstraßen- und
+Schifffahrtsamt Mosel-
+Saar-Lahn (Dienstort
+Koblenz)
+Außenbezirk
+Brodenbach
+Moselufer 38
+Broden-
+bach
+5633
+2
+abz-
+brodenbach@wsv.bun
+d.de
+http://www.wsa-mosel-
+saar-lahn.wsv.de
++49 2605
+9640-0
++49 2605
+9640-15
+Wasserstraßen- und
+Schifffahrtsamt Mosel-
+Saar-Lahn (Dienstort
+Koblenz)
+Außenbezirk
+Cochem
+Stadionstra-
+ße 8
+Cochem
+5681
+2
+abz-
+cochem@wsv.bund.de
+http://www.wsa-mosel-
+saar-lahn.wsv.de
++49 2671
+6023-0
++49 2671
+6023-15
+Wasserstraßen- und
+Schifffahrtsamt Mosel-
+Saar-Lahn (Dienstort
+Koblenz)
+Außenbezirk
+Bullay
+Am grünen
+Weg
+Bullay
+5685
+9
+abz-
+bullay@wsv.bund.de
+http://www.wsa-mosel-
+saar-lahn.wsv.de
++49 6542
+9379-0
++49 6542
+9379-15
+Wasserstraßen- und
+Schifffahrtsamt Mosel-
+Saar-Lahn (Dienstort
+Saarbrücken)
+Hauptadresse
+Bismarckstra-
+ße 133
+Saar-
+brücken
+6612
+1
+wsa-mosel-saar-
+lahn@wsv.bund.de
+http://www.wsa-mosel-
+saar-lahn.wsv.de
++49 681
+6002-0
++49 681
+6002-155
+Wasserstraßen- und
+Schifffahrtsamt Mosel-
+Saar-Lahn-Dienstort-
+Trier
+Hauptadresse
+Pacelliufer 16
+Trier
+5429
+0
+wsa-mosel-saar-
+lahn@wsv.bund.de
+http://www.wsa-mosel-
+saar-lahn.wsv.de
++49 651
+3609-0
++49 651
+3609-155
+Wasserstraßen- und
+Schifffahrtsamt Mosel-
+Saar-Lahn-Dienstort-
+Trier
+Außenbezirk
+Bernkastel-
+Kues
+Am Hafen 1
+Bernkas-
+tel-Kues
+5447
+0
+abz-
+bernkastelkues@wsv.
+bund.de
+http://www.wsa-mosel-
+saar-lahn.wsv.de
++49 6531
+9637-0
++49 6531
+9637-15
+Wasserstraßen- und
+Schifffahrtsamt Mosel-
+Saar-Lahn-Dienstort-
+Trier
+Außenbezirk
+Detzem
+An der Stau-
+stufe
+Detzem
+5434
+0
+abz-
+detzem@wsv.bund.de
+http://www.wsa-mosel-
+saar-lahn.wsv.de
++49 6507
+9381-0
++49 6507
+9381-14
+Wasserstraßen- und
+Schifffahrtsamt Mosel-
+Saar-Lahn-Dienstort-
+Trier
+Außenbezirk
+Wincheringen
+Bahnhofstra-
+ße 2
+Winche-
+ringen
+5445
+7
+abz-
+wincheringen@wsv.bu
+nd.de
+http://www.wsa-mosel-
+saar-lahn.wsv.de
++49 6583
+99393-0
++49 6583
+99393-15
+Wasserstraßen- und
+Schifffahrtsamt Mosel-
+Saar-Lahn-Dienstort-
+Trier
+Bauhof Trier
+An der Stau-
+stufe 25
+Trier
+5429
+4
+bhf-trier@wsv.bund.de
+http://www.wsa-mosel-
+saar-lahn.wsv.de
++49 651
+3609-0
++49 651
+3609-157
+Wasserstraßen- und
+Schifffahrtsamt Necka
+(Dienstort Stuttgart)
+Hauptadresse
+Heilbronner
+Straße 190
+Stuttgart
+7019
+1
+wsa-
+neckar@wsv.bund.de
+http://www.wsa-
+neckar.wsv.de
++49 711
+25552-0
++49 711
+25552-155
+Wasserstraßen- und
+Schifffahrtsamt Necka
+(Dienstort Stuttgart)
+Außenbezirk
+Lauffen
+Otto-Konz-
+Strasse 5
+Lauffen
+7434
+8
+wsa-
+neckar@wsv.bund.de
+http://www.wsa-
+neckar.wsv.de
++49 7133
+2006-0
++49 7133
+2006-55
+Wasserstraßen- und
+Schifffahrtsamt Necka
+(Dienstort Stuttgart)
+Außenbezirk
+Marbach
+Äusseres Tal
+1
+Bennin-
+gen
+7172
+6
+wsa-
+neckar@wsv.bund.de
+http://www.wsa-
+neckar.wsv.de
++49 7144
+8886-0
++49 7144
+8886-55
+Wasserstraßen- und
+Schifffahrtsamt Necka
+(Dienstort Stuttgart)
+Außenbezirk
+Stuttgart
+Am Westkai
+65
+Stuttgart
+7032
+9
+wsa-
+neckar@wsv.bund.de
+http://www.wsa-
+neckar.wsv.de
++49 711
+25552-433
++49 711
+25552-455
+Wasserstraßen- und
+Schifffahrtsamt Necka
+(Dienstort Stuttgart)
+Bauhof Heil-
+bronn
+Mannheimer-
+strasse 36
+Heilbronn
+7407
+2
+wsa-
+neckar@wsv.bund.de
+http://www.wsa-
+neckar.wsv.de
++49 7131
+79774-0
++49 7131
+79774-55
+Wasserstraßen- und
+Schifffahrtsamt Nord-
+see-Ostsee-Kanal
+(Dienstort Brunsbüttel)
+Hauptadresse
+Alte Zentrale
+4
+Brunsbüt-
+tel
+2554
+1
+wsa-nord-ostsee-ka-
+nal@wsv.bund.de
+http://www.wsa-nord-
+ostsee-kanal.wsv.de
++49 4852
+885-0
++49 4852
+885-408
+Seite 70 von 80

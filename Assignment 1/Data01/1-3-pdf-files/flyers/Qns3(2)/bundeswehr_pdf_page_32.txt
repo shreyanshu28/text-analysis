@@ -1,0 +1,420 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Deutsches Zentrum für
+Luft- und Raumfahrt e.
+V.
+Standort
+Braun-
+schweig
+Lilienthal-
+platz 7
+Braun-
+schweig
+3810
+8
+http://www.dlr.de
++49 531
+295-0
++49 531
+295-2271
+Deutsches Zentrum für
+Luft- und Raumfahrt e.
+V.
+Standort Göt-
+tingen
+Bunsenstra-
+ße 10
+Göttingen
+3707
+3
+http://www.dlr.de
++49 551
+709-0
++49 551
+709-2101
+Deutsches Zentrum für
+Luft- und Raumfahrt e.
+V.
+Standort
+Lampolds-
+hausen
+Lampolds-
+hausen
+Hardthau-
+sen
+7423
+9
+http://www.dlr.de
++49 6298
+28-0
++49 6298
+28-112
+Deutsches Zentrum für
+Luft- und Raumfahrt e.
+V.
+Standort
+Oberpfaffen-
+hofen
+Münchener
+Straße 20
+Weßling
+8223
+4
+http://www.dlr.de
++49 8153
+28-0
++49 8153
+28-2243
+Deutsches Zentrum für
+Luft- und Raumfahrt e.
+V.
+Standort
+Stuttgart
+Pfaffen-
+waldring 38 -
+40
+Stuttgart
+7056
+9
+http://www.dlr.de
++49 711
+6862-0
++49 711
+6862-349
+Deutsches Zentrum für
+Neurodegenerative Er-
+krankungen e. V.
+Hauptadresse
+Sigmund-
+Freud-Straße
+25
+Bonn
+5312
+7
+http://www.dzne.de
++49 228
+308990
+Deutsches Zentrum für
+Neurodegenerative Er-
+krankungen e. V.
+Standort Ber-
+lin
+Charitéplatz 1
+Berlin
+1011
+7
+http://www.dzne.de
++49 30 450-
+539124
+Deutsches Zentrum für
+Neurodegenerative Er-
+krankungen e. V.
+Standort
+Dresden
+Arnoldstraße
+18
+Dresden
+0130
+7
+http://www.dzne.de
++49 351
+210-46312
++49 351
+210-46399
+Deutsches Zentrum für
+Neurodegenerative Er-
+krankungen e. V.
+Standort Göt-
+tingen
+Grisebach-
+straße 5
+Göttingen
+3707
+7
+http://www.dzne.de
++49 551 39-
+20287
++49 351
+210-46399
++49 551 39
+20288
+Deutsches Zentrum für
+Neurodegenerative Er-
+krankungen e. V.
+Standort
+Magdeburg
+Leipziger
+Starße 3 - 4
+Magde-
+burg
+3912
+0
+http://www.dzne.de
++49 391 67-
+24531
++49 391 67-
+24532
++49 551 39
+20288
+Deutsches Zentrum für
+Neurodegenerative Er-
+krankungen e. V.
+Standort
+München
+Feodor-Ly-
+nen-Straße
+17
+München
+8137
+7
+http://www.dzne.de
++49 89
+4400-46507
++49 89
+4400-46508
++49 551 39
+20288
+Deutsches Zentrum für
+Neurodegenerative Er-
+krankungen e. V.
+Standort Ro-
+stock
+Gehlsheimer
+Straße  20
+Rostock
+1814
+7
+http://www.dzne.de
++49 381
+494-9471
++49 381
+494-9472
++49 551 39
+20288
+Deutsches Zentrum für
+Neurodegenerative Er-
+krankungen e. V.
+Standort Tü-
+bingen
+Otfried-Mül-
+ler-Straße 23
+Tübingen
+7207
+6
+http://www.dzne.de
++49 7071
+2987641
++49 7071
+294796
++49 551 39
+20288
+Deutsches Zentrum für
+Neurodegenerative Er-
+krankungen e. V.
+Standort Wit-
+ten
+Stockumer
+Straße 12
+Witten
+5845
+3
+http://www.dzne.de
++49 2302
+926-237
++49 2302
+926-239
++49 551 39
+20288
+DFS Deutsche Flugsi-
+cherung GmbH
+Hauptadresse
+Am DFS-
+Campus 10
+Langen
+6322
+5
+info@dfs.de
+http://www.dfs.de
++49 6103
+707-0
++49 6103
+707-1396
+DFS Deutsche Flugsi-
+cherung GmbH
+Nebenstelle
+Aeronautical
+Information
+Service Cen-
+tre
+Stützeläcker-
+weg 12 - 14
+Frankfurt
+am Main
+6048
+9
+info@dfs.de
+http://www.dfs.de
++49 69
+78072-600
++49 6103
+707-1396
+DFS Deutsche Flugsi-
+cherung GmbH
+Nebenstelle
+Akademie
+Langen
+Am DFS-
+Campus 4
+Langen
+6322
+5
+info@dfs.de
+http://www.dfs.de
++49 69
+78072-600
++49 6103
+707-1396
+DFS Deutsche Flugsi-
+cherung GmbH
+Nebenstelle
+Center-Nie-
+derlassung
+Karlsruhe
+Rintheimer
+Querallee 6
+Karlsruhe
+7613
+1
+info@dfs.de
+http://www.dfs.de
++49 69
+78072-600
++49 6103
+707-1396
+DFS Deutsche Flugsi-
+cherung GmbH
+Nebenstelle
+Center-Nie-
+derlassung
+Maastricht
+Horsterweg
+11
+AC Maas-
+tricht-Air-
+port
+6199
+info@dfs.de
+http://www.dfs.de
++31 43
+3661-317
++49 6103
+707-1396
+DFS Deutsche Flugsi-
+cherung GmbH
+Nebenstelle
+Center-Nie-
+derlassung
+München
+Nordallee 34
+München
+8535
+6
+info@dfs.de
+http://www.dfs.de
++49 89
+9780-0
++49 6103
+707-1396
+DFS Deutsche Flugsi-
+cherung GmbH
+Nebenstelle
+Energiezen-
+trale Langen
+Am DFS-
+Campus 3
+Langen
+6322
+5
+info@dfs.de
+http://www.dfs.de
++49 89
+9780-0
++49 6103
+707-1396
+DFS Deutsche Flugsi-
+cherung GmbH
+Nebenstelle
+Forschungs-
+zentrum Lan-
+gen
+Am DFS-
+Campus 5
+Langen
+6322
+5
+info@dfs.de
+http://www.dfs.de
++49 89
+9780-0
++49 6103
+707-1396
+DFS Deutsche Flugsi-
+cherung GmbH
+Nebenstelle
+Logistikzen-
+trum Langen
+Am DFS-
+Campus 2
+Langen
+6322
+5
+info@dfs.de
+http://www.dfs.de
++49 89
+9780-0
++49 6103
+707-1396
+DFS Deutsche Flugsi-
+cherung GmbH
+Nebenstelle
+Systemhaus
+Langen
+Am DFS-
+Campus 7
+Langen
+6322
+5
+info@dfs.de
+http://www.dfs.de
++49 89
+9780-0
++49 6103
+707-1396
+DFS Deutsche Flugsi-
+cherung GmbH
+Nebenstelle
+Tower-/ Cen-
+ter-Niederlas-
+sung Bremen
+Flughafen-
+damm 45
+Bremen
+2819
+9
+info@dfs.de
+http://www.dfs.de
++49 421
+5372-0
++49 6103
+707-1396
+Seite 32 von 80

@@ -1,0 +1,397 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Wasserstraßen- und
+Schifffahrtsamt Donau
+MDK (Dienstort Nürn-
+berg)
+Außenbezirk
+Deggendorf
+Schiffmeister-
+weg 16
+Deggen-
+dorf
+9446
+9
+abz-
+deggendorf@wsv.bun
+d.de
+http://www.wsa-donau-
+mdk.wsv.de
++49 991
+372128-0
++49 991
+372128-505
+Wasserstraßen- und
+Schifffahrtsamt Donau
+MDK (Dienstort Nürn-
+berg)
+Außenbezirk
+Passau
+Schleusen-
+weg 6
+Passau
+9403
+4
+abz-
+passau@wsv.bund.de
+http://www.wsa-donau-
+mdk.wsv.de
++49 851
+95519-0
++49 851
+95519-505
+Wasserstraßen- und
+Schifffahrtsamt Donau
+MDK (Dienstort Nürn-
+berg)
+Bauhof
+Passau
+Schleusen-
+weg 4
+Passau
+9403
+4
+bauhof-
+passau@wsv.bund.de
+http://www.wsa-donau-
+mdk.wsv.de
++49 851
+95519-533
++49 851
+95519-585
+Wasserstraßen- und
+Schifffahrtsamt Donau
+MDK (Dienstort Nürn-
+berg)
+Außenbezirk
+Neuses
+Am Wehr 1
+Eggols-
+heim
+9133
+0
+abz-
+neuses@wsv.bund.de
+http://www.wsa-donau-
+mdk.wsv.de
++49 9545
+44550-0
++49 9545
+44550-505
+Wasserstraßen- und
+Schifffahrtsamt Donau
+MDK (Dienstort Nürn-
+berg)
+Außenbezirk
+Nürnberg
+Aischweg 60
+Nürnberg
+9044
+9
+abz-
+nuernberg@wsv.bund.
+de
+http://www.wsa-donau-
+mdk.wsv.de
++49 911
+67096-511
++49 911
+67096-505
+Wasserstraßen- und
+Schifffahrtsamt Donau
+MDK (Dienstort Nürn-
+berg)
+Außenbezirk
+Hilpoltstein
+Am Main-Do-
+nau-Kanal 1
+Hilpolt-
+stein
+9116
+1
+abz-
+hilpoltstein@wsv.bund
+.de
+http://www.wsa-donau-
+mdk.wsv.de
++49 9174
+4732-0
++49 9174
+4732-505
+Wasserstraßen- und
+Schifffahrtsamt Donau
+MDK (Dienstort Nürn-
+berg)
+Außenbezirk
+Riedenburg
+Ländenstr. 18
+Rieden-
+burg
+9333
+9
+abz-
+riedenburg@wsv.bund
+.de
+http://www.wsa-donau-
+mdk.wsv.de
++49 9442
+9186-0
++49 9442
+9186-505
+Wasserstraßen- und
+Schifffahrtsamt Donau
+MDK (Dienstort Nürn-
+berg)
+Bauhof Nürn-
+berg
+Aischweg 70
+Nürnberg
+9044
+9
+bhf-
+nuernberg@wsv.bund.
+de
+http://www.wsa-donau-
+mdk.wsv.de
++49 911
+67096-540
++49 911
+67096-541
+Wasserstraßen- und
+Schifffahrtsamt Donau
+MDK (Dienstort Re-
+gensburg)
+Hauptadresse
+Erlanger Stra-
+ße 1
+Regens-
+burg
+9305
+9
+wsa-donau-
+mdk@wsv.bund.de
+http://www.wsa-donau-
+mdk.wsv.de
++49 941
+8109-0
++49 941
+8109-101
+Wasserstraßen- und
+Schifffahrtsamt Elbe
+(Dienstort Dresden)
+Hauptadresse
+Moritzburger
+Straße 1
+Dresden
+0112
+7
+wsa-
+elbe@wsv.bund.de
+http://www.wsa-
+elbe.wsv.de
++49 351
+8432-50
++49 351
+8432-381
+Wasserstraßen- und
+Schifffahrtsamt Elbe
+(Dienstort Dresden)
+Außenbezirk
+Dresden
+Moritzburger
+Straße 1
+Dresden
+0112
+7
+wsa-
+elbe@wsv.bund.de
+http://www.wsa-
+elbe.wsv.de
++49 351
+8432-360
++49 351
+8432-368
+Wasserstraßen- und
+Schifffahrtsamt Elbe
+(Dienstort Dresden)
+Außenbezirk
+Mühlberg
+Am Hafen 1
+Mühlberg
+0493
+1
+wsa-
+elbe@wsv.bund.de
+http://www.wsa-
+elbe.wsv.de
++49 35342
+803-31
++49 35342
+803-30
+Wasserstraßen- und
+Schifffahrtsamt Elbe
+(Dienstort Dresden)
+Außenbezirk
+Torgau
+Loßwiger
+Weg 25
+Torgau
+0486
+0
+wsa-
+elbe@wsv.bund.de
+http://www.wsa-
+elbe.wsv.de
++49 3421
+7295-11
++49 +49
+3421 7295-
+30
+Wasserstraßen- und
+Schifffahrtsamt Elbe
+(Dienstort Dresden)
+Außenbezirk
+Wittenberg
+Dessauer
+Straße 2a
+Luther-
+stadt Wit-
+tenberg
+0688
+6
+wsa-
+elbe@wsv.bund.de
+http://www.wsa-
+elbe.wsv.de
++49 3491
+434-0
++49 3491
+434-381
+Wasserstraßen- und
+Schifffahrtsamt Elbe
+(Dienstort Magdeburg)
+Hauptadresse
+Fürstenwall-
+straße 19/20
+Magde-
+burg
+3910
+4
+wsa-
+elbe@wsv.bund.de
+http://www.wsa-
+elbe.wsv.de
++49 391
+530-0
++49 391
+530-2417
+Wasserstraßen- und
+Schifffahrtsamt Elbe
+(Dienstort Magdeburg)
+Außenbezirk
+Niegripp
+Neue Schleu-
+se 5
+39288
+Burg / OT
+Niegripp
+3928
+8
+abz-
+niegripp@wsv.bund.de
+http://www.wsa-
+elbe.wsv.de
++49 39222
+83205
++49 39222
+83200
+Wasserstraßen- und
+Schifffahrtsamt Elbe
+(Dienstort Magdeburg)
+Außenbezirk
+Tangermünde
+Carlbau 2
+Tanger-
+münde
+3959
+0
+bz-
+tangermuende@wsv.b
+und.de
+http://www.wsa-
+elbe.wsv.de
++49 39322
+73311
++49 39322
+73333
+Wasserstraßen- und
+Schifffahrtsamt Elbe
+(Dienstort Magdeburg)
+Außenbezirk
+Wittenberge
+Hafenstraße
+9
+Wittenber-
+ge
+1932
+2
+abz-
+wittenberge@wsv.bun
+d.de
+http://www.wsa-
+elbe.wsv.de
++49 3877
+9234333
++49 3877
+9234323
+Wasserstraßen- und
+Schifffahrtsamt Elbe
+(Dienstort Magdeburg)
+Außenbezirk
+Bernburg
+Dr-John-Ritt-
+meister-Stra-
+ße 10b
+Bernburg
+0640
+6
+abz-
+bernburg@wsv.bund.d
+e
+http://www.wsa-
+elbe.wsv.de
++49 3471
+346090
++49 3471
+3460930
+Wasserstraßen- und
+Schifffahrtsamt Elbe
+(Dienstort Magdeburg)
+Außenbezirk
+Merseburg
+Meuschauer
+Straße 8
+Merse-
+burg
+0621
+7
+abz-
+merseburg@wsv.bund
+.de
+http://www.wsa-
+elbe.wsv.de
++49 3461
+331653
++49 3461
+331650
+Seite 66 von 80

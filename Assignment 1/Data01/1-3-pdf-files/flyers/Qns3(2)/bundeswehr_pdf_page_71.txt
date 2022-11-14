@@ -1,0 +1,403 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Wasserstraßen- und
+Schifffahrtsamt Nord-
+see-Ostsee-Kanal
+(Kiel-Holtenau)
+Hauptadresse
+Schleusenin-
+sel 2
+Kiel
+2415
+9
+wsa-nord-ostsee-ka-
+nal@wsv.bund.de
+http://www.wsa-nord-
+ostsee-kanal.wsv.de
++49 431
+3603-0
++49 431
+3603-414
+Wasserstraßen- und
+Schifffahrtsamt Nord-
+see-Ostsee-Kanal
+(Kiel-Holtenau)
+Außenbezirk
+Rendsburg
+Am alten
+Schützenhof
+9
+Rends-
+burg
+2476
+8
+abz1-
+rendsburg@wsv.bund.
+de
+http://www.wsa-nord-
+ostsee-kanal.wsv.de
++49 4331
+594-0
++49 4331
+594-203
+Wasserstraßen- und
+Schifffahrtsamt Nord-
+see-Ostsee-Kanal
+(Kiel-Holtenau)
+Außenbezirk
+Kiel-Holtenau
+Schleusenin-
+sel 16
+Kiel
+2415
+9
+abz2-kiel-
+holtenau@wsv.bund.d
+e
+http://www.wsa-nord-
+ostsee-kanal.wsv.de
++49 431
+3603-0
++49 431
+3603-276
+Wasserstraßen- und
+Schifffahrtsamt Nord-
+see-Ostsee-Kanal
+(Kiel-Holtenau)
+Bauhof
+Rendsburg
+Blenkinsop-
+straße 7
+Rends-
+burg
+2476
+8
+bhf-
+rendsburg@wsv.bund.
+de
+http://www.wsa-nord-
+ostsee-kanal.wsv.de
++49 4331
+594-0
++49 4331
+594-449
+Wasserstraßen- und
+Schifffahrtsamt Ober-
+rhein (Dienstort Frei-
+burg)
+Hauptadresse
+Stefan-Meier-
+Straße 4-6
+Freiburg
+7910
+4
+wsa-
+oberrhein@wsv.bund.
+de
+http://www.wsa-ober-
+rhein.wsv.de
++49 761
+2718-0
++49 761
+2718-3155
+Wasserstraßen- und
+Schifffahrtsamt Ober-
+rhein (Dienstort Frei-
+burg)
+Außenbezirk
+Breisach
+Rheinufer-
+straße 4
+Breisach
+7920
+6
+abz-
+breisach@wsv.bund.d
+e
+http://www.wsa-ober-
+rhein.wsv.de
++49 07667
+90663-0
++49 7667
+90663-155
+Wasserstraßen- und
+Schifffahrtsamt Ober-
+rhein (Dienstort Frei-
+burg)
+Außenbezirk
+Kehl
+Am Yachtha-
+fen 1
+Kehl
+7769
+4
+abz-
+kehl@wsv.bund.de
+http://www.wsa-ober-
+rhein.wsv.de
++49 7851
+48566-0
++49 7851
+48566-155
+Wasserstraßen- und
+Schifffahrtsamt Ober-
+rhein (Dienstort Frei-
+burg)
+Außenbezirk
+Iffezheim
+An der Stau-
+stufe 15
+Iffezheim
+7647
+3
+abz-
+iffezheim@wsv.bund.d
+e
+http://www.wsa-ober-
+rhein.wsv.de
++49 7229
+18512-0
++49 7229
+18512-555
+Wasserstraßen- und
+Schifffahrtsamt Ober-
+rhein (Dienstort Frei-
+burg)
+Bauhof Iffez-
+heim
+An der Stau-
+stufe 25
+Iffezheim
+7647
+3
+bhf-
+iffezheim@wsv.bund.d
+e
+http://www.wsa-ober-
+rhein.wsv.de
++49 7229
+18512-220
++49 7229
+18512-155
+Wasserstraßen- und
+Schifffahrtsamt Ober-
+rhein (Dienstort Mann-
+heim)
+Hauptadresse
+C8, 3
+Mannheim
+6815
+9
+wsa-
+oberrhein@wsv.bund.
+de
+http://www.wsa-ober-
+rhein.wsv.de
++49 621
+1505-0
++49 621
+1505-155
+Wasserstraßen- und
+Schifffahrtsamt Ober-
+rhein (Dienstort Mann-
+heim)
+Außenbezirk
+Karlsruhe
+Maxau am
+Rhein 14
+Karlsruhe
+7618
+7
+ABz-
+Karlsruhe@wsv.bund.
+de
+http://www.wsa-ober-
+rhein.wsv.de
++49 721
+56506-0
++49 721
+56506-39
+Wasserstraßen- und
+Schifffahrtsamt Ober-
+rhein (Dienstort Mann-
+heim)
+Außenbezirk
+Speyer
+Im Hafenbe-
+cken 2
+Speyer
+6734
+6
+abz-
+speyer@wsv.bund.de
+http://www.wsa-ober-
+rhein.wsv.de
++49 6232
+6061-0
++49 6232
+6061-39
+Wasserstraßen- und
+Schifffahrtsamt Ober-
+rhein (Dienstort Mann-
+heim)
+Außenbezirk
+Worms/Op-
+penheim
+Floßhafen-
+straße  11
+Worms
+6754
+7
+abz-
+worms@wsv.bund.de
+http://www.wsa-ober-
+rhein.wsv.de
++49 6241
+6535-0
++49 6241
+6535-39
+Wasserstraßen- und
+Schifffahrtsamt Ober-
+rhein (Dienstort Mann-
+heim)
+Außenstelle
+Oppenheim
+Fährstraße 2
+Oppen-
+heim
+5527
+6
+Ast-
+Oppenheim@wsv.bun
+d.de
+http://www.wsa-ober-
+rhein.wsv.de
++49 6133
+9406-0
++49 6133
+9406-39
+Wasserstraßen- und
+Schifffahrtsamt Oder-
+Havel
+Hauptadresse
+Schneide-
+mühlenweg
+21
+Eberswal-
+de
+1622
+5
+wsa-oder-
+havel@wsv.bund.de
+http://www.wsa-oder-
+havel.wsv.de
++49 3334
+276-0
++49 3334
+276-171
+Wasserstraßen- und
+Schifffahrtsamt Oder-
+Havel
+Außenbezirk
+Oranienburg
+Heidelberger
+Str. 35
+Oranien-
+burg
+1651
+5
+wsa-oder-
+havel@wsv.bund.de
+http://www.wsa-oder-
+havel.wsv.de
++49 3301
+2047-0
++49 3334
+276-171
+Wasserstraßen- und
+Schifffahrtsamt Oder-
+Havel
+Außenbezirk
+Finowfurt
+Werbelliner
+Str. 85
+Schorfhei-
+de OT Fi-
+nowfurt
+1624
+4
+wsa-oder-
+havel@wsv.bund.de
+http://www.wsa-oder-
+havel.wsv.de
++49 3335
+4516-0
++49 3334
+276-171
+Wasserstraßen- und
+Schifffahrtsamt Oder-
+Havel
+Außenbezirk
+Zehdenick
+Freiarche 4
+Zehdenick
+1679
+2
+wsa-oder-
+havel@wsv.bund.de
+http://www.wsa-oder-
+havel.wsv.de
++49 3307
+4678-0
++49 3334
+276-171
+Wasserstraßen- und
+Schifffahrtsamt Oder-
+Havel
+Außenbezirk
+Canow
+Canower Al-
+lee 40
+Wustrow
+OT Ca-
+now
+1725
+5
+wsa-oder-
+havel@wsv.bund.de
+http://www.wsa-oder-
+havel.wsv.de
++49 39828
+253-0
++49 3334
+276-171
+Wasserstraßen- und
+Schifffahrtsamt Oder-
+Havel
+Außenbezirk
+Frankfurt
+Am Winterha-
+fen 5
+Frankfurt
+(Oder)
+1523
+4
+wsa-oder-
+havel@wsv.bund.de
+http://www.wsa-oder-
+havel.wsv.de
++49 335
+663959-0
++49 3334
+276-171
+Seite 71 von 80

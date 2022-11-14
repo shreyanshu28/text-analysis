@@ -1,0 +1,403 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Hauptzollamt Frank-
+furt am Main
+Hauptadresse
+Hahnstraße
+68 - 70
+Frankfurt
+am Main
+6052
+8
+poststelle.hza-
+ffm@zoll.bund.de
+http://www.zoll.de
++49 69
+257829-0
++49 69
+257829-
+4000
+Hauptzollamt Gießen
+Hauptadresse
+Grünberger
+Straße 100
+Gießen
+3539
+4
+poststelle.hza-gies-
+sen@zoll.bund.de
+http://www.zoll.de
++49 (0)641
+- 4959-0
+Hauptzollamt Ham-
+burg
+Hauptadresse
+Koreastraße
+4
+Hamburg
+2045
+7
+poststelle.hza-ham-
+burg@zoll.bund.de
+http://www.zoll.de
++49 40
+426206-0
++49 40
+426206-760
+Hauptzollamt Hanno-
+ver
+Hauptadresse
+Hackethal-
+straße 7
+Hannover
+3017
+9
+poststelle.hza-hanno-
+ver@zoll.bund.de
+http://www.zoll.de
++49 511
+5469-9100
+Hauptzollamt Heil-
+bronn
+Hauptadresse
+Kastellstraße
+53
+Heilbronn
+7408
+0
+poststelle.hza-heil-
+bronn@zoll.bund.de
+http://www.zoll.de
++49 7131
+8970-0
++49 7131
+8970-199
+Hauptzollamt Itzehoe
+Hauptadresse
+Kaiserstraße
+14 a
+Itzehoe
+2552
+4
+Poststelle.hza-itze-
+hoe@zoll.bund.de
+http://www.zoll.de
++49 4821
+902-0
++49 4821
+902-200
+Hauptzollamt Karlsru-
+he
+Hauptadresse
+Philipp-Reis-
+Straße 4
+Karlsruhe
+7613
+7
+poststelle.hza-karlsru-
+he@zoll.bund.de
+http://www.zoll.de
++49 721
+1833-1
++49 721
+1833-1010
+Hauptzollamt Kiel
+Hauptadresse
+Kronshage-
+ner Weg 105
+Kiel
+2411
+6
+poststelle.hza-
+kiel@zoll.bund.de
+http://www.zoll.de
++49 431
+20083-0
++49 431
+20083-1150
+Hauptzollamt Koblenz
+Hauptadresse
+Im Metterni-
+cher Feld 44
+Koblenz
+5607
+2
+poststelle.hza-ko-
+blenz@zoll.bund.de
+http://www.zoll.de
++49 261
+98376-0
++49 261
+98376-1010
+Hauptzollamt Köln
+Hauptadresse
+Stolberger
+Straße 200
+Köln
+5093
+3
+poststelle.hza-
+koeln@zoll.bund.de
+http://www.zoll.de
++49 (0)221
+- 9413-0 (
+ab
+15.12.2021
+)
+Hauptzollamt Krefeld
+Hauptadresse
+Medienstra-
+ße 1
+Krefeld
+4780
+7
+poststelle.hza-kre-
+feld@zoll.bund.de
+http://www.zoll.de
++49 2151
+850-0
++49 2151
+850-18881
+Hauptzollamt Lands-
+hut
+Hauptadresse
+Sonnenring
+14
+Altdorf
+8403
+2
+poststelle.hza-lands-
+hut@zoll.bund.de
+http://www.zoll.de
++49 871
+806-0
++49 871
+806-1065
+Hauptzollamt Lörrach
+Hauptadresse
+Mozartstraße
+32
+Lörrach
+7953
+9
+poststelle.hza-loer-
+rach@zoll.bund.de
+http://www.zoll.de
++49 7621
+170-0
++49 7621
+170-1090
+Hauptzollamt Lörrach
+Dienstsitz
+Freiburg
+Tennenba-
+cher Straße
+23
+Freiburg
+7910
+6
+poststelle.hza-loer-
+rach@zoll.bund.de
+http://www.zoll.de
++49 761
+1509-0
++49 761
+1509-1150
+Hauptzollamt Magde-
+burg
+Hauptadresse
+Ihleburger
+Straße 4
+Magde-
+burg
+3912
+6
+poststelle.hza-magde-
+burg@zoll.bund.de
+http://www.zoll.de
++49 391
+5074-0
++49 391
+5074-334
+Hauptzollamt Mün-
+chen
+Hauptadresse
+Sophienstra-
+ße 6
+München
+8033
+3
+poststelle.hza-muen-
+chen@zoll.bund.de
+http://www.zoll.de
++49 89
+5995-00
++49 89
+5995-2488
+Hauptzollamt Mün-
+chen
+Dienstsitz
+Landsberger
+Straße
+Landsberger
+Straße 124
+München
+8033
+9
+poststelle@hzam.bfinv
+.de
+http://www.zoll.de
++49 89
+5109-00
++49 89
+5109-2054
+Hauptzollamt Münster
+Hauptadresse
+Linus-Pau-
+ling-Weg 1 - 5
+Münster
+4815
+5
+poststelle.hza-muens-
+ter@zoll.bund.de
+http://www.zoll.de
++49 251
+4814-0
++49 251
+4814-1000
+Hauptzollamt Nürn-
+berg
+Hauptadresse
+Frankenstra-
+ße 208
+Nürnberg
+9046
+1
+poststelle.hza-nuern-
+berg@zoll.bund.de
+http://www.zoll.de
++49 911
+9463-0
++49 911
+9463-1199
+Hauptzollamt Olden-
+burg
+Hauptadresse
+Friedrich-Rü-
+der-Straße 2
+Oldenburg
+2613
+5
+poststelle.hza-olden-
+burg@zoll.bund.de
+http://www.zoll.de
++49 441
+21025-0
++49 441
+21025-26
+Hauptzollamt Osna-
+brück
+Hauptadresse
+Meller Stra-
+ße 272
+Osna-
+brück
+4908
+2
+poststelle.hza-osna-
+brueck@zoll.bund.de
+http://www.zoll.de
++49 541
+3301-0
++49 541
+3301-1200
+Hauptzollamt Potsdam
+Hauptadresse
+Rembrandt-
+straße 26 A
+Potsdam
+1446
+7
+poststelle.hza-pots-
+dam@zoll.bund.de
+http://www.zoll.de
++49 331
+50590
++49 331
+2308-109
+Hauptzollamt Regens-
+burg
+Hauptadresse
+Junkersstra-
+ße 12
+Regens-
+burg
+9305
+5
+poststelle.hza-regens-
+burg@zoll.bund.de
+http://www.zoll.de
++49 941
+2086-0
++49 941
+2086-1399
+Hauptzollamt Regens-
+burg
+Dienstsitz Hof
+Köditzer Stra-
+ße 1
+Hof
+9503
+0
+poststelle@hzaho.bfin
+v.de
+http://www.zoll.de
++49 9281
+609-0
++49 9281
+609-119
+Hauptzollamt Rosen-
+heim
+Hauptadresse
+Münchener
+Straße 51
+Rosen-
+heim
+8302
+2
+poststelle.hza-rosen-
+heim@zoll.bund.de
+http://www.zoll.de
++49 8031
+3006-0
++49 8031
+3006-9911
+Hauptzollamt Saar-
+brücken
+Hauptadresse
+Präsident-
+Baltz-Straße
+5
+Saar-
+brücken
+6611
+9
+poststelle.hza-saar-
+bruecken@zoll.bund.d
+e
+http://www.zoll.de
++49 681
+8308-0000
++49 681
+8308-0010
+Seite 45 von 80

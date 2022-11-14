@@ -1,0 +1,411 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Fraunhofer-Institut für
+Integrierte Schaltun-
+gen
+Aussenstelle
+Ilmenau - Ab-
+teilung Draht-
+lose Verteiler-
+systeme DVT
+Helmholtz-
+platz 2
+Ilmenau
+9869
+3
+info@eas.iis.fraunho-
+fer.de
+http://www.iis.fraunho-
+fer.de
++ 49 911
+58061-7500
++49 351
+4640-703
+Fraunhofer-Institut für
+Integrierte Schaltun-
+gen
+Aussenstelle
+Nürnberg-
+Nordostpark
+Nordostpark
+84
+Nürnberg
+9041
+1
+info@eas.iis.fraunho-
+fer.de
+http://www.iis.fraunho-
+fer.de
++49 911
+5806-10
++49 351
+4640-703
+Fraunhofer-Institut für
+Integrierte Schaltun-
+gen
+Aussenstelle
+Würzburg -
+Projektgrup-
+pe Nano-
+Röntgensys-
+teme zur Ma-
+terialcharak-
+terisierung
+Josef-Martin-
+Weg 63
+Würzburg
+9707
+4
+info@eas.iis.fraunho-
+fer.de
+http://www.iis.fraunho-
+fer.de
++49 911
+5806-10
++49 351
+4640-703
+Fraunhofer-Institut für
+Integrierte Systeme
+und Bauelementetech-
+nologie
+Hauptadresse
+Schottkystra-
+ße 10
+Erlangen
+9105
+8
+info@iisb.fraunhofer.d
+e
+http://www.iisb.fraun-
+hofer.de
++49 9131
+761-0
++49 9131
+761-390
+Fraunhofer-Institut für
+Integrierte Systeme
+und Bauelementetech-
+nologie
+Außenstelle
+Chemnitz
+Reichenhai-
+ner Straße
+29a
+Chemnitz
+0912
+6
+info@iisb.fraunhofer.d
+e
+http://www.iisb.fraun-
+hofer.de
++49 371
+560 198
+203
++49 371
+560 198
+299
+Fraunhofer-Institut für
+Integrierte Systeme
+und Bauelementetech-
+nologie
+Außenstelle
+Freiberg -
+Fraunhofer
+THM
+Am St.-Nic-
+las-Schacht
+13
+Freiberg
+0959
+9
+info@iisb.fraunhofer.d
+e
+http://www.iisb.fraun-
+hofer.de
++49 3731
+2033-100
++49 3731
+2033-199
+Fraunhofer-Institut für
+Integrierte Systeme
+und Bauelementetech-
+nologie
+Außenstelle
+Nürnberg-
+Süd
+Landgraben-
+straße 94
+Nürnberg
+9044
+3
+info@iisb.fraunhofer.d
+e
+http://www.iisb.fraun-
+hofer.de
++49 911
+235 68 0
++49 911
+235 68 12
+Fraunhofer-Institut für
+Integrierte Systeme
+und Bauelementetech-
+nologie
+Außenstelle
+Nürnberg-
+West
+Fürther Stra-
+ße 250
+Nürnberg
+9042
+9
+info@iisb.fraunhofer.d
+e
+http://www.iisb.fraun-
+hofer.de
++49 911 56
+854 9160
++49 911 56
+854 9165
+Fraunhofer-Institut für
+Intelligente Analyse-
+und Informationssyste-
+me
+Hauptadresse
+Schloß Bir-
+linghoven
+Sankt Au-
+gustin
+5375
+4
+info@iais.fraunhofer.d
+e
+http://www.iais.fraun-
+hofer.de
++49 2241
+14-3000
++49 2241
+14-43000
+Fraunhofer-Institut für
+Keramische Technolo-
+gien und Systeme
+Hauptadresse
+Winterberg-
+straße 28
+Dresden
+0127
+7
+info@ikts.fraunhofer.d
+e
+http://www.ikts.fraun-
+hofer.de
++49 351
+2553-700
++49 351
+2553-600
+Fraunhofer-Institut für
+Keramische Technolo-
+gien und Systeme
+Standort
+Dresden
+Maria-Rei-
+che-Straße 2
+Dresden
+0110
+9
+info@ikts.fraunhofer.d
+e
+http://www.ikts.fraun-
+hofer.de
++49 351
+88815-501
++49 351
+88815-509
+Fraunhofer-Institut für
+Keramische Technolo-
+gien und Systeme
+Standort
+Hermsdorf
+Michael-Fara-
+day-Straße 1
+Hermsdorf
+0762
+9
+info@ikts.fraunhofer.d
+e
+http://www.ikts.fraun-
+hofer.de
++49 36601
+9301-0
++49 36601
+9301-3921
+Fraunhofer-Institut für
+Kurzzeitdynamik,
+Ernst-Mach-Institut
+Hauptadresse
+Eckerstraße 4
+Freiburg
+7910
+4
+http://www.emi.fraun-
+hofer.de
++49 761
+2714-0
++49 761
+2714-316
+Fraunhofer-Institut für
+Kurzzeitdynamik,
+Ernst-Mach-Institut
+Institutsteil-
+Efringen-Kir-
+chen
+Am Klingel-
+berg 1
+Efringen-
+Kirchen
+7958
+8
+http://www.emi.fraun-
+hofer.de
++49 7628
+9050-0
++49 7628
+9050-77
+Fraunhofer-Institut für
+Kurzzeitdynamik,
+Ernst-Mach-Institut
+Institutsteil
+Kandern
+Am Chris-
+tianswuhr 2
+Kandern
+7940
+0
+http://www.emi.fraun-
+hofer.de
++49 7626
+9157-0
++49 7628
+9050-77
+Fraunhofer-Institut für
+Lasertechnik
+Hauptadresse
+Steinbach-
+straße 15
+Aachen
+5207
+4
+info@ilt.fraunhofer.de
+http://www.ilt.fraunho-
+fer.de
++49 241
+8906-0
++49 241
+8906-121
+Fraunhofer-Institut für
+Materialfluss und Lo-
+gistik
+Hauptadresse
+Joseph-von-
+Fraunhofer-
+Straße 2-4
+Dortmund
+4422
+7
+info@iml.fraunhofer.de
+http://www.iml.fraun-
+hofer.de
++49 231
+9743-0
+Fraunhofer-Institut für
+Mikroelektronische
+Schaltungen und Sys-
+teme
+Hauptadresse
+Finkenstraße
+61
+Duisburg
+4705
+7
+info@ims.fraunhofer.d
+e
+http://www.ims.fraun-
+hofer.de
++49 203
+3783-130, -
+227
++49 203
+3783-266
+Fraunhofer-Institut für
+Molekularbiologie und
+Angewandte Oekolo-
+gie
+Hauptadresse
+Forckenbeck-
+straße 6
+Aachen
+5207
+4
+http://www.ime.fraun-
+hofer.de
++49 241
+6085-0
++49 241
+6085-10000
+Fraunhofer-Institut für
+Molekularbiologie und
+Angewandte Oekolo-
+gie
+Fraunhofer
+Center for
+Systems Bio-
+technology
+CSB, Fraun-
+hofer Chile
+Av. Mariano
+Sanchez Fon-
+tecilla 310
+Las Con-
+des
+piso
+14
+http://www.ime.fraun-
+hofer.de
++49 241
+6085-0
++49 241
+6085-10000
+Fraunhofer-Institut für
+Molekularbiologie und
+Angewandte Oekolo-
+gie
+Fraunhofer
+Center for
+Molecular
+Biotechnolo-
+gy CMB,
+Fraunhofer
+USA
+9 Innovation
+Way Suite
+200
+Newark
+DE
+1971
+1
+http://www.ime.fraun-
+hofer.de
++49 241
+6085-0
++49 241
+6085-10000
+Seite 39 von 80

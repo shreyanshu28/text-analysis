@@ -1,0 +1,386 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Konrad-Adenauer-Stif-
+tung e. V.
+Dienstort
+Sankt Augus-
+tin
+Rathausallee
+12
+Sankt Au-
+gustin
+5375
+7
+zentrale@kas.de
+http://www.kas.de
++49 2241
+246-0
++49 2241
+246-2591
+Koordinator der Bun-
+desregierung für Bes-
+sere Rechtsetzung
+und Bürokratieabbau
+Hauptadresse
+Mohrenstra-
+ße 37
+Berlin
+1011
+7
+poststelle@bmj.bund.d
+e
+http://www.bmj.de
++49 30 18
+580-9010
++49 30 18
+580-9525
+Koordinator der Bun-
+desregierung für Gü-
+terverkehr und Logistik
+Hauptadresse
+Invalidenstra-
+ße 44
+Berlin
+1011
+5
+poststelle@bmdv.bund
+.de
+http://www.bmvi.bund.
+de
++49 3018
+300-2100
++49 3018
+300-2119
+Koordinator der Bun-
+desregierung für stra-
+tegische Auslandspro-
+jekte im Interesse der
+Bundesrepublik
+Deutschland
+Hauptadresse
+Scharnhorst-
+straße 34 - 37
+Berlin
+1011
+5
+buero-st-
+p@bmwk.bund.de
+http://www.bmwk.de
++49 3018
+615-5010
+Koordinator für die
+deutsch-polnische zwi-
+schengesellschaftli-
+che und grenznahe
+Zusammenarbeit
+Hauptadresse
+Werderscher
+Markt 1
+Berlin
+1011
+7
+KO-POL@diplo.de
+http://www.auswaerti-
+ges-amt.de
++49 30
+1817-4023
++49 30
+1817-5-
+4023
+Koordinator für die
+transatlantische zwi-
+schengesellschaftli-
+che, kultur- und infor-
+mationspolitische Zu-
+sammenarbeit
+Hauptadresse
+Werderscher
+Markt 1
+Berlin
+1011
+7
+KO-TRA@diplo.de
+http://www.auswaerti-
+ges-amt.de
++49 30
+1817 - 2577
++49 30
+1817 -5-
+2577
+Koordinator für die
+zwischengesell-
+schaftspolitische Zu-
+sammenarbeit mit
+Russland, Zentralasi-
+en und den Ländern
+der Östlichen Partner-
+schaft
+Hauptadresse
+Werderscher
+Markt 1
+Berlin
+1011
+7
+KO-RUS@diplo.de
+http://www.auswaerti-
+ges-amt.de
++49 30
+1817-7306
++49 30
+1817-57306
+Koordinatorin der Bun-
+desregierung für die
+Deutsche Luft- und
+Raumfahrt
+Hauptadresse
+Scharnhorst-
+straße 34 - 37
+Berlin
+1011
+5
+KoorLR@bmwk.bund.
+de
+http://www.bmwk.de
++49 30
+18615-6710
+Koordinatorin der Bun-
+desregierung für Mari-
+time Wirtschaft und
+Tourismus
+Hauptadresse
+Scharnhorst-
+straße 34 - 37
+Berlin
+1011
+5
+KoorMT@bmwk.bund.
+de
+http://www.bmwk.de
++49 30 18
+615-6680/-
+6429
+Kraftfahrt-Bundesamt
+Hauptadresse
+Fördestraße
+16
+Flensburg
+2494
+4
+kba@kba.de
+http://www.kba.de
++49 461
+316-0
++49 461
+316-1650
+Kraftfahrt-Bundesamt
+Nebenstelle
+Dresden
+Bernhardstra-
+ße 62
+Dresden
+0118
+7
+asd@kba.de
+http://www.kba.de
++49 351
+47385-0
++49 351
+47385-36
+Krankenversorgung
+der Bundesbahnbeam-
+ten
+Hauptadresse
+Salvador-Al-
+lende-Str. 7
+Frankfurt
+am Main
+6048
+7
+webservice@kvb.bund
+.de
+http://www.kvb.bund.d
+e
++49 69
+24703-0
+Kreditanstalt für Wie-
+deraufbau IPEX-Bank
+Hauptadresse
+Zeppelinallee
+8
+Frankfurt
+am Main
+6032
+5
+info@kfw-ipex-bank.de
+http://www.kfw-ipex-
+bank.de
++49 69
+7431-0
++49 69
+7431-2944
+Kreditanstalt für Wie-
+deraufbau IPEX-Bank
+Beratungs-
+zentrum Bonn
+Ludwig-Er-
+hard-Platz 1
+Bonn
+5317
+9
+infocenter@kfw.de
+http://www.kfw-ipex-
+bank.de
++49 228
+831-8003
++49 228
+831-9500
+Kreditanstalt für Wie-
+deraufbau IPEX-Bank
+Beratungs-
+zentrum Ber-
+lin
+Behrenstra-
+ße 31
+Berlin
+1011
+7
+infocenter@kfw.de
+http://www.kfw-ipex-
+bank.de
++49 30
+20264-5050
++49 30
+20264-1292
+Kreditanstalt für Wie-
+deraufbau IPEX-Bank
+Beratungs-
+zentrum
+Frankfurt am
+Main
+Bockenhei-
+mer Landstra-
+ße 104
+Frankfurt
+am Main
+6032
+5
+infocenter@kfw.de
+http://www.kfw-ipex-
+bank.de
++49 69
+7431-3030
++49 69
+7431-1900
+Kreditanstalt für Wie-
+deraufbau IPEX-Bank
+EU-Verbin-
+dungsbüro
+der KfW Ban-
+kengruppe
+Square de
+Meeûs 37
+Brüssel
+0100
+0
+kfw.bruessels@kfw.de
+http://www.kfw-ipex-
+bank.de
++32 2
+333850
++32 2
+333859
+Kreditanstalt für Wie-
+deraufbau IPEX-Bank
+Niederlas-
+sung Bonn
+Ludwig-Er-
+hard-Platz 1 -
+3
+Bonn
+5317
+9
+info@kfw.de
+http://www.kfw-ipex-
+bank.de
++49 228
+831-0
++49 228
+831-7148
+Kulturstiftung des Bun-
+des
+Hauptadresse
+Franckeplatz
+2
+Halle
+0611
+0
+info@kulturstiftung-
+bund.de
+http://www.kulturstif-
+tung-des-bundes.de
++49 345
+2997-0
++49 345
+2997-333
+Kulturveranstaltungen
+des Bundes in Berlin
+GmbH
+Hauptadresse
+Schöneber-
+ger Straße 15
+Berlin
+1096
+3
+info@kbb.eu
+http://www.kbb.eu
++49 30
+26397-0
++49 30
+26397-397
+Kulturveranstaltungen
+des Bundes in Berlin
+GmbH
+Haus der Ber-
+liner Fest-
+spiele
+Schaper Str.
+24
+Berlin
+1071
+9
+info@berlinerfestspie-
+le.de
+http://www.kbb.eu
++49 30
+25489-0
++49 30
+25489-111
+Kulturveranstaltungen
+des Bundes in Berlin
+GmbH
+Haus der Kul-
+turen der
+Welt
+John-Foster-
+Dulles-Allee
+10
+Berlin
+1055
+7
+info@hkw.de
+http://www.kbb.eu
++49 30
+397870
++49 30
+3948679
+Seite 52 von 80

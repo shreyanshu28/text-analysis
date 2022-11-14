@@ -1,0 +1,385 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Wasserstraßen- und
+Schifffahrtsamt Elbe
+(Dienstort Magdeburg)
+Bauhof Ho-
+henwarthe
+Neue Schleu-
+se 6
+Burg / OT
+Niegripp
+3928
+8
+bhf-
+hohenwarthe@wsv.bu
+nd.de
+http://www.wsa-
+elbe.wsv.de
++49 39222
+83264
++49 39222
+83299
+ Wasserstraßen- und
+Schifffahrtsamt Elbe
+Nordsee (Dienstort
+Tönning)
+Hauptadresse
+Am Hafen 40
+Tönning
+2583
+2
+wsa-elbe-
+nordsee@wsv.bund.d
+e
+http://www.wsa-elbe-
+nordsee.wsv.de
++49 4861
+615-0
++49 4861
+615-325
+ Wasserstraßen- und
+Schifffahrtsamt Elbe
+Nordsee (Dienstort
+Tönning)
+Außenbezirk
+Amrum
+Zum Seezei-
+chenhafen 1
+Wittdün/A
+mrum
+2594
+6
+wsa-elbe-
+nordsee@wsv.bund.d
+e
+http://www.wsa-elbe-
+nordsee.wsv.de
++49 4682
+94850-0
++49 4682
+94850-536
+ Wasserstraßen- und
+Schifffahrtsamt Elbe
+Nordsee (Dienstort
+Tönning)
+Außenbezirk
+Tönning
+Am Eider-
+deich 20
+Tönning
+2583
+2
+wsa-elbe-
+nordsee@wsv.bund.d
+e
+http://www.wsa-elbe-
+nordsee.wsv.de
++49 4861
+615-0
++49 4861
+615-359
+ Wasserstraßen- und
+Schifffahrtsamt Elbe
+Nordsee (Dienstort
+Tönning)
+Außenbezirk
+Helgoland
+Westkaje
+1084
+Helgoland
+2749
+8
+hafen-
+helgoland@wsv.bund.
+de
+http://www.wsa-elbe-
+nordsee.wsv.de
++49 4725
+81593-0
++49 4725
+81593-585
+ Wasserstraßen- und
+Schifffahrtsamt Elbe
+Nordsee (Dienstort
+Tönning)
+Bauhof Tön-
+ning
+Am Eider-
+deich 20
+Tönning
+2583
+2
+hafen-
+helgoland@wsv.bund.
+de
+http://www.wsa-elbe-
+nordsee.wsv.de
++49 4861
+615-0
++49 4861
+615-106
+Wasserstraßen- und
+Schifffahrtsamt Elbe-
+Nordsee (Dienstort
+Cuxhaven)
+Hauptadresse
+Am Alten Ha-
+fen 2
+Cuxhaven
+2747
+2
+wsa-elbe-
+nordsee@wsv.bund.d
+e
+http://www.wsa-elbe-
+nordsee.wsv.de
++49 4721
+567-0
++49 4721
+567-103
+Wasserstraßen- und
+Schifffahrtsamt Elbe-
+Nordsee (Dienstort
+Hamburg)
+Hauptadresse
+Moorweiden-
+straße 14
+Hamburg
+2014
+8
+wsa-elbe-
+nordsee@wsv.bund.d
+e
+http://www.wsa-elbe-
+nordsee.wsv.de
++49 40
+44110-0
++49 40
+44110-365
+Wasserstraßen- und
+Schifffahrtsamt Elbe-
+Nordsee (Dienstort
+Hamburg)
+Außenbezirk
+Wedel
+Deichstrasse
+7-9
+Wedel
+2288
+0
+abz-
+wedel@wsv.bund.de
+http://www.wsa-elbe-
+nordsee.wsv.de
++49 4103
+9314-0
++49 4103
+9314-130
+Wasserstraßen- und
+Schifffahrtsamt Elbe-
+Nordsee (Dienstort
+Hamburg)
+Außenbezirk
+Stade
+Beim Salztor
+10
+Stade
+2168
+2
+abz-
+wedel@wsv.bund.de
+http://www.wsa-elbe-
+nordsee.wsv.de
++49 4141
+4111-80
++49 4141
+4111-85
+Wasserstraßen- und
+Schifffahrtsamt Elbe-
+Nordsee (Dienstort
+Hamburg)
+Außenbezirk
+Glückstadt
+Neutorstraße
+7
+Glück-
+stadt
+2534
+8
+abz-
+wedel@wsv.bund.de
+http://www.wsa-elbe-
+nordsee.wsv.de
++49 4124
+9365-5
++49 4124
+9365-310
+Wasserstraßen- und
+Schifffahrtsamt Elbe-
+Nordsee (Dienstort
+Hamburg)
+Bauhof We-
+del
+Deichstraße 7
+-9
+Wedel
+2288
+0
+abz-
+wedel@wsv.bund.de
+http://www.wsa-elbe-
+nordsee.wsv.de
++49 4103
+9314-0
++49 4103
+9314-491
+Wasserstraßen- und
+Schifffahrtsamt Ems-
+Nordsee (Dienstort
+Emden)
+Hauptadresse
+Am Eisen-
+bahndock 3
+Emden
+2672
+5
+wsa-ems-
+nordsee@wsv.bund.d
+e
+http://www.wsa-ems-
+nordsee.wsv.de
++49 4921
+802-0
++49 4921
+802-379
+Wasserstraßen- und
+Schifffahrtsamt Ems-
+Nordsee (Dienstort
+Emden)
+Außenbezirk
+Leer
+Schleusen-
+weg 17
+Leer
+2678
+9
+wsa-ems-
+nordsee@wsv.bund.d
+e
+http://www.wsa-ems-
+nordsee.wsv.de
++49 491
+960678-0
++49 4921
+802-379
+Wasserstraßen- und
+Schifffahrtsamt Ems-
+Nordsee (Dienstort
+Emden)
+Außenbezirk
+Emden
+III. Hafenein-
+schnitt
+Emden
+2672
+3
+wsa-ems-
+nordsee@wsv.bund.d
+e
+http://www.wsa-ems-
+nordsee.wsv.de
++49 4921
+802-400
++49 4921
+802-379
+Wasserstraßen- und
+Schifffahrtsamt Ems-
+Nordsee (Dienstort
+Emden)
+Außenbezirk
+Borkum
+Juister Stra-
+ße 14
+Borkum
+2675
+7
+wsa-ems-
+nordsee@wsv.bund.d
+e
+http://www.wsa-ems-
+nordsee.wsv.de
++49 4922
+9128-0
++49 4921
+802-379
+Wasserstraßen- und
+Schifffahrtsamt Ems-
+Nordsee (Dienstort
+Emden)
+Bauhof Em-
+den
+Am Tonnen-
+hof 1
+Emden
+2672
+5
+wsa-ems-
+nordsee@wsv.bund.d
+e
+http://www.wsa-ems-
+nordsee.wsv.de
++49 4921
+802-430
++49 4921
+802-379
+Wasserstraßen- und
+Schifffahrtsamt Ems-
+Nordsee (Dienstort
+Emden)
+Außenstelle
+Norderney
+Am Hafen 3
+Norderney
+2654
+8
+wsa-ems-
+nordsee@wsv.bund.d
+e
+http://www.wsa-ems-
+nordsee.wsv.de
++49 4932
+869896-0
++49 4921
+802-379
+Wasserstraßen- und
+Schifffahrtsamt Ems-
+Nordsee (Dienstort
+Meppen)
+Hauptadresse
+Herzog-Aren-
+bergstrasse
+66
+Meppen
+4971
+6
+wsa-ems-
+nordsee@wsv.bund.d
+e
+http://www.wsa-ems-
+nordsee.wsv.de
++49 5931
+848-111
++49 5931
+848-28222
+Seite 67 von 80

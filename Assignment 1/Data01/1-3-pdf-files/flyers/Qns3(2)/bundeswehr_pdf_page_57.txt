@@ -1,0 +1,363 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Luftfahrt-Bundesamt
+Außenstelle
+Frankfurt
+Kelsterba-
+cher Straße
+23
+Raunheim
+6547
+9
+info@lba.de
+http://www.lba.de
++49 531
+2355-8207
++49 531
+2355-8299
+Luftfahrt-Bundesamt
+Außenstelle
+München
+Flughafen
+München
+8535
+6
+info@lba.de
+http://www.lba.de
++49 531
+2355-8410
++49 531
+2355-8499
+Luftfahrt-Bundesamt
+Außenstelle
+Stuttgart
+Airport Busi-
+ness Center
+1, Gottlieb-
+Mainz-Stra-
+ße 1
+Filderstadt
+7079
+4
+info@lba.de
+http://www.lba.de
++49 531
+2355-8550
++49 531
+2355-8599
+Luftfahrtamt der Bun-
+deswehr
+Hauptadresse
+Flughafen-
+straße 1
+Köln-
+Wahn
+5114
+7
+LufABwLeitungsbue-
+ro@bundeswehr.org
+http://www.luftfahrt-
+amt.bundeswehr.de
+Luftwaffentruppen-
+kommando
+Hauptadresse
+Flughafen-
+straße 1
+Köln
+5114
+7
+LwTrKdoLdI@bundes-
+wehr.org
+http://www.luftwaffe.de
++49 2203
+908-4082
+Luftwaffenunterstüt-
+zungsgruppe Wahn
+Hauptadresse
+Flughafen-
+straße 1
+Köln
+5114
+7
+PIZLwCallCenter@bu
+ndeswehr.org
+http://www.luftwaffe.de
++49 2203
+908-3134
+Marinearsenal
+Hauptadresse
+Kasinostraße
+Tor 7
+Wilhelms-
+haven
+2638
+2
+mars-
+posteingang@bundes-
+wehr.org
+http://www.baainbw.de
++49 4421
+49-0
++49 4421
+49-2037
+Marinearsenal
+Außenstelle
+Warnemünde
+Hohe Düne
+30
+Rostock
+1811
+9
+mars-
+posteingang@bundes-
+wehr.org
+http://www.baainbw.de
++49 381
+636-3132
++49 381
+636-3108
+Marinearsenal
+Arsenalbe-
+trieb Kiel
+Klausdorfer
+Weg 2 - 24
+Kiel
+2414
+8
+mars-
+posteingang@bundes-
+wehr.org
+http://www.baainbw.de
++49 431
+607-0
++49 431
+607-2585
+Marinekommando
+Hauptadresse
+Kopernikuss-
+traße 1
+Rostock
+1805
+7
+http://www.marine.de
++49 381
+802-50
++49 381
+802-3297
+Marineoperationsschu-
+le
+Hauptadresse
+Elbestraße
+101
+Bremer-
+haven
+2757
+0
+marine@bundewehr.or
+g
+http://www.marine.de
+Marineschule Mürwik
+Hauptadresse
+Kelmstraße
+14
+Flensburg
+2494
+4
+marine@bundeswehr.
+org
+http://www.marine.de
+Marinetechnikschule
+Hauptadresse
+Papellallee
+24
+Kramerhof
+1844
+5
+marine@bundeswehr.
+org
+http://www.marine.de
+Mathematisches For-
+schungsinstitut Ober-
+wolfach gGmbH
+Hauptadresse
+Schwarzwald-
+straße 9-11
+Ober-
+wolfach-
+Walke
+7770
+9
+admin@mfo.de
+http://www.mfo.de
++49 7834
+979-0
++49 7834
+979-38
+Max Rubner-Institut,
+Bundesforschungsin-
+stitut für Ernährung
+und Lebensmittel
+Hauptadresse
+Haid-und-Neu
+-Straße 9
+Karlsruhe
+7613
+1
+kontakt@mri.bund.de
+http://www.mri.bund.d
+e
++49 721
+6625-0
++49 721
+6625-111
+Max Rubner-Institut,
+Bundesforschungsin-
+stitut für Ernährung
+und Lebensmittel
+Standort
+Kulmbach
+E.- C.- Bau-
+mann- Stra-
+ße 20
+Kulmbach
+9532
+6
+kontakt@mri.bund.de
+http://www.mri.bund.d
+e
++49 9221
+803-1
++49 9221
+803-244
+Max Rubner-Institut,
+Bundesforschungsin-
+stitut für Ernährung
+und Lebensmittel
+Standort Kiel
+Hermann-
+Weigmann-
+Straße 1
+Kiel
+2410
+3
+kontakt@mri.bund.de
+http://www.mri.bund.d
+e
++49 431
+609-1
++49 431
+609-2222
+Max Rubner-Institut,
+Bundesforschungsin-
+stitut für Ernährung
+und Lebensmittel
+Standort Det-
+mold
+Schützen-
+berg 12
+Detmold
+3275
+6
+kontakt@mri.bund.de
+http://www.mri.bund.d
+e
++49 5231
+741-0
++49 5231
+741-100
+Max Weber Stiftung -
+Deutsche Geisteswis-
+senschaftliche Institu-
+te im Ausland
+Hauptadresse
+Rheinallee 6
+Bonn
+5317
+3
+info@maxweberstif-
+tung.de
+http://www.maxweber-
+stiftung.de
++49 228
+37786-0
++49 228
+37786-19
+Max-Born-Institut für
+Nichtlineare Optik und
+Kurzzeitspektroskopie
+im Forschungsver-
+bund Berlin e. V.
+Hauptadresse
+Max-Born-
+Straße 2a
+Berlin
+1248
+9
+mbi@mbi-berlin.de
+http://www.mbi-
+berlin.de
++49 30
+6392-1505
++49 30
+6392 1509
+Max-Delbrück-Cen-
+trum für Molekulare
+Medizin in der Helm-
+holtz-Gemeinschaft
+Hauptadresse
+Robert-Röss-
+le-Straße 10
+Berlin
+1312
+5
+http://www.mdc-
+berlin.de
++49 30
+9406-0
++49 30 949-
+4161
+Max-Delbrück-Cen-
+trum für Molekulare
+Medizin in der Helm-
+holtz-Gemeinschaft
+Zweigstelle
+Berlin-Mitte
+Hannover-
+sche Straße
+28
+Berlin
+1011
+5
+http://www.mdc-
+berlin.de
++49 30
+9406-1300
++49 30 949-
+4161
+Max-Planck-Gesell-
+schaft zur Förderung
+der Wissenschaften e.
+V.
+Hauptadresse
+Hofgarten-
+straße 8
+München
+8053
+9
+presse@gv.mpg.de
+http://www.mpg.de
++49 89
+2108-0
++49 89
+2108-1111
+Seite 57 von 80

@@ -1,0 +1,392 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Bundesamt für Güter-
+verkehr
+Außenstelle
+Kiel
+Willestraße 5
+- 7
+Kiel
+2410
+3
+poststelle@bag.bund.
+de
+http://www.bag.bund.d
+e
++49 431
+98277-0
++49 431
+98277-88, -
+89
+Bundesamt für Güter-
+verkehr
+Außenstelle
+Mainz
+Rheinstraße
+4 b
+Mainz
+5511
+6
+poststelle@bag.bund.
+de
+http://www.bag.bund.d
+e
++49 6131
+14672-0
++49 6131
+14672-75
+Bundesamt für Güter-
+verkehr
+Außenstelle
+München
+Winzererstra-
+ße 52
+München
+8079
+7
+poststelle@bag.bund.
+de
+http://www.bag.bund.d
+e
++49 89
+12603-0
++49 89
+12603-321
+Bundesamt für Güter-
+verkehr
+Außenstelle
+Münster
+Grevener
+Straße 129
+Münster
+4815
+9
+poststelle@bag.bund.
+de
+http://www.bag.bund.d
+e
++49 251
+53405-0
++49 251
+53405-99
+Bundesamt für Güter-
+verkehr
+Außenstelle
+Saarbrücken
+Mainzer Stra-
+ße 32 - 34
+Saar-
+brücken
+6611
+1
+poststelle@bag.bund.
+de
+http://www.bag.bund.d
+e
++49 681
+96702-0
++49 681
+96702-90
+Bundesamt für Güter-
+verkehr
+Außenstelle
+Schwerin
+Bleicherufer
+11
+Schwerin
+1905
+3
+poststelle@bag.bund.
+de
+http://www.bag.bund.d
+e
++49 385
+59141-0
++49 385
+59141-290
+Bundesamt für Güter-
+verkehr
+Außenstelle
+Stuttgart
+Schloßstraße
+49
+Stuttgart
+7017
+4
+poststelle@bag.bund.
+de
+http://www.bag.bund.d
+e
++49 711
+615557-0
++49 711
+615557-88
+Bundesamt für Güter-
+verkehr
+Nebenstelle
+Berlin
+Krausenstra-
+ße 17
+Berlin
+1011
+7
+http://www.bag.bund.d
+e
+http://www.bag.bund.d
+e
++49 30
+2888563
++49 30
+2829262
+Bundesamt für Infra-
+struktur, Umwelt-
+schutz und Dienstleis-
+tungen der Bundes-
+wehr
+Hauptadresse
+Fontainengra-
+ben 200
+Bonn
+5312
+3
+BAIUDBwPoststelle@
+bundeswehr.org
+http://www.iud.bundes-
+wehr.de
++49 228
+5504 - 0
++49 228
+5504 - 5761
+Bundesamt für Justiz
+Hauptadresse
+Adenaueral-
+lee 99 - 103
+Bonn
+5311
+3
+verwaltung@bfj.bund.
+de
+http://www.bundesjus-
+tizamt.de
++49 22899
+410-40
++49 22899
+410-5050
+Bundesamt für Karto-
+graphie und Geodäsie
+Hauptadresse
+Richard-
+Strauss-Allee
+11
+Frankfurt
+am Main
+6059
+8
+mailbox@bkg.bund.de
+http://www.bkg.bund.d
+e
++49 69
+6333-1
++49 69
+6333-235
+Bundesamt für Karto-
+graphie und Geodäsie
+Außenstelle
+Leipzig
+Karl-Rothe-
+Straße 10 -
+14
+Leipzig
+0410
+5
+mailbox@bkg.bund.de
+http://www.bkg.bund.d
+e
++49 341
+5634-0
++49 341
+5634-415
+Bundesamt für Karto-
+graphie und Geodäsie
+Geodäti-
+sches Obser-
+vatorium
+Wettzell
+Sackenrieder
+Straße 25
+Bad Kötz-
+ting
+9344
+4
+mailbox@bkg.bund.de
+http://www.bkg.bund.d
+e
++49 9941
+603-0
++49 9941
+603-222
+Bundesamt für Karto-
+graphie und Geodäsie
+Geodatenin-
+frastruktur
+Deutschland
+(GDI-DE) -
+Geschäfts-
+und Koordi-
+nierungsstelle
+Richard-
+Strauss-Allee
+11
+Frankfurt
+am Main
+6059
+8
+mail@gdi-de.org
+http://www.bkg.bund.d
+e
++49 69
+6333-258
++49 69
+6333-446
+Bundesamt für Karto-
+graphie und Geodäsie
+International
+Earth Rotati-
+on and Refe-
+rence Sys-
+tems Service
+Richard-
+Strauss-Allee
+11
+Frankfurt
+am Main
+6059
+8
+central_bureau@iers.o
+rg
+http://www.bkg.bund.d
+e
++49 69
+6333-273, -
+261
++49 69
+6333-425
+Bundesamt für Karto-
+graphie und Geodäsie
+Ständiger
+Ausschuss
+für geographi-
+sche Namen
+(STAGN)
+Richard-
+Strauss-Allee
+11
+Frankfurt
+am Main
+6059
+8
+stagn@bkg.bund.de
+http://www.bkg.bund.d
+e
++49 69
+6333-317
++49 69
+6333-441
+Bundesamt für Migrati-
+on und Flüchtlinge
+Hauptadresse
+Frankenstra-
+ße 210
+Nürnberg
+9046
+1
+service@bamf.bund.d
+e
+http://www.bamf.de
++49 911
+943-0
++49 911
+943-1000
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Berlin (im An-
+kunftszen-
+trum)
+Bundesallee
+171
+Berlin
+1071
+5
+service@bamf.bund.d
+e
+http://www.bamf.de
++49 911
+943-0
++49 911
+943-1000
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Bielefeld (im
+Ankunftszen-
+trum)
+Am Stadtholz
+24
+Bielefeld
+3360
+9
+M22Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 521
+9316-0
++49 521
+9316-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Braun-
+schweig
+Boeselager-
+straße  4
+Braun-
+schweig
+3810
+8
+M19Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 531
+3545-0
++49 531
+3545-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Augsburg (im
+Behörden-
+zentrum)
+Aindlinger
+Straße 16
+Augsburg
+8616
+7
+M19Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 531
+3545-0
++49 531
+3545-199
+Seite 7 von 80

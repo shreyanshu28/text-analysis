@@ -1,0 +1,369 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Wissenschaftlicher
+Beirat der Bundesre-
+gierung Globale Um-
+weltveränderungen
+Hauptadresse
+Luisenstras-
+se 46
+Berlin
+1011
+7
+wbgu@wbgu.de
+http://www.wbgu.de
++49 30
+263948-0
++49 30
+263948-50
+Wissenschaftsrat
+Hauptadresse
+Scheidtwei-
+lerstraße 4
+Köln
+5093
+3
+post@wissenschafts-
+rat.de
+http://www.wissen-
+schaftsrat.de
++49 221
+3776-0
++49 221
+3776-200
+Wissenschaftszen-
+trum Berlin für Sozial-
+forschung
+Hauptadresse
+Reichpiet-
+schufer 50
+Berlin
+1078
+5
+wzb@wzb.eu
+http://www.wzb.eu
++49 30
+25491-0
++49 30
+25491-684
+ZBW - Leibniz Infor-
+mationszentrum Wirt-
+schaft
+Hauptadresse
+Düsternbroo-
+ker Weg 120
+Kiel
+2410
+5
+info@zbw.eu
+http://www.zbw.eu
++49 431
+8814-555
++49 431
+8814-520
+ZBW - Leibniz Infor-
+mationszentrum Wirt-
+schaft
+Standort
+Hamburg
+ Neuer Jungf-
+ernstieg 21
+Hamburg
+2035
+4
+info@zbw.eu
+http://www.zbw.eu
++49 40
+42834-219
++49 40
+42834-450
+Zentrale Abbildende
+Aufklärung
+Hauptadresse
+Max-Planck-
+Straße 17
+Graf-
+schaft-
+Gelsdorf
+5350
+1
+kdocirpizcir@bundes-
+wehr.org
+http://cir.bundeswehr.d
+e
++49 2225
+93 421-0
+Zentrale Stelle für In-
+formationstechnik im
+Sicherheitsbereich
+Hauptadresse
+Zamdorfer
+Straße 88
+München
+8167
+7
+poststelle@zitis.bund.
+de
+http://www.zitis.bund.d
+e
++49 89
+6080 679-0
+Zentrale Untersu-
+chungsstelle der Bun-
+deswehr für Techni-
+sche Aufklärung
+Hauptadresse
+Kulmbacher
+Straße 59-60
+Hof
+9503
+0
+ZUStelleBwTAufklGe-
+Zi@bundeswehr.org
+http://cir.bundeswehr.d
+e
++49 9281
+8404-1403
++49 9281
+8404-1411
+Zentrales Finanzwe-
+sen des Bundes
+Hauptadresse
+Justus-von-
+Liebig-Stra-
+ße 18
+Bonn
+5312
+1
+poststelle@zrb.bund.d
+e
+http://www.kkr.bund.de
++49 228
+99370-0
++49 228
+99370-177
+Zentrales Institut des
+Sanitätsdienstes der
+Bundeswehr Kiel
+Hauptadresse
+Kopperpah-
+ler Allee 120
+Kronsha-
+gen
+2411
+9
+ZInstSanBwKiel@bun-
+deswehr.org
+http://www.sanitaets-
+dienst-bundeswehr.de
++49 431
+5409-1650
++49 431
+5409-1598
+Zentrales Institut des
+Sanitätsdienstes der
+Bundeswehr München
+Hauptadresse
+Ingolstädter
+Landstraße
+102
+Garching
+8574
+8
+ZInstSanBwMuen-
+chen@bundeswehr.or
+g
+http://www.sanitaets-
+dienst-bundeswehr.de
++49 8937
+55849-5001
++49 8937
+55849-5070
+Zentrales Testaments-
+register
+Hauptadresse
+Kronenstra-
+ße 42
+Berlin
+1011
+7
+info@vorsorgeregister.
+de
+http://www.testaments-
+register.de
++49 800
+3550600
+Zentrales Vorsorgere-
+gister
+Hauptadresse
+Kronenstra-
+ße 42
+Berlin
+1011
+7
+info@vorsorgeregister.
+de
+http://www.vorsorgere-
+gister.de
++49 1805
+355050
+Zentralstelle der Bun-
+desregierung für inter-
+nationale Berufsbil-
+dungskooperation
+(GOVET) im Bundes-
+institut für Berufsbil-
+dung
+Hauptadresse
+Robert-Schu-
+man-Platz 3
+Bonn
+5317
+5
+wiechert@bibb.de
+http://www.govet.inter-
+national
++49 228
+107-1604
++49 228
+107-2971
+Zentralstelle Schiffsun-
+tersuchungskommissi-
+on/Schiffseichamt
+Hauptadresse
+Brucknerstra-
+ße 2
+Mainz
+5512
+7
+zsuk@wsv.bund.de
+http://www.wsd-sued-
+west.wsv.de
++49 6131
+979-111
++49 6131
+979-157
+Zentralwohlfahrtsstel-
+le der Juden in
+Deutschland e. V.
+Hauptadresse
+Hebelstr. 6
+Frankfurt
+a. M.
+6031
+8
+zentrale@zwst.org
+http://www.zwst.org
++49 69
+944371-11
++49 69
+494817
+Zentrum Brandschutz
+der Bundeswehr
+Hauptadresse
+Hofener Stra-
+ße 16
+Sonthofen
+8752
+7
+ZBrdSchBwPostein-
+gang@bundeswehr.or
+g
+http://www.iud.bundes-
+wehr.de
++49 8321
+6755-2102
++49 8321
+6755-2111
+Zentrum Cyberopera-
+tionen
+Hauptadresse
+Münstereife-
+ler Straße 75
+Rhein-
+bach
+5335
+9
+kdocirpizcir@bundes-
+wehr.org
+http://cir.bundeswehr.d
+e
+Zentrum für Betriebs-
+wirtschaft im Garten-
+bau e. V.
+Hauptadresse
+Herrenhäu-
+ser Straße 2
+Hannover
+3041
+9
+zbg@zbg.uni-hanno-
+ver.de
+http://www.zbg.uni-
+hannover.de
++49 511
+762-5409
++49 511
+762-19245
+Zentrum für Cyber-Si-
+cherheit der Bundes-
+wehr
+Hauptadresse
+Kommerner
+Straße 188
+Euskir-
+chen
+5387
+9
+kdocirpizcir@bundes-
+wehr.org
+http://www.cir.bundes-
+wehr.de
++49 2251
+953-3001
++49 2251
+953-3002
+Zentrum für Europäi-
+sche Wirtschaftsfor-
+schung GmbH
+Hauptadresse
+L7 1
+Mannheim
+6816
+1
+info@zew.de
+http://www.zew.de
++49 621
+1235-01
++49 621
+1235-224
+Zentrum für Geoinfor-
+mationswesen der
+Bundeswehr
+Hauptadresse
+Frauenber-
+ger Straße
+250
+Euskir-
+chen
+5387
+9
+kdocirpizcir@bundes-
+wehr.org
+http://www.cir.bundes-
+wehr.de
++49 2251
+953-0
++49 2251
+953-5055
+Seite 77 von 80

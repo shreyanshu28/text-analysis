@@ -1,0 +1,359 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Auswärtiges Amt
+Dienstsitz
+Bonn
+Adenaueral-
+lee 99 - 103
+Bonn
+5311
+3
+http://www.auswaerti-
+ges-amt.de
++49 22899
+17-0
++49 3018
+17-3402
+Auswertezentrale
+Elektronische Kampf-
+führung
+Hauptadresse
+Heinrich-
+Hertz-Straße
+6
+Daun
+5445
+0
+kdocirpizcir@bundes-
+wehr.org
+http://cir.bundeswehr.d
+e
++49 6592
+17-2100
+Bataillon Elektroni-
+sche Kampfführung
+911
+Hauptadresse
+Am Tannen-
+berg 1
+Stadum
+2591
+7
+kdocirpizcir@bundes-
+wehr.org
+http://cir.bundeswehr.d
+e
++49 4662
+82-0
+Bataillon Elektroni-
+sche Kampfführung
+912
+Hauptadresse
+Am Rehha-
+gen 10
+Nienburg
+(Weser)
+3158
+2
+kdocirpizcir@bundes-
+wehr.org
+http://cir.bundeswehr.d
+e
++49 5021
+800-0
+Bataillon Elektroni-
+sche Kampfführung
+931
+Hauptadresse
+Johanna-Kin-
+kel-Straße 2-
+4
+Bonn
+5317
+5
+KdoCIRPIZCIR@bun-
+deswehr.org
+http://cir.bundeswehr.d
+e
++49
+22853683
+1412
+Bataillon Elektroni-
+sche Kampfführung
+932
+Hauptadresse
+Marburger
+Straße 75
+Franken-
+berg
+3506
+6
+kdocirpizcir@bundes-
+wehr.org
+http://cir.bundeswehr.d
+e
++49 6451
+740-0
+Beauftragte der Bun-
+desregierung für Anti-
+rassismus (in Perso-
+nalunion mit ihrem
+Amt als Beauftragte
+der Bundesregierung
+für Migration, Flüchtlin-
+ge und Integration)
+Hauptadresse
+Willy-Brand-
+Straße 1
+Berlin
+1055
+7
+Reem.Alabali-Rado-
+van@bk.bund.de
+http://www.bundesre-
+gierung.de
++49 30
+18400-2030
++49 1810
+400-2030
+Beauftragte der Bun-
+desregierung für Aus-
+siedlerfragen und na-
+tionale Minderheiten
+Hauptadresse
+Alt-Moabit
+140
+Berlin
+1055
+7
+BAPawlik@bmi.bund.d
+e
+http://www.aussiedler-
+beauftragter.de
++49 30 18
+681-11120
++49 30 18
+681-11138
+Beauftragte der Bun-
+desregierung für den
+Berlin-Umzug und den
+Bonn-Ausgleich
+Hauptadresse
+Stresemann-
+straße 128-
+130
+Berlin
+1011
+7
+Poststelle@bmwsb.bu
+nd.de
+http://www.bmi.bund.d
+e
++49 30
+18681-0
+Beauftragte der Bun-
+desregierung für den
+Berlin-Umzug und den
+Bonn-Ausgleich
+Dienstsitz
+Bonn
+Robert-Schu-
+man-Platz 3
+Bonn
+5317
+5
+Poststelle@bmwsb.bu
+nd.de
+http://www.bmi.bund.d
+e
++49 228 99
+305-0
++49 228 99
+305-3225
+Beauftragte der Bun-
+desregierung für die
+Behandlung von Zah-
+lungen an die Konver-
+sionskasse
+Hauptadrese
+Alt-Moabit
+140
+Berlin
+1055
+7
+Poststelle@badv.bund
+.de
+http://www.bmi.bund.d
+e
++49 30
+7030-0
+Beauftragte der Bun-
+desregierung für die
+Belange der Patientin-
+nen und Patienten
+Hauptadresse
+Friedrichstra-
+ße 108
+Berlin
+1011
+7
+Patientenrechte@bmg
+.bund.de
+http://www.patienten-
+beauftragter.de
++49 30
+18441 -
+3424
++49 30
+18441-4499
+Beauftragte der Bun-
+desregierung für In-
+formationstechnik
+Hauptadresse
+Alt-Moabit
+140
+Berlin
+1055
+7
+StR@bmi.bund.de
+http://www.cio.bund.de
++49 30
+18681-
+10920
++49 30
+18681-
+10828
+Beauftragte der Bun-
+desregierung für Men-
+schenrechtsfragen im
+Bundesministerium
+der Justiz (zgl. Verfah-
+rensbevollmächtigte
+vor dem Europäi-
+schen Gerichtshof für
+Menschenrechte)
+Hauptadresse
+Mohrenstra-
+ße 37
+Berlin
+1011
+7
+poststelle@bmj.bund.d
+e
+http://www.bmj.de
++49 30
+18580-9430
++49 30
+1810 580-
+9430
+Beauftragte der Bun-
+desregierung für Men-
+schenrechtspolitik und
+Humanitäre Hilfe im
+Auswärtigen Amt
+Hauptadresse
+Werderscher
+Markt 1
+Berlin
+1011
+7
+MRHH-B@diplo.de
+http://www.auswaerti-
+ges-amt.de
++49 30 18
+17 - 4764
++49 30 18
+17 - 54764
+Beauftragte der Bun-
+desregierung für Mi-
+gration, Flüchtlinge
+und Integration
+Hauptadresse
+Willy-Brandt-
+Straße 1
+Berlin
+1055
+7
+Reem.Alabali-Rado-
+van@bk.bund.de
++49 30 18
+400-2030
++49 3010
+400-2030
+Beauftragte für die
+deutsch-französische
+Zusammenarbeit
+Hauptadresse
+Werderscher
+Markt 1
+Berlin
+1011
+7
+STM-EU@diplo.de
+http://www.auswaerti-
+ges-amt.de
++49 3018
+17-2451
++49 3018
+17-52451
+Beauftragter der Bun-
+desregierung für  Reli-
+gions- und Weltan-
+schauungsfreiheit
+Hauptadresse
+Stresemann-
+straße 94
+Berlin
+1096
+3
+poststelle@bmz.bund.
+de
+http://www.bmz.de
++49 30
+18535-0
++49 30
+18535-2501
+Beauftragter der Bun-
+desregierung für den
+Schienenverkehr
+Hauptadresse
+Invalidenstra-
+ße 44
+Berlin
+1011
+5
+poststelle@bmdv.bund
+.de
+http://www.bmvi.de
++49 30
+18300-2250
++49 18300-
+2269
+Beauftragter der Bun-
+desregierung für die
+Akzeptanz sexueller
+und geschlechtlicher
+Vielfalt
+Hauptadresse
+Glinkastraße
+24
+Berlin
+1011
+7
+pst-
+lehmann@bmfsfj.bund
+.de
+http://www.bmfsfj.de
++49 30 18
+555-1100
+Seite 3 von 80

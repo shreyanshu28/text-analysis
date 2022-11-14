@@ -1,0 +1,447 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Zollfahndungsamt Es-
+sen
+Dienstsitz
+Köln
+Graeffstraße
+35
+Köln
+5082
+3
+poststelle@zfae.bund.
+de
+http://www.zoll.de
++49 221
+672-8626
++49 221
+672-8699
+Zollfahndungsamt Es-
+sen
+Dienstort
+Flughafen
+Köln
+Heinrich-
+Steinmann-
+Straße
+Köln
+5114
+7
+poststelle@zfae.bund.
+de
+http://www.zoll.de
++49 2203
+591-581
++49 2203
+591-645
+Zollfahndungsamt Es-
+sen
+Dienstsitz
+Münster
+Gescherweg
+90
+Münster
+4816
+1
+poststelle@zfae.bund.
+de
+http://www.zoll.de
++49 251
+8701-0
++49 251
+8701-199
+Zollfahndungsamt Es-
+sen
+Dienstsitz
+Nordhorn
+Parkstraße 4
+Nordhorn
+4852
+9
+poststelle@zfae.bund.
+de
+http://www.zoll.de
++49 5921
+8804-0
++49 5921
+8804-11
+Zollfahndungsamt
+Frankfurt am Main
+Hauptadresse
+Wilhelm-Fay-
+Straße 11
+Frankfurt
+am Main
+6593
+6
+poststelle@zfaf.bund.d
+e
+http://www.zoll.de
++49 69
+50775-0
++49 69
+50775-117
+Zollfahndungsamt
+Frankfurt am Main
+Dienstort
+Flughafenge-
+bäude
+Flughafenge-
+bäude 123
+Frankfurt
+am Main
+6054
+9
+poststelle@zfaf.bfinv.d
+e
+http://www.zoll.de
++49 69 690-
+33301
++49 69 690-
+52521
+Zollfahndungsamt
+Frankfurt am Main
+Dienstsitz
+Kaiserslau-
+tern
+Von-Miller-
+Straße 13
+Kaisers-
+lautern
+6766
+1
+poststelle@zfaf.bfinv.d
+e
+http://www.zoll.de
++49 631
+3427-0
++49 631
+3427-100
+Zollfahndungsamt
+Frankfurt am Main
+Dienstsitz
+Kassel
+Elsässer
+Straße  15
+Kassel
+3413
+1
+poststelle@zfaf.bfinv.d
+e
+http://www.zoll.de
++49 561
+31098-0
++49 561
+31098-33
+Zollfahndungsamt
+Frankfurt am Main
+Dienstsitz
+Saarbrücken
+Präsident-
+Baltz-Straße
+5
+Saar-
+brücken
+6611
+9
+poststelle@zfaf.bfinv.d
+e
+http://www.zoll.de
++49 681
+501-6212
++49 681
+501-6383
+Zollfahndungsamt
+Hamburg
+Hauptadresse
+Sieker Land-
+straße 13
+Hamburg
+2214
+3
+poststelle@zfahh.bund
+.de
+http://www.zoll.de
++49 40
+67571-0
++49 40
+67571-201
+Zollfahndungsamt
+Hamburg
+Dienstsitz
+Bremerhaven
+Rheinstraße
+96-100
+Bremer-
+haven
+2757
+0
+poststelle@zfahh.bund
+.de
+http://www.zoll.de
++49 471
+8002-229
++49 471
+8002-277
+Zollfahndungsamt
+Hamburg
+Dienstsitz
+Kiel
+Kronshage-
+ner Weg  105
+Kiel
+2411
+6
+poststelle@zfahh.bfinv
+.de
+http://www.zoll.de
++49 431
+20083-4000
++49 431
+20083-4111
+Zollfahndungsamt
+Hamburg
+Dienstsitz Ro-
+stock
+Am Strom  1-
+4
+Rostock
+1811
+9
+poststelle@zfahh.bfinv
+.de
+http://www.zoll.de
++49 381
+5196-5
++49 381
+5196-699
+Zollfahndungsamt
+Hannover
+Hauptadresse
+Hamburger
+Allee 74
+Hannover
+3016
+1
+poststelle@zfah.bund.
+de
+http://www.zoll.de
++49 511
+33611-0
++49 511
+33611-140
+Zollfahndungsamt
+Hannover
+Dienstsitz
+Bielefeld
+Ravensber-
+ger Straße
+123
+Bielefeld
+3360
+7
+poststelle@zfah.bund.
+de
+http://www.zoll.de
++49 521
+5246-0
++49 521
+5246-133
+Zollfahndungsamt
+Hannover
+Dienstsitz
+Bremen
+Große Sortilli-
+enstraße 60
+Bremen
+2819
+9
+poststelle@zfah.bund.
+de
+http://www.zoll.de
++49 421
+5099-1
++49 421
+5099-337
+Zollfahndungsamt
+Hannover
+Dienstsitz
+Magdeburg
+Ihleburger
+Straße 4
+Magde-
+burg
+3912
+6
+poststelle@zfah.bund.
+de
+http://www.zoll.de
++49 391
+5074-0
++49 391
+503100
+Zollfahndungsamt
+München
+Hauptadresse
+Landsberger
+Straße 124
+München
+8033
+9
+poststelle@zfam.bund.
+de
+http://www.zoll.de
++49 89
+5109-02
++49 89
+5109-1180
+Zollfahndungsamt
+München
+Dienstsitz
+Lindau
+Bregenzer
+Straße 5
+Lindau
+(Boden-
+see)
+8813
+1
+poststelle@zfam.bfinv.
+de
+http://www.zoll.de
++49 8382
+9313-100
++49 8382
+9313-111
+Zollfahndungsamt
+München
+Dienstort
+München-
+Flughafen
+Terminal 1
+Ebene 03
+München-
+Flughafen
+8535
+6
+poststelle@zfam.bfinv.
+de
+http://www.zoll.de
++49 89
+97590-600
++49 89
+97590-606
+Zollfahndungsamt
+München
+Dienstsitz
+Nürnberg
+Frankenstra-
+ße  208
+Nürnberg
+9046
+1
+poststelle@zfam.bfinv.
+de
+http://www.zoll.de
++49 911
+9463-0
++49 911
+9463-1799
+Zollfahndungsamt
+München
+Dienstsitz
+Weiden
+Dr.-Pfleger-
+Straße 36
+Weiden
+i.d.OPf.
+9263
+7
+poststelle@zfam.bfinv.
+de
+http://www.zoll.de
++49 961
+39177-200
++49 961
+39177-201
+Zollfahndungsamt
+Stuttgart
+Hauptadresse
+Martha-
+Schmidt-
+mann-Straße
+15
+Stuttgart
+7037
+4
+poststelle@zfas.bund.
+de
+http://www.zoll.de
++49 711
+52041-0
++49 711
+52041-1060
+Zollfahndungsamt
+Stuttgart
+Dienstsitz
+Freiburg im
+Breisgau
+Riegeler Stra-
+ße 2
+Freiburg
+im Breis-
+gau
+7911
+1
+Freiburg.poststelle@zf
+as.bfinv.de
+http://www.zoll.de
++49 761
+28298-0
++49 761
+28298-500
+Zollfahndungsamt
+Stuttgart
+Dienstsitz
+Karlsruhe
+Moltkestraße
+70
+Karlsruhe
+7613
+3
+poststelle@zfas.bfinv.
+de
+http://www.zoll.de
++49 721
+9729-0
++49 721
+9729-101
+Zollfahndungsamt
+Stuttgart
+Dienstsitz Ra-
+dolfzell
+Kapuziner-
+weg 3
+Radolfzell
+am Bo-
+densee
+7831
+5
+poststelle@zfas.bfinv.
+de
+http://www.zoll.de
++49 7732
+9948-0
++49 7732
+9948-111
+Seite 79 von 80

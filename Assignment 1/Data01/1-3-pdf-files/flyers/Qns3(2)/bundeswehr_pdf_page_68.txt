@@ -1,0 +1,388 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Wasserstraßen- und
+Schifffahrtsamt Ems-
+Nordsee (Dienstort
+Meppen)
+Außenbezirk
+Meppen
+Hüttenstraße
+1b
+Meppen
+4971
+6
+abz-
+meppen@wsv.bund.d
+e
+http://www.wsa-ems-
+nordsee.wsv.de
++49 5931
+848-170
++49 5931
+848-175
+Wasserstraßen- und
+Schifffahrtsamt Ems-
+Nordsee (Dienstort
+Meppen)
+Außenbezirk
+Lathen
+Emsweg 23
+Lathen
+4976
+2
+abz-
+lathen@wsv.bund.de
+http://www.wsa-ems-
+nordsee.wsv.de
++49 5933
+93459-0
++49 5933
+93459-5
+Wasserstraßen- und
+Schifffahrtsamt Ems-
+Nordsee (Dienstort
+Meppen)
+Außenbezirk
+Edewechter-
+damm
+Küstenkanal-
+straße 1
+Edewecht
+2618
+8
+abz-edewechter-
+damm@wsv.bund.de
+http://www.wsa-ems-
+nordsee.wsv.de
++49 4405
+92901-0
++49 4405
+92901-155
+Wasserstraßen- und
+Schifffahrtsamt Ems-
+Nordsee (Dienstort
+Meppen)
+Bauhof Mep-
+pen
+Hüttenstraße
+1a
+Meppen
+4971
+6
+bhf-
+meppen@wsv.bund.d
+e
+http://www.wsa-ems-
+nordsee.wsv.de
++49 5931
+848-150
++49 5931
+848-121
+Wasserstraßen- und
+Schifffahrtsamt Lauen-
+burg
+Hauptadresse
+Dornhorster
+Weg 52
+Lauen-
+burg
+2148
+1
+wsa-
+elbe@wsv.bund.de
+http://www.wsa-
+elbe.wsv.de
++49 4153
+558-0
++49 4153
+558-448
+Wasserstraßen- und
+Schifffahrtsamt Lauen-
+burg
+Außenbezirk
+Mölln
+ Hafenstraße
+16
+Mölln
+2387
+9
+wsa-
+elbe@wsv.bund.de
+http://www.wsa-
+elbe.wsv.de
++49 4542
+84406-0
++49 4542
+84406-35
+Wasserstraßen- und
+Schifffahrtsamt Lauen-
+burg
+Außenbezirk
+Herrenhof
+ Elbstraße 3
+Herrenhof
+1927
+3
+wsa-
+elbe@wsv.bund.de
+http://www.wsa-
+elbe.wsv.de
++49 38845
+44929-0
++49 38845
+44929-35
+Wasserstraßen- und
+Schifffahrtsamt Lauen-
+burg
+Außenbezirk
+Geesthacht
+ Wärderstra-
+ße 5
+Geest-
+hacht
+2150
+2
+wsa-
+elbe@wsv.bund.de
+http://www.wsa-
+elbe.wsv.de
++49 4152
+84691-0
++49 4152
+84691-35
+Wasserstraßen- und
+Schifffahrtsamt Lauen-
+burg
+Außenbezirk
+Grabow
+John-Brinck-
+man-Weg 15
+Grabow
+1930
+0
+wsa-
+elbe@wsv.bund.de
+http://www.wsa-
+elbe.wsv.de
++49 38756
+500-0
++49 38756
+500-35
+Wasserstraßen- und
+Schifffahrtsamt Lauen-
+burg
+Außenbezirk
+Parchim
+Zum Eldeha-
+fen 2
+Parchim
+1937
+0
+wsa-
+elbe@wsv.bund.de
+http://www.wsa-
+elbe.wsv.de
++49 3871
+45103-0
++49 3871
+45103-35
+Wasserstraßen- und
+Schifffahrtsamt Lauen-
+burg
+Außenbezirk
+Waren
+Gerhart-
+Hauptmann-
+Allee 6a
+Waren
+1719
+2
+wsa-
+elbe@wsv.bund.de
+http://www.wsa-
+elbe.wsv.de
++49 3991
+18155-0
++49 3991
+18155-35
+Wasserstraßen- und
+Schifffahrtsamt Lauen-
+burg
+Bauhof
+Geesthacht
+ Wärderstra-
+ße 5
+Geest-
+hacht
+2150
+2
+wsa-
+elbe@wsv.bund.de
+http://www.wsa-
+elbe.wsv.de
++49 4152
+84691-23
++49 4152
+84691-14
+Wasserstraßen- und
+Schifffahrtsamt Main
+(Aschaffenburg)
+Hauptadresse
+Obernauer
+Straße 6
+Aschaf-
+fenburg
+6373
+9
+wsa-
+main@wsv.bund.de
+http://www.wsa-
+main.wsv.de
++49 6021
+385-0
++49 6021
+385-101
+Wasserstraßen- und
+Schifffahrtsamt Main
+(Aschaffenburg)
+Bauhof
+Aschaffen-
+burg
+Obernauer
+Straße 136
+Aschaf-
+fenburg
+6374
+3
+bhf-
+aschaffenburg@wsv.b
+und.de
+http://www.wsa-
+main.wsv.de
++49 06021
+395-0
++49 06021
+395-102
+Wasserstraßen- und
+Schifffahrtsamt Main
+(Aschaffenburg)
+Außenbezirk
+Frankfurt
+Niederräder
+Ufer 14
+Frankfurt
+6052
+8
+abz-
+frankfurt@wsv.bund.d
+e
+http://www.wsa-
+main.wsv.de
++49 69
+6786887-0
++49 69
+6786887-
+522
+Wasserstraßen- und
+Schifffahrtsamt Main
+(Aschaffenburg)
+Außenbezirk
+Hanau
+Am Mainka-
+nal 20
+Hanau
+6345
+0
+abz-
+hanau@wsv.bund.de
+http://www.wsa-
+main.wsv.de
++49 6181
+92338-0
++49 6181
+92338-522
+Wasserstraßen- und
+Schifffahrtsamt Main
+(Aschaffenburg)
+Außenbezirk
+Erlenbach
+Am Schutz-
+hafen
+Erlenbach
+6390
+6
+abz-
+erlenbach@wsv.bund.
+de
+http://www.wsa-
+main.wsv.de
++49 9372
+9902-0
++49 9372
+9902-522
+Wasserstraßen- und
+Schifffahrtsamt Main
+(Aschaffenburg)
+Außenbezirk
+Hasloch
+Schirrhof
+Hasloch
+9790
+7
+abz-
+hasloch@wsv.bund.de
+http://www.wsa-
+main.wsv.de
++49 9342
+93489-0
++49 9342
+93489-522
+Wasserstraßen- und
+Schifffahrtsamt Main
+(Dienstort Schweinfurt)
+Hauptadresse
+Mainberger
+Straße 8
+Schwein-
+furt
+9742
+2
+wsa-
+main@wsv.bund.de
+http://www.wsa-
+main.wsv.de
++49 9721
+206-0
++49 9721
+206-101
+Wasserstraßen- und
+Schifffahrtsamt Main
+(Dienstort Schweinfurt)
+Außenbezirk
+Gemünden
+Am Schutz-
+hafen 1
+Gemün-
+den
+9773
+7
+abz-
+gemuenden@wsv.bun
+d.de
+http://www.wsa-
+main.wsv.de
++49 9351
+99064-0
++49 9351
+99064-319
+Seite 68 von 80

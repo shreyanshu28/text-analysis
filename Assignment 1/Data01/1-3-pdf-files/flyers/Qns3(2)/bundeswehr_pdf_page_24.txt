@@ -1,0 +1,340 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Bundeswehrfachschu-
+le Karlsruhe
+Hauptadresse
+An der Trift
+13-15
+Karlsruhe
+7614
+9
+BwFachSKarlsruhe@b
+undeswehr.org
+http://www.bildungs-
+zentrum.bundeswehr.d
+e
++49 721
+62680-451
+oder -453
++49 721
+62680-499
+Bundeswehrfachschu-
+le Kassel
+Hauptadresse
+Elisabeth-
+Consbruch-
+Str. 2
+Kassel
+3413
+1
+BwFachSKassel@bun
+deswehr.org
+http://www.bildungs-
+zentrum.bundeswehr.d
+e
++49 561
+76682 3002
++49 561
+76682 3007
+Bundeswehrfachschu-
+le Koblenz
+Hauptadresse
+Kurfürsten-
+straße 63
+Koblenz
+5606
+8
+BwFachSKoblenz@bu
+ndeswehr.org
+http://www.bildungs-
+zentrum.bundeswehr.d
+e
++49 261
+914372-22
++49 261
+914372-19
+Bundeswehrfachschu-
+le Köln
+Hauptadresse
+Kardorfer
+Straße 1
+Köln
+5096
+8
+BwFachSKoeln@bun-
+deswehr.org
+http://www.bildungs-
+zentrum.bundeswehr.d
+e
++49 221
+937774-0
++49 221
+937774-47
+Bundeswehrfachschu-
+le München
+Hauptadresse
+Neuherberg-
+straße 11
+München
+8093
+7
+bwfachsmuenchen@b
+undeswehr.org
+http://www.bildungs-
+zentrum.bundeswehr.d
+e
++49 89
+992692-
+3480
++49 89
+992692-
+3484
+Bundeswehrfachschu-
+le Naumburg
+Hauptadresse
+Kösener Stra-
+ße 50
+Naumburg
+0661
+8
+BwFachSNaumburg@
+bundeswehr.org
+http://www.bildungs-
+zentrum.bundeswehr.d
+e
++49 3443
+33-0
++49 3443
+33-1908
+Bundeswehrfachschu-
+le Würzburg
+Hauptadresse
+Oberdürrba-
+cher Straße 1
+Veits-
+höchheim
+9720
+9
+BwFachSWuerzburg@
+bundeswehr.org
+http://www.bildungs-
+zentrum.bundeswehr.d
+e
++49 931
+9707-0
++49 931
+9707-2385
+Bundeswehrkranken-
+haus Berlin
+Hauptadresse
+Scharnhorst-
+straße 13
+Berlin
+1011
+5
+BwKrhsBerlin@bun-
+deswehr.org
+http://www.bundes-
+wehrkrankenhaus-ber-
+lin.de
++49 30
+2841-0
++49 30
+2841-1043
+Bundeswehrkranken-
+haus Ulm
+Hauptadresse
+Oberer Esels-
+berg 40
+Ulm
+8908
+1
+BwKrhsUlm@bundes-
+wehr.org
+http://www.bundes-
+wehrkrankenhaus-
+ulm.de
++49 731
+1710-0
+Bundeswehrkranken-
+haus Westerstede
+Hauptadresse
+Lange Stra-
+ße 38
+Westers-
+tede
+2665
+5
+BwkrhsWesterstede@
+bundeswehr.org
+http://www.bundes-
+wehrkrankenhaus-
+westerstede.de
++49 4488
+50-0
+Bundeswehrkranken-
+haus-Hamburg
+Hauptadresse
+Lesserstraße
+180
+Hamburg
+2204
+9
+BwkrhsHamburg@bun
+deswehr.org
+http://www.bundes-
+wehrkrankenhaus-
+hamburg.de
++49 40
+6947-0
++49 40
+6947-2930
+Bundeswehrverwal-
+tungsstelle Belgien
+Hauptadresse
+Rue Haig 324
+SHAPE
+7010
+BWVStBelgienLei-
+tung@bundeswehr.org
+http://www.iud.bundes-
+wehr.de
++32 65
+444969
++32 65
+445149
+Bundeswehrverwal-
+tungsstelle Frankreich
+Hauptadresse
+Route du
+Rhin 12
+Illkirch-
+Graffen-
+staden
+6740
+0
+BWVStFrankreichLei-
+tung@bundeswehr.org
+http://www.iud.bundes-
+wehr.de
++33 36932
+2701
++33 36932
+2709
+Bundeswehrverwal-
+tungsstelle Großbritan-
+nien
+Hauptadresse
+Salamander
+Quay, Bank-
+side
+Harefield/
+Middlesex
+UB9
+6NZ
+BWVStGB@bundes-
+wehr.org
+http://www.iud.bundes-
+wehr.de
++44 1895
+826380
++44 1895
+826389
+Bundeswehrverwal-
+tungsstelle Italien
+Hauptadresse
+Viale Ulisse
+12-14
+Catania
+9512
+6
+BWVStItalienLeitung@
+bundeswehr.org
+http://www.iud.bundes-
+wehr.de
++39 070
+9643-0
++39 070
+9643-3504
+Bundeswehrverwal-
+tungsstelle Niederlan-
+de
+Hauptadresse
+Rimburger-
+weg 30
+PA Bruns-
+sum
+6445
+BWVStNiederlande@b
+undeswehr.org
+http://www.iud.bundes-
+wehr.de
++31 45
+5263691
++31 45
+5263802
+Bundeswehrverwal-
+tungsstelle Polen
+Hauptadresse
+Baltic Bar-
+racks ul. Lu-
+kasinskiego
+33
+Szczecin
+71 -
+215
+BWVStPolen@bun-
+deswehr.org
+http://www.iud.bundes-
+wehr.de
++48 91 811
+6740
++48 91 811
+6745
+Bundeswehrverwal-
+tungsstelle Trabzon
+Hauptadresse
+P.K. 19
+Trabzon
+6103
+0
+LogUgPktTrabzonVer-
+waltung@Bundes-
+wehr.org
+http://www.iud.bundes-
+wehr.de
++49 2226
+8829754-
+5000
++49 2226
+8829754-
+1103
+Bundeswehrverwal-
+tungsstelle USA Kana-
+da
+Hauptadresse
+11150 Sunri-
+se Valley
+Drive
+Reston
+2019
+1
+BWVStUSACA@bun-
+deswehr.org
+http://www.iud.bundes-
+wehr.de
++1 703 390-
+3303
++1 703 390-
+3354
+Seite 24 von 80

@@ -1,0 +1,379 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Bundeswehr-Dienst-
+leistungszentrum Ber-
+gen
+Hauptadresse
+Bergen-Hoh-
+ne MB 28
+Lohheide
+2930
+3
+BwDLZBergen@bun-
+deswehr.org
+http://www.iud.bundes-
+wehr.de
++49 5051
+475-0
++49 5051
+475-21219
+Bundeswehr-Dienst-
+leistungszentrum Ber-
+lin
+Hauptadresse
+Kurt-Schuma-
+cher-Damm
+41
+Berlin
+1340
+5
+BwDLZBerlin@bun-
+deswehr.org
+http://www.iud.bundes-
+wehr.de
++49 30
+4981-0
++49 30
+4981-1760
+Bundeswehr-Dienst-
+leistungszentrum Bo-
+gen
+Hauptadresse
+Bayerwald-
+straße 26
+Bogen
+9432
+7
+BwDLZBogen@Bun-
+deswehr.org
+http://www.iud.bundes-
+wehr.de
++49 9422
+808-0
++49 9422
+808-3080
+Bundeswehr-Dienst-
+leistungszentrum Bonn
+Hauptadresse
+Euskirchener
+Straße 80
+Bonn
+5312
+1
+BwDLZBonn@bun-
+deswehr.org
+http://www.iud.bundes-
+wehr.de
++49 228
+96201-2001
++49 228
+96201-2179
+Bundeswehr-Dienst-
+leistungszentrum
+Bruchsal
+Hauptadresse
+Karlsruher
+Straße 25-27
+Bruchsal
+7664
+6
+BwDLZBruchsal@Bun
+deswehr.org
+http://www.iud.bundes-
+wehr.de
++49 7251
+98254-0
++49 7251
+98254-5109
+Bundeswehr-Dienst-
+leistungszentrum Burg
+Hauptadresse
+Thomas-
+Müntzer-Stra-
+ße 5 b
+Burg
+3928
+8
+BwDLZBurg@bundes-
+wehr.org
+http://www.iud.bundes-
+wehr.de
++49 3921
+90-0
++49 3921
+90-2129
+Bundeswehr-Dienst-
+leistungszentrum Do-
+berlug-Kirchain
+Hauptadresse
+Torgauer
+Straße
+Doberlug-
+Kirchhain
+0325
+3
+BwDLZDoberlugKirch-
+hain@bundeswehr.org
+http://www.iud.bundes-
+wehr.de
++49 35322
+52-0
++49 35322
+52-2301
+Bundeswehr-Dienst-
+leistungszentrum
+Dresden
+Hauptadresse
+August-Be-
+bel-Straße 19
+Dresden
+0121
+9
+BwDLZDresden@bun-
+deswehr.org
+http://www.iud.bundes-
+wehr.de
++49 351
+4654-0
++49 351
+4654-4743
+Bundeswehr-Dienst-
+leistungszentrum Er-
+furt
+Hauptadresse
+Thälmann-
+straße 60
+Erfurt
+9908
+5
+BwDLZErfurt@bun-
+deswehr.org
+http://www.iud.bundes-
+wehr.de
++49 361
+342-60
++49 361
+342-7547
+Bundeswehr-Dienst-
+leistungszentrum
+Hamburg
+Hauptadresse
+Osdorfer
+Landstraße
+365
+Hamburg
+2258
+9
+BwDLZHamburg@bun
+deswehr.org
+http://www.iud.bundes-
+wehr.de
++49 40
+86648-0
++49 40
+86648-5105
+Bundeswehr-Dienst-
+leistungszentrum
+Hammelburg
+Hauptadresse
+Rommelstra-
+ße 27
+Hammel-
+burg
+9776
+2
+BwDLZHammelburg@
+bundeswehr.org
+http://www.iud.bundes-
+wehr.de
++49 9732
+784-88
++49 9732
+784-3505
+Bundeswehr-Dienst-
+leistungszentrum Han-
+nover
+Hauptadresse
+Alter Flugha-
+fen 2
+Hannover
+3017
+9
+BwDLZHannover@bu
+ndeswehr.org
+http://www.iud.bundes-
+wehr.de
++49 511
+6798-0
++49 511
+6798-588
+Bundeswehr-Dienst-
+leistungszentrum
+Homberg
+Hauptadresse
+Waßmuths-
+häuser Stra-
+ße 43
+Homberg
+(Efze)
+3457
+6
+BwDLZHomber-
+gEfze@bundeswehr.or
+g
+http://www.iud.bundes-
+wehr.de
++49 5681
+997-0
++49 5681
+997-249
+Bundeswehr-Dienst-
+leistungszentrum Hu-
+sum
+Hauptadresse
+Industriestra-
+ße 15
+Husum
+2581
+3
+BwDLZHusum@bun-
+deswehr.org
+http://www.iud.bundes-
+wehr.de
++49 4841
+7765-0
++49 4841
+7765-4500
+Bundeswehr-Dienst-
+leistungszentrum Idar-
+Oberstein
+Hauptadresse
+Am Rilchen-
+berg 61
+Idar-Ober-
+stein
+5574
+3
+BwDLZIdarOber-
+stein@bundeswehr.or
+g
+http://www.iud.bundes-
+wehr.de
++49 6781-
+51 0
++49 6781-
+51 2718
+Bundeswehr-Dienst-
+leistungszentrum In-
+golstadt
+Hauptadresse
+Marlene-Diet-
+rich-Straße
+12
+Ingolstadt
+8505
+3
+BwDLZIngolstadt@Bu
+ndeswehr.org
+http://www.iud.bundes-
+wehr.de
++49 841
+88660-0
++49 841
+88660-7331
+Bundeswehr-Dienst-
+leistungszentrum
+Kaufbeuren
+Hauptadresse
+Apfeltranger
+Straße 15
+Kaufbeu-
+ren
+8760
+0
+BwDLZKaufbeuren@B
+undeswehr.org
+http://www.iud.bundes-
+wehr.de
++49 8341
+92-0
++49 8341
+92-4113
+Bundeswehr-Dienst-
+leistungszentrum Kiel
+Hauptadresse
+Warnemün-
+der Straße 22
+Kiel
+2410
+6
+BwDLZKiel@bundes-
+wehr.org
+http://www.iud.bundes-
+wehr.de
++49 431
+384-0
++49 431
+384-5805
+Bundeswehr-Dienst-
+leistungszentrum Ko-
+blenz
+Hauptadresse
+Ellingshohl 69
+- 75
+Koblenz
+5607
+6
+BwDLZKoblenz@bun-
+deswehr.org
+http://www.iud.bundes-
+wehr.de
++49 261
+679992-0
++49 261
+679992-
+5107
+Bundeswehr-Dienst-
+leistungszentrum Köln
+Hauptadresse
+Flughafen-
+straße 1
+Köln
+5114
+7
+BwDLZKoeln@bun-
+deswehr.org
+http://www.iud.bundes-
+wehr.de
++49 2203
+908-0
++49 2203
+908-2345
+Bundeswehr-Dienst-
+leistungszentrum
+Landsberg am Lech
+Hauptadresse
+Kauferinger
+Straße 48
+Penzing
+8692
+9
+BwDLZLandsberg@B
+undeswehr.org
+http://www.iud.bundes-
+wehr.de
++49 8191
+9152-0
++49 8191
+9152-5060
+Seite 22 von 80

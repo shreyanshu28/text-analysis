@@ -1,0 +1,412 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Fraunhofer-Institut für
+Molekularbiologie und
+Angewandte Oekolo-
+gie
+Fraunhofer
+IME - Be-
+reich Ange-
+wandte Öko-
+logie
+Auf dem
+Aberg 1
+Schmal-
+lenberg
+5739
+2
+http://www.ime.fraun-
+hofer.de
++49 2972
+302-0
++49 2972
+302-319
+Fraunhofer-Institut für
+Nachrichtentechnik
+Heinrich-Hertz-Institut
+Hauptadresse
+Einsteinufer
+37
+Berlin
+1058
+7
+info@hhi.fraunhofer.de
+http://www.hhi.fraun-
+hofer.de
++49 30
+31002-0
++49 30
+31002-213
+Fraunhofer-Institut für
+Naturwissenschaftlich-
+Technische Trendana-
+lysen
+Hauptadresse
+Appelsgarten
+2
+Euskir-
+chen
+5387
+9
+info@int.fraunhofer.de
+http://www.int.fraunho-
+fer.de
++49 2251
+18-0
++49 2251
+18-277
+Fraunhofer-Institut für
+Offene Kommunikati-
+onssysteme
+Hauptadresse
+Kaiserin-Au-
+gusta-Allee
+31
+Berlin
+1058
+9
+info@fokus.fraunhofer.
+de
+http://www.fokus.fraun
+hofer.de
++49 30
+3463-7000
++49 30
+3463-8000
+Fraunhofer-Institut für
+Optronik, Systemtech-
+nik und Bildauswer-
+tung
+Hauptadresse
+Fraunhofer
+Straße 1
+Karlsruhe
+7613
+1
+http://www.IOSB.fraun
+hofer.de
++49 721
+6091-0
++49 721
+6091-413
+Fraunhofer-Institut für
+Polymermaterialien
+und Composite
+Hauptadresse
+Kantstraße
+55
+Teltow
+1451
+3
+http://www.pyco.fraun-
+hofer.de
++49 3328
+330-280
++49 3328
+330-282
+Fraunhofer-Institut für
+Produktionsanlagen
+und Konstruktions-
+technik
+Hauptadresse
+Pascalstraße
+8-9
+Berlin
+1058
+7
+http://www.ipk.fraun-
+hofer.de
++49 30
+39006-0
++49 30
+39110-37
+Fraunhofer-Institut für
+Schicht- und Oberflä-
+chentechnik
+Hauptadresse
+Bienroder
+Weg 54 E
+Braun-
+schweig
+3810
+8
+info@ist.fraunhofer.de
+http://www.ist.fraunho-
+fer.de
++49 531
+2155-0
++49 531
+2155-900
+Fraunhofer-Institut für
+Sichere Informations-
+technologie
+Hauptadresse
+Rheinstraße
+75
+Darmstadt
+6429
+5
+info@sit.fraunhofer.de
+http://www.sit.fraunho-
+fer.de
++49 6151
+869-100
++49 6151
+869-224
+Fraunhofer-Institut für
+Sichere Informations-
+technologie
+Standort
+Sankt Augus-
+tin
+Schloss Bir-
+linghoven
+Sankt Au-
+gustin
+5375
+4
+info-
+bi@sit.fraunhofer.de
+http://www.sit.fraunho-
+fer.de
++49 2241
+14-3272
++49 2241
+14-3007
+Fraunhofer-Institut für
+Silicatforschung
+Hauptadresse
+Neunerplatz 2
+Würzburg
+9708
+2
+info@isc.fraunhofer.de
+http://www.isc.fraunho-
+fer.de
++49 931
+4100-0
++49 931
+4100-199
+Fraunhofer-Institut für
+Silicatforschung
+Zweigstelle
+Friedrichstra-
+ße 10 A
+Würzburg
+9708
+2
+info@isc.fraunhofer.de
+http://www.isc.fraunho-
+fer.de
++49 931
+4100-0
++49 931
+4100-199
+Fraunhofer-Institut für
+Silicatforschung
+Außenstelle
+Bronnbach
+Bronnbach 28
+Wertheim
+9787
+7
+info@isc.fraunhofer.de
+http://www.isc.fraunho-
+fer.de
++49 9342
+9221-701
++49 9342
+9221-799
+Fraunhofer-Institut für
+Silicatforschung
+Projektgrup-
+pe Kerami-
+sche Ver-
+bundstruktu-
+ren
+Gottlieb-Keim
+-Straße 60
+Bayreuth
+9544
+8
+info@isc.fraunhofer.de
+http://www.isc.fraunho-
+fer.de
++49 921
+786931-20
++49 921
+786931-22
+Fraunhofer-Institut für
+Siliziumtechnologie
+Hauptadresse
+Fraunhofer
+Straße 1
+Itzehoe
+2552
+4
+info@isit.fhg.de
+http://www.isit.fraunho-
+fer.de
++49 4821
+17-0
++49 4821
+17-4250
+Fraunhofer-Institut für
+Software- und System-
+technik
+Hauptadresse
+Emil-Figge-
+Straße 91
+Dortmund
+4422
+7
+info@isst.fraunhofer.d
+e
+http://www.isst.fraun-
+hofer.de
++49 231
+97677-0
++49 231
+97677-199
+Fraunhofer-Institut für
+System- und Innovati-
+onsforschung
+Hauptadresse
+Breslauer
+Straße 48
+Karlsruhe
+7613
+9
+presse@isi.fraunhofer.
+de
+http://www.isi.fraunho-
+fer.de
++49 721
+6809-0
++49 689152
+Fraunhofer-Institut für
+Techno- und Wirt-
+schaftsmathematik
+Hauptadresse
+Fraunhofer
+Platz 1
+Kaisers-
+lautern
+6766
+3
+http://www.itwm.fraun-
+hofer.de
++49 631
+31600-0
++49 631
+31600-1099
+Fraunhofer-Institut für
+Toxikologie und Expe-
+rimentelle Medizin
+Hauptadresse
+Nikolai-Fuchs
+-Straße 1
+Hannover
+3062
+5
+http://www.item.fraun-
+hofer.de
++49 511
+5350-0
++49 511
+5350-155
+Fraunhofer-Institut für
+Toxikologie und Expe-
+rimentelle Medizin
+Pharmazeuti-
+sche Biotech-
+nologie
+Inhoffenstra-
+ße 7
+Braun-
+schweig
+3812
+4
+http://www.item.fraun-
+hofer.de
++49 531
+6181-6001
++49 531
+6181-6099
+Fraunhofer-Institut für
+Umwelt-, Sicherheits-
+und Energietechnik
+Hauptadresse
+Osterfelder
+Straße 3
+Oberhau-
+sen
+4604
+7
+http://www.umsicht.fra
+unhofer.de
++49 208
+8598-0
++49 208
+8598-1290
+Fraunhofer-Institut für
+Umwelt-, Sicherheits-
+und Energietechnik
+Außenstelle
+Willich
+Siemensring
+79
+Willich
+4787
+7
+http://www.umsicht.fra
+unhofer.de
++49 2154
+9251-0
++49 2154
+9251-61
+Fraunhofer-Institut für
+Umwelt-, Sicherheits-
+und Energietechnik
+Institutsteil
+Sulzbach-Ro-
+senberg
+An der Max-
+hütte 1
+Sulzbach-
+Rosen-
+berg
+9223
+7
+http://www.umsicht.fra
+unhofer.de
++49 9661
+908-400
++49 2154
+9251-61
+Fraunhofer-Institut für
+Verfahrenstechnik und
+Verpackung
+Hauptadresse
+Giggenhau-
+ser Straße 35
+Freising
+8535
+4
+http://www.ivv.fraunho-
+fer.de
++49 816
+1491-0
++49 816
+1491-491
+Seite 40 von 80

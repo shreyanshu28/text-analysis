@@ -1,0 +1,398 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Fraunhofer-Institut für
+Verkehrs- und Infra-
+struktursysteme
+Hauptadresse
+Zeunerstra-
+ße 38
+Dresden
+0106
+9
+info@ivi.fraunhofer.de
+http://www.ivi.fraunho-
+fer.de
++49 351
+4640-801
++49 351
+4640-803
+Fraunhofer-Institut für
+Werkstoff- und Strahl-
+technik
+Hauptadresse
+Winterberg-
+straße 28
+Dresden
+0127
+7
+info@iws.fraunhofer.d
+e
+http://www.iws.fraun-
+hofer.de
++49 351
+83391-0
++49 351
+83391-3300
+Fraunhofer-Institut für
+Werkstoffmechanik
+Hauptadresse
+Wöhlerstra-
+ße 11
+Freiburg
+7910
+8
+info@iwm.fraunhofer.d
+e
+http://www.iwm.fraun-
+hofer.de
++49 761
+5142-0
++49 761
+5142-510
+Fraunhofer-Institut für
+Werkzeugmaschinen
+und Umformtechnik
+Hauptadresse
+Reichenhai-
+ner Straße 88
+Chemnitz
+0912
+6
+info@iwu.fraunhofer.d
+e
+http://www.iwu.fraun-
+hofer.de
++49 371
+5397-0
+Fraunhofer-Institut für
+Werkzeugmaschinen
+und Umformtechnik
+Zweigstelle
+Dresden
+Nöthnitzer
+Straße 44
+Dresden
+0118
+7
+info.@iwu.fraunhofer.d
+e
+http://www.iwu.fraun-
+hofer.de
++49 351
+4772-0
++49 351
+4772-2103
+Fraunhofer-Institut für
+Werkzeugmaschinen
+und Umformtechnik
+Zweigstelle
+Zittau
+Theodor-Kör-
+ner-Allee 6
+Zittau
+0276
+3
+info@iwu.fraunhofer.d
+e
+http://www.iwu.fraun-
+hofer.de
++49 3583
+54086-0
++49 3583
+54086-4005
+Fraunhofer-Institut für
+Windenergie und
+Energiesystemtechnik
+Hauptadresse
+Königstor 59
+Kassel
+3411
+9
+info@iwes.fraunhofer.
+de
+http://www.iwes.fraun-
+hofer.de
++49 561
+7294-0
++49 561
+7294-100
+Fraunhofer-Institut für
+Windenergie und
+Energiesystemtechnik
+Institutsteil
+Windenergie
+Am Seedeich
+45
+Bremer-
+haven
+2757
+2
+info@iwes.fraunhofer.
+de
+http://www.iwes.fraun-
+hofer.de
++49 471
+14290-100
++49 561
+7294-100
+Fraunhofer-Institut für
+Zelltherapie und Im-
+munologie
+Hauptadresse
+Perlickstraße
+1
+Leipzig
+0410
+3
+info@izi.fraunhofer.de
+http://www.izi.fraunho-
+fer.de
++49 341
+35536-1000
++49 341
+35536-8-
+1000
+Fraunhofer-Institut für
+Zerstörungsfreie Prüf-
+verfahren
+Hauptadresse
+Campus E 31
+Saar-
+brücken
+6612
+3
+info@izfp.fraunhofer.d
+e
+http://www.izfp.fraun-
+hofer.de
++49 681
+9302-0
++49 681
+9302-5901
+Fraunhofer-Institut für
+Zuverlässigkeit und
+Mikrointegration
+Hauptadresse
+Gustav-Mey-
+er-Allee 25
+Berlin
+1335
+5
+info@zv.fraunhofer.de
+http://www.izm.fraun-
+hofer.de
++49 304
+6403-100
++49 304
+6403-111
+Fraunhofer-Institut für
+Zuverlässigkeit und
+Mikrointegration
+Standort
+Dresden
+Ringstraße
+12
+Dresden-
+Moritz-
+burg
+0146
+8
+info@zv.fraunhofer.de
+http://www.izm.fraun-
+hofer.de
++49 351
+795572-12
++49 304
+6403-111
+Fraunhofer-Institut für
+Zuverlässigkeit und
+Mikrointegration
+Standort
+Oberpfaffen-
+hofen
+Argelsrieder
+Feld 6
+Oberpfaf-
+fenhofen
+8223
+4
+info@zv.fraunhofer.de
+http://www.izm.fraun-
+hofer.de
++49 8153
+9097-500
++49 8153
+9097-511
+Fraunhofer-Instituts-
+zentrum Schloss Bir-
+linghoven
+Hauptadresse
+Schloss Bir-
+linghoven
+Sankt Au-
+gustin
+5375
+4
+info@zv.fraunhofer.de
+http://www.izb.fraun-
+hofer.de
++49 224114
+-0
+Friedrich-Ebert-Stif-
+tung
+Hauptadresse
+Godesberger
+Allee 149
+Bonn
+5317
+5
+presse@fes.de
+http://www.fes.de
++49 228
+883-0
++49 228
+883-432
+Friedrich-Ebert-Stif-
+tung
+Berliner Haus
+Hiroshima-
+straße 17
+Berlin
+1078
+5
+presse@fes.de
+http://www.fes.de
++49 30
+26935- 6
++49 228
+883-432
+Friedrich-Loeffler-Insti-
+tut,
+Bundesforschungsin-
+stitut für Tiergesund-
+heit
+Hauptadresse
+Südufer 10
+Greifs-
+wald - In-
+sel Riems
+1749
+3
+poststelle@fli.de
+http://www.fli.bund.de
++49 38351
+7-0
++49 38351
+7-219
+Friedrich-Loeffler-Insti-
+tut,
+Bundesforschungsin-
+stitut für Tiergesund-
+heit
+Standort
+Braun-
+schweig
+Bundesallee
+37
+Braun-
+schweig
+3811
+6
+poststelle@fli.de
+http://www.fli.bund.de
++49 531
+596-3102
++49 531
+596-3199, -
+3299
+Friedrich-Loeffler-Insti-
+tut,
+Bundesforschungsin-
+stitut für Tiergesund-
+heit
+Standort Cel-
+le
+Dörnbergstra-
+ße  25 u. 27
+Celle
+2922
+3
+poststelle@fli.de
+http://www.fli.bund.de
++49 5141
+3846-0
++49 5141
+3846-117
+Friedrich-Loeffler-Insti-
+tut,
+Bundesforschungsin-
+stitut für Tiergesund-
+heit
+Standort Jena
+Naumburger
+Straße 96 a
+Jena
+0774
+3
+poststelle@fli.de
+http://www.fli.bund.de
++49 3641
+804-0
++49 3641
+804-228
+Friedrich-Loeffler-Insti-
+tut,
+Bundesforschungsin-
+stitut für Tiergesund-
+heit
+Standort Ma-
+riensee
+Höltystrasse
+10
+Neustadt
+3153
+5
+poststelle@fli.de
+http://www.fli.bund.de
++49 5034
+871-0
++49 5034
+871-143
+Friedrich-Naumann-
+Stiftung für die Freiheit
+Hauptadresse
+Karl-Marx-
+Straße 2
+Potsdam
+1448
+2
+info@freiheit.org
+http://www.freiheit.org
++49 331
+7019-0
++49 331
+7019-188
+Führungsakademie
+der Bundeswehr
+Hauptadresse
+Manteuffel-
+straße 20
+Hamburg
+2258
+7
+fueakbwinfoa@bun-
+deswehr.org
+http://www.fueakbw.de
++49 40
+8667-4700
+Seite 41 von 80

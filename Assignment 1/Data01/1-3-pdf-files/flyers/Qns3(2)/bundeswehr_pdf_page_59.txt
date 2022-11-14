@@ -1,0 +1,401 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Patentanwaltskammer
+Hauptadresse
+Tal 29
+München
+8033
+1
+dpak@patentanwalt.d
+e
+http://www.patentan-
+walt.de
++49 89
+242278-0
++49 89
+242278-24
+Paul Ehrlich Institut
+Bundesinstitut für
+Impfstoffe und biome-
+dizinische Arzneimittel
+Hauptadresse
+Paul-Ehrlich-
+Straße 51 -
+59
+Langen
+6322
+5
+pei@pei.de
+http://www.pei.de
++49 6103
+77-0
++49 6103
+77-1234
+Paul-Drude-Institut für
+Festkörperelektronik -
+Leibniz Institut im For-
+schungsverbund Ber-
+lin e.V.
+Hauptadresse
+Hausvogtei-
+platz 5-7
+Berlin
+1011
+7
+info@dpi-berlin.de
+http://www.pdi-
+berlin.de
++49 30
+20377-481
++49 30
+20377-515
+PD - Berater der öf-
+fentlichen Hand GmbH
+Hauptadresse
+Friedrichstr.
+149
+Berlin
+1011
+7
+info@pd-g.de
+http://www.pd-g.de
++49 30 25
+76 79-0
++49 30 25
+76 79-199
+Pensionskasse Deut-
+scher Eisenbahnen
+und Straßenbahnen
+VVaG
+Hauptadresse
+Volksgarten-
+straße 54a
+Köln
+5067
+7
+info@pensionskasse-
+eisenbahnen.de
+http://www.pensions-
+kasse-eisenbahnen.de
++49 221
+931817-0
++49 221
+324548
+Persönlicher Beauf-
+tragter des Bundes-
+kanzlers für die G7 /
+G20-Gipfel
+Hauptadresse
+Willy-Brandt-
+Straße 1
+Berlin
+1055
+7
+Joerg.kukies@bk.bund
+.de
+http://www.bmwk.de
++49 3018
+400-2050
++49 3010
+400-2050
+Physikalisch-Techni-
+sche Bundesanstalt
+Hauptadresse
+Bundesallee
+100
+Braun-
+schweig
+3811
+6
+info@ptb.de
+http://www.ptb.de
++49 531
+592-0
++49 531
+592-9292
+Physikalisch-Techni-
+sche Bundesanstalt
+Standort Ber-
+lin-Charlot-
+tenburg
+Abbestraße 2
+- 12
+Berlin
+1058
+7
+info@ptb.de
+http://www.ptb.de
++49 30
+3481-0
++49 30
+3481-490
+Planungsamt der Bun-
+deswehr
+Hauptadresse
+Oberspree-
+straße 61 L
+Berlin
+1243
+9
+plgabwldi@bundes-
+wehr.org
+http://www.planungs-
+amt.bundeswehr.de
++49 30
+6794-1913
++49 30
+6794-29
+1907
+Pommersches Lan-
+desmuseum
+Hauptadresse
+Rakower
+Straße 9
+Greifs-
+wald
+1748
+9
+info@pommersches-
+landesmuseum.de
+http://www.pommer-
+sches-
+landesmuseum.de
++49 3834
+8312-0
++49 3834
+831211
+Postbeamtenkranken-
+kasse
+Hauptadresse
+Nauheimer
+Str. 98
+Stuttgart
+7037
+2
+web@pbeakk.de
+http://www.pbeakk.de
++49 711
+1356-0
++49 711
+1356-3395
+Potsdam-Institut für
+Klimafolgenforschung
+e. V.
+Hauptadresse
+Telegrafen-
+berg A 31
+Potsdam
+1447
+3
+impressum@pik-pots-
+dam.de
+http://www.pik-pots-
+dam.de
++49 331
+288-2500
++49 331
+288-2600
+Presse- und Informati-
+onsamt der Bundesre-
+gierung
+Hauptadresse
+Dorotheen-
+straße 84
+Berlin
+1011
+7
+Posteingang@bpa.bun
+d.de
+http://www.bundesre-
+gierung.de
++49 30 1 82
+72-0
++49 30 1 82
+72-25 55
+Presse- und Informati-
+onszentrum des Sani-
+tätsdienstes
+Hauptadresse
+Von-Kuhl-
+Straße 50
+Koblenz
+5607
+0
+pizsanitaetsdienst@bu
+ndeswehr.org
++49 261
+896 13103
++49 261
+896 13199
+pro familia Deutsche
+Gesellschaft für Fami-
+lienplanung, Sexual-
+pädagogik und Sexu-
+alberatung e. V.
+Hauptadresse
+Mainzer
+Landstraße
+250 - 254
+Frankfurt
+am Main
+6032
+6
+info@profamilia.de
+http://www.profamilia.d
+e
++49 69
+2695 779-0
++49 69
+2695 779
+Projektträger Jülich
+Hauptadresse
+Wilhelm-Joh-
+nen-Straße
+Jülich
+5242
+5
+ptj@fz-juelich.de
+http://www.ptj.de
++49 2461
+61-9431
++49 2461
+61-5837
+Projektträger Jülich
+Geschäfts-
+stelle Berlin
+Zimmerstra-
+ße 26 - 27
+Berlin
+1096
+9
+ptj@fz-juelich.de
+http://www.ptj.de
++49 30
+20199431
++49 30
+20199470
+Projektträger Jülich
+Geschäfts-
+stelle Rostock
+Schweriner
+Straße 44
+Rostock
+1806
+9
+ptj@fz-juelich.de
+http://www.ptj.de
++49 381
+20356-281
++49 30
+20199470
+Projektträger Jülich
+Geschäfts-
+stelle Bonn
+Godesberger
+Allee 105-107
+Bonn
+5317
+5
+ptj@fz-juelich.de
+http://www.ptj.de
++49 228
+60884-201
++49 228
+60884-299
+Rechtsanwaltskam-
+mer beim Bundesge-
+richtshof
+Hauptadresse
+Herrenstraße
+45 a
+Karlsruhe
+7613
+3
+kontakt@rak-bgh.de
++49 721
+22656
++49 721
+2031403
+Robert Koch-Institut
+Hauptadresse
+Nordufer 20
+Berlin
+1335
+3
+zentrale@rki.de
+http://www.rki.de
++49 3018
+754-0
++49 3018
+754-2328
+Robert Koch-Institut
+Außenstelle
+Berlin
+Seestraße 10
+Berlin
+1335
+3
+zentrale@rki.de
+http://www.rki.de
++49 3018
+754-0
++49 3018
+754-2328
+Robert Koch-Institut
+Außenstelle
+Wernigerode
+Burgstraße
+37
+Wernige-
+rode
+3885
+5
+zentrale@rki.de
+http://www.rki.de
++49 3018
+754-0
++49 3018
+754-2328
+Römisch-Germani-
+sches Zentralmuseum
+- Leibniz-Forschungs-
+institut für Archäologie
+Hauptadresse
+Ernst-Ludwig-
+Platz 2
+Mainz
+5511
+6
+info@rgzm.de
+http://www.rgzm.de
++49 6131
+9124-0
++49 6131
+9124-199
+Rosa-Luxemburg-Stif-
+tung - Gesellschafts-
+analyse und Politi-
+sche Bildung e. V.
+Hauptadresse
+Franz-Meh-
+ring Platz 1
+Berlin
+1024
+3
+info@rosalux.de
+http://www.rosalux.de
++49 30
+44310-0
++49 30
+44310-222
+Seite 59 von 80

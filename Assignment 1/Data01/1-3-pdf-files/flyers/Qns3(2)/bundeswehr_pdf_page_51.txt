@@ -1,0 +1,369 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Katholisches Militärde-
+kanat Berlin
+Hauptadresse
+Kurt-Schuma-
+cher-Damm
+41
+Berlin
+1340
+5
+KathMilDekanatBer-
+lin@bundeswehr.org
+http://www.kmba.mili-
+taerseelsorge.bundes-
+wehr.de
++49 30
+4981-3593
++49 30
+4981 42-
+3591
+Katholisches Militärde-
+kanat Kiel
+Hauptadresse
+Parkstraße 2
+Kiel
+2410
+6
+KathMilDekanatKiel@
+bundeswehr.org
+http://www.kmba.mili-
+taerseelsorge.bundes-
+wehr.de
++49 431
+667248-
+6970
++49 431
+667248-
+6974
+Katholisches Militärde-
+kanat Köln
+Hauptadresse
+Flughafen-
+straße 1
+Köln
+5114
+7
+KathMilDekanatKo-
+eln@bundeswehr.org
+http://www.kmba.mili-
+taerseelsorge.bundes-
+wehr.de
++49 2203
+908-3500
+Katholisches Militärde-
+kanat München
+Hauptadresse
+Ingolstädter
+Straße 240
+München
+8093
+9
+KathMilDekanatMuen-
+chen@bundeswehr.or
+g
+http://www.kmba.mili-
+taerseelsorge.bundes-
+wehr.de
++49 89
+3168 - 6050
++49 89
+3168 - 6054
+Kiel Institut für Welt-
+wirtschaft
+Hauptadresse
+Kiellinie 66
+Kiel
+2410
+5
+info@ifw-kiel.de
+http://www.ifw-kiel.de
++49 431
+8814-1
++49 431
+8814-500
+Kiepenheuer-Institut
+für Sonnenphysik
+Hauptadresse
+Schöneck-
+straße 6
+Freiburg
+7910
+4
+secr@leibniz-kis.de
+http://www.kis.uni-frei-
+burg.de
++49 761
+3198-0
++49 761
+3198-111
+Klassik Stiftung Wei-
+mar
+Hauptadresse
+Burgplatz 4
+Weimar
+9942
+3
+info@klassik-
+stiftung.de
+http://www.klassik-stif-
+tung.de
++49 3643
+545-0
++49 3643
+545-454
+Klosterstift St. Marien-
+thal
+Hauptadresse
+St. Marien-
+thal 1
+Ostritz
+0289
+9
+info@kloster-marien-
+thal.de
+http://www.klosterstift-
+marienthal.de
++49 35823
+77300
++49 35823
+77301
+Kommando Cyber-
+und Informationsraum
+Hauptadresse
+Johanna-Kin-
+kel-Straße 2-
+4
+Bonn
+5317
+5
+KdoCIRPIZCIR@bun-
+deswehr.org
+http://cir.bundeswehr.d
+e
++49
+22853683
+1412
+Kommando Feldjäger
+der Bundeswehr
+Hauptadresse
+Langen-
+forther Stra-
+ße 1
+Hannover
+3065
+7
+KdoFJgBwZentraler-
+Posteingang@bundes-
+wehr.org
+http://www.KdoFJgBw.
+streitkraeftebasis.de
++49 511
+903 3804
++49 511
+903 3809
+Kommando Heer
+Hauptadresse
+Prötzeler
+Chaussee 25
+25
+Straus-
+berg
+1534
+4
+PIZHeer@Bundes-
+wehr.org
+http://www.deutsches-
+heer.de
++49 3341-
+58-1511
++49 3341-
+58-1519
+Kommando Informati-
+onstechnik der Bun-
+deswehr
+Hauptadresse
+Fontainengra-
+ben 150
+Bonn
+5312
+3
+kdocirpizcir@bundes-
+wehr.org
+http://www.cir.bundes-
+wehr.de
++49 228
+5504-7025
++49 228
+5504-7029
+Kommando Luftwaffe
+Hauptadresse
+Kladower
+Damm 182
+Berlin
+1408
+9
+PIZLwPresse@bun-
+deswehr.org
+http://www.luftwaffe.de
++49 30
+3687-3931
+Kommando Regionale
+sanitätsdienstliche Un-
+terstützung
+Hauptadresse
+Schloß Orani-
+enstein
+Diez
+6558
+2
+KdoRegSanUstg@bun
+deswehr.org
+http://www.sanitaets-
+dienst-bundeswehr.de
++49 6432
+940 2011
++49 6432
+940 2099
+Kommando Sanitäts-
+dienst der Bundes-
+wehr
+Hauptadresse
+Von-Kuhl-
+Straße 50
+Koblenz
+5607
+0
+KdoSanDstBw@bun-
+deswehr.org
+http://www.sanitaets-
+dienst-bundeswehr.de
++49 261
+896 0
++49 261
+896-10299
+Kommando Sanitäts-
+dienstliche Einsatzun-
+terstützung
+Hauptadresse
+Zeitzer Stra-
+ße 112
+Weißen-
+fels
+0666
+7
+KdoRegSanUstg@bun
+deswehr.org
+http://www.sanitaets-
+dienst-bundeswehr.de
++49 3443
+33 1708
++49 3443
+33 1797
+Kommando Schnelle
+Einsatzkräfte Sanitäts-
+dienst
+Hauptadresse
+Papenburg-
+straße 82
+Leer
+2678
+9
+KdoSES@bundes-
+wehr.org
+http://www.sanitaets-
+dienst-bundeswehr.de
++49 491
+9195 4001
++49 491
+9195 4610
+Kommando Strategi-
+sche Aufklärung
+Hauptadresse
+Max-Planck-
+Straße 17
+Graf-
+schaft-
+Gelsdorf
+5350
+1
+kdocirpizcir@bundes-
+wehr.org
+http://cir.bundeswehr.d
+e
++49 2225
+93-0
+Kommando Streikräf-
+tebasis
+Hauptadresse
+Fontaingra-
+ben 150
+Bonn
+5312
+3
+KdoSKBPIZSKB@bun
+deswehr.org
+http://www.kommando.
+streitkraeftebasis.de
++49 228
+5504-1112
++49 228
+5504-1112
+Kommando Territoria-
+le Aufgaben der Bun-
+deswehr
+Hauptadresse
+Kurt-Schuma-
+cher-Damm
+41
+Berlin
+1340
+5
+KdoTAPresse@bun-
+deswehr.org
+http://www.bundes-
+wehr.de
++49 30
+4981 4550
++49 4981
+4559
+Kommunale Gemein-
+schaftsstelle für Ver-
+waltungsmanagement
+Hauptadresse
+Gereonstra-
+ße 18 - 32
+Köln
+5067
+0
+kgst@kgst.de
+http://www.kgst.de
++49 221
+37689-0
++49 221
+37689-59
+Konrad-Adenauer-Stif-
+tung e. V.
+Hauptadresse
+Klingelhöfer-
+straße 23
+Berlin
+1078
+5
+zentrale-
+berlin@kas.de
+http://www.kas.de
++49 30
+26996-0
+Seite 51 von 80

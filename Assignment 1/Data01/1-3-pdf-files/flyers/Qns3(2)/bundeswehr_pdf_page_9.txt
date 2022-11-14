@@ -1,0 +1,405 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Bonn (im An-
+kunftszen-
+trum)
+Reuterstraße
+63a
+Bonn
+5311
+5
+M11Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 371
+4901-0
++49 371
+4901-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Hamburg (im
+Aunkunfts-
+zentrum)
+Bargkoppel-
+stieg 10-14
+Hamburg
+2214
+5
+M11Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 371
+4901-0
++49 371
+4901-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Manching (in
+AnkER-Ein-
+richtung)
+Immelmann-
+straße 7
+Manching
+8507
+7
+M11Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 371
+4901-0
++49 371
+4901-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Friedland
+Heimkehrer-
+straße 16
+Friedland
+3713
+3
+M11Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 371
+4901-0
++49 371
+4901-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Stuttgart
+Wolframstra-
+ße 62
+Stuttgart
+7019
+1
+M11Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 371
+4901-0
++49 371
+4901-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Mönchen-
+gladbach (im
+Ankunftszen-
+trum)
+Chazal Road
+3-4
+Möchen-
+gladbach
+4117
+9
+M11Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 371
+4901-0
++49 371
+4901-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Dortmund (im
+Ankunftszen-
+trum)
+Huckarder
+Straße 91
+Dortmund
+4414
+7
+Ref431Posteingang@
+bamf.bund.de
+http://www.bamf.de
++49 231
+9058-0
++49 231
+9058-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Schwerin (im
+Ankunftszen-
+trum)
+Stern-Buch-
+holz 16
+Schwerin
+1906
+1
+Ref431Posteingang@
+bamf.bund.de
+http://www.bamf.de
++49 231
+9058-0
++49 231
+9058-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Büdingen
+Orleshäuser
+Straße 26
+Büdingen
+6365
+4
+Ref431Posteingang@
+bamf.bund.de
+http://www.bamf.de
++49 231
+9058-0
++49 231
+9058-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Bamberg (in
+AnkER-Ein-
+richtung)
+Buchenstra-
+ße 4
+Bamberg
+9605
+0
+Ref431Posteingang@
+bamf.bund.de
+http://www.bamf.de
++49 231
+9058-0
++49 231
+9058-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Essen
+Overhamms-
+hof 29
+Essen
+4523
+9
+Ref431Posteingang@
+bamf.bund.de
+http://www.bamf.de
++49 231
+9058-0
++49 231
+9058-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Bramsche (im
+Ankunftszen-
+trum)
+Im Rehha-
+gen 12
+Bramsche
+4956
+5
+Ref431Posteingang@
+bamf.bund.de
+http://www.bamf.de
++49 231
+9058-0
++49 231
+9058-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Schweinfurt
+(in AnkER-
+Einrichtung)
+Kasernen-
+weg 1
+Schwein-
+furt
+9742
+4
+Ref431Posteingang@
+bamf.bund.de
+http://www.bamf.de
++49 231
+9058-0
++49 231
+9058-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Düsseldorf
+(Qualifizie-
+rungszen-
+trum)
+Erkrather
+Straße 345 -
+349
+Düssel-
+dorf
+4023
+1
+M21Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 211
+9863-0
++49 211
+9863-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Ellwangen
+Georg-Elser-
+Straße 2
+Ellwangen
+7347
+9
+M21Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 211
+9863-0
++49 211
+9863-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Deggendorf
+(in AnkER-
+Einrichtung)
+Stadtfeldstra-
+ße 11
+Deggen-
+dorf
+9446
+9
+M21Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 211
+9863-0
++49 211
+9863-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Freiburg
+Bötzinger
+Straße 31
+Freiburg
+7911
+1
+M21Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 211
+9863-0
++49 211
+9863-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Augsburg
+August-Wes-
+sels-Straße
+27
+Augsburg
+8615
+2
+M21Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 911
+943-28655
++49 911
+943-28699
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Sigmaringen
+Binger Stra-
+ße 28
+Sigmarin-
+gen
+7248
+8
+M21Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 911
+943-28655
++49 911
+943-28699
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Eisenhütten-
+stadt (im An-
+kunftszen-
+trum)
+Poststraße 72
+Eisenhüt-
+tenstadt
+1589
+0
+M13Posteingang@ba
+mf.bund.de
+http://www.bamf.de
++49 3364
+492-0
++49 3364
+492-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Außenstelle -
+Frankfurt-
+Flughafen
+Frankfurt-
+Flughafen,
+Cargo City
+Süd
+Frankfurt
+am Main
+6054
+9
+M8Posteingang@bamf
+.bund.de
+http://www.bamf.de
++49 69
+69813-0
++49 69
+69813-199
+Bundesamt für Migrati-
+on und Flüchtlinge
+Ankunftszen-
+trum - Gie-
+ßen (Bereich
+Integration)
+Ursulum 18 -
+20
+Gießen
+3539
+6
+GIE-
+GZ@bamf.bund.de
+http://www.bamf.de
++49 911
+943 71102
++49 641
+494-10262
+Seite 9 von 80

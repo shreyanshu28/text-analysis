@@ -1,0 +1,404 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+ifo Institut - Leibniz-In-
+stitut für Wirtschafts-
+forschung an der Uni-
+versität München e. V.
+Hauptadresse
+Poschinger-
+straße 5
+München
+8167
+9
+ifo@ifo.de
+http://www.cesifo-
+group.de
++49 89
+9224-0
++49 89
+985369
+IHP GmbH - Leibniz-
+Institut für innovative
+Mikroelektronik
+Hauptadresse
+Im Technolo-
+giepark 25
+Frankfurt
+(Oder)
+1523
+6
+ihp@ihp-microelectro-
+nics.com
+http://www.ihp-micro-
+electronics.com
++49 335
+5625-0
++49 335
+5625-300
+IJAB - Fachstelle für
+Internationale Jugend-
+arbeit der Bundesre-
+publik Deutschland e.
+V.
+Hauptadresse
+Godesberger
+Allee 142 -
+148
+Bonn
+5317
+5
+info@ijab.de
+http://www.ijab.de
++49 228
+9506-0
++49 228
+9506-199
+ILS - Institut für Lan-
+des- und Stadtentwick-
+lungsforschung GmbH
+Hauptadresse
+Brüderweg 22
+- 24
+Dortmund
+4413
+5
+poststelle@ils-for-
+schung.de
++49 231
+9051-0
++49 231
+9051-155
+Industrie Lehrwerk-
+statt Trier eG
+Hauptadresse
+Engelstraße
+59 - 61
+Trier
+5429
+2
+trier@ilw.de
+http://www.ilw.de
++49 651
+2222-0
+Informationstechnikba-
+taillon 281
+Hauptadresse
+Philipp-Reis-
+Straße 2
+Gerolstein
+5456
+8
+kdocirpizcir@bundes-
+wehr.org
+http://cir.bundeswehr.d
+e
++49 6591
+10-1
+Informationstechnikba-
+taillon 282
+Hauptadresse
+Graf-Moltke-
+Straße
+Kastellaun
+5628
+8
+kdocirpizcir@bundes-
+wehr.org
+http://cir.bundeswehr.d
+e
++49 6762
+12-1
+Informationstechnikba-
+taillon 292
+Hauptadresse
+Rudolf-Die-
+sel-Straße 1a
+Dillingen
+an der
+Donau
+8940
+7
+kdocirpizcir@bundes-
+wehr.org
+http://cir.bundeswehr.d
+e
++49 9071
+580-0
+Informationstechnikba-
+taillon 293
+Hauptadresse
+Weilheimer
+Straße 60
+Murnau
+am Staf-
+felsee
+8241
+8
+kdocirpizcir@bundes-
+wehr.org
+http://cir.bundeswehr.d
+e
++49 8841
+609-0
+Informationstechnikba-
+taillon 381
+Hauptadresse
+Beeskower
+Chaussee
+15a
+Storkow
+(Mark)
+1585
+9
+kdocirpizcir@bundes-
+wehr.org
+http://cir.bundeswehr.d
+e
++49 33678
+66-0
+Informationstechnikba-
+taillon 383
+Hauptadresse
+Nissaer Weg
+10
+Erfurt
+9909
+9
+kdocirpizcir@bundes-
+wehr.org
+http://cir.bundeswehr.d
+e
++49 361
+432-0
+Informationstechnik-
+zentrum Bund
+Hauptadresse
+Bernkasteler
+Straße 8
+Bonn
+5317
+5
+poststelle@itzbund.de
+http://www.itzbund.de
++49 22899
+680-0
++49 22899
+680-5050
+Informationstechnik-
+zentrum Bund
+1. Liegen-
+schaft Berlin
+Prenzlauer
+Promenade
+28
+Berlin
+1308
+9
+poststelle@itzbund.de
+http://www.itzbund.de
++49 22899
+680-0
++49 22899
+680-5050
+Informationstechnik-
+zentrum Bund
+2. Liegen-
+schaft Düs-
+seldorf
+Fontanestra-
+ße 2
+Düssel-
+dorf
+4047
+0
+poststelle@itzbund.de
+http://www.itzbund.de
++49 22899
+680-0
++49 22899
+680-5050
+Informationstechnik-
+zentrum Bund
+3. Liegen-
+schaft Frank-
+furt
+Wilhelm-Fay-
+Straße 11
+Frankfurt
+6593
+6
+poststelle@itzbund.de
+http://www.itzbund.de
++49 22899
+680-0
++49 22899
+680-5050
+Informationstechnik-
+zentrum Bund
+4. Liegen-
+schaft Ham-
+burg
+Süderstraße
+63
+Hamburg
+2009
+7
+poststelle@itzbund.de
+http://www.itzbund.de
++49 22899
+680-0
++49 22899
+680-5050
+Informationstechnik-
+zentrum Bund
+5. Liegen-
+schaft Hanno-
+ver
+Waterloostra-
+ße 4
+Hannover
+3016
+9
+poststelle@itzbund.de
+http://www.itzbund.de
++49 22899
+680-0
++49 22899
+680-5050
+Informationstechnik-
+zentrum Bund
+6. Liegen-
+schaft Ill-
+menau
+Am Ehren-
+berg 8
+Illmenau
+9869
+3
+poststelle@itzbund.de
+http://www.itzbund.de
++49 22899
+680-0
++49 22899
+680-5050
+Informationstechnik-
+zentrum Bund
+7. Liegen-
+schaft Karls-
+ruhe
+Moltkestraße
+152
+Karlsruhe
+7618
+7
+poststelle@itzbund.de
+http://www.itzbund.de
++49 22899
+680-0
++49 22899
+680-5050
+Informationstechnik-
+zentrum Bund
+8. Liegen-
+schaft Köln
+Barbarastra-
+ße 1
+Köln
+5073
+5
+poststelle@itzbund.de
+http://www.itzbund.de
++49 22899
+680-0
++49 22899
+680-5050
+Informationstechnik-
+zentrum Bund
+9. Liegen-
+schaft Nürn-
+berg
+Frankenstra-
+ße 210
+Nürnberg
+9046
+1
+poststelle@itzbund.de
+http://www.itzbund.de
++49 22899
+680-0
++49 22899
+680-5050
+Informationstechnik-
+zentrum Bund
+10. Liegen-
+schaft Stutt-
+gart
+Ostendstra-
+ße 1
+Stuttgart
+7019
+0
+poststelle@itzbund.de
+http://www.itzbund.de
++49 22899
+680-0
++49 22899
+680-5050
+Informationstechnik-
+zentrum Bund
+11. Liegen-
+schaft Wies-
+baden
+Gustav-Stre-
+semann-Ring
+11
+Wiesba-
+den
+6518
+9
+poststelle@itzbund.de
+http://www.itzbund.de
++49 22899
+680-0
++49 22899
+680-5050
+Institut für Auslands-
+beziehungen e. V.
+Hauptadresse
+Charlotten-
+platz 17
+Stuttgart
+7017
+3
+info@ifa.de
+http://www.ifa.de
++49 711
+2225-0
++49 711
+2264-346
+Institut für deutsche
+Kultur und Geschichte
+Südosteuropas e. V.
+Hauptadresse
+Halskestraße
+15
+München
+8137
+9
+ikgs@ikgs.de
+http://www.ikgs.de
++49 89
+780609-0
++49 89
+780609-22
+Seite 48 von 80

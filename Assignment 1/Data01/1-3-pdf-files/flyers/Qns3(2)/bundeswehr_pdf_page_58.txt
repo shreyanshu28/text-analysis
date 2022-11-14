@@ -1,0 +1,409 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Max-Planck-Institut für
+Eisenforschung GmbH
+Hauptadresse
+Max-Planck-
+Straße 1
+Düssel-
+dorf
+4023
+7
+mpi@mpie.de
+http://www.mpie.de
++49 211
+6792-0
+Max-Planck-Institut für
+Kohlenforschung
+Hauptadresse
+Kaiser-Wil-
+helm-Platz 1
+Mülheim
+an der
+Ruhr
+4547
+0
+contact@mpi-muel-
+heim.mpg.de
+http://www.kofo.mpg.d
+e
++49 208
+306-1
++49 208
+306-2980
+Max-Planck-Institut für
+Neurobiologie des
+Verhaltens - caesar
+Hauptadresse
+Ludwig-Er-
+hard-Allee 2
+Bonn
+5317
+5
+office@mpinb.mpg.de
+http://www.mpinb.mpg.
+de
++49 228
+9656-0
++49 228
+9656-111
+Max-Planck-Institut für
+Plasmaphysik
+Hauptadresse
+Boltzmann-
+straße 2
+Garching
+8574
+8
+info@ipp.mpg.de
+http://www.ipp.mpg.de
++49 89
+3299-01
++49 89
+3299-2200
+Max-Planck-Institut für
+Plasmaphysik
+Teilinstitut
+Greifswald
+Wendelstein-
+straße 1
+Greifs-
+wald
+1749
+1
+info@ipp.mpg.de
+http://www.ipp.mpg.de
++49 3834
+88-1000
++49 89
+3299-2200
+Meeresbeauftragter
+der Bundesregierung
+Hauptadresse
+Stresemann-
+straße  128 -
+130
+Berlin
+1011
+7
+poststelle@bmvu.bund
+.de
+http://www.bmuv.de
++49 3018
+305-2505
+Militärrabbinat Militär-
+seelsorge Jüdisch
+Hauptadresse
+Oberspree-
+straße 61L
+Berlin
+1243
+9
+MRBBueroMilBundes-
+rabbiner@bundes-
+wehr.org
+http://www.bundewehr.
+de
++49 30
+67942670
+Monopolkommission
+Hauptadresse
+Kurt-Schuma-
+cher-Straße 8
+Bonn
+5311
+3
+info@monopolkom-
+mission.bund.de
+http://www.monopol-
+kommission.de
++49 228
+338882-30
++49 228
+338882- 33
+Multinationales Kom-
+mando Operative Füh-
+rung / Multinational
+Joint Headquarters
+Ulm
+Hauptadresse
+Stuttgarter-
+straße 199
+Ulm
+8908
+1
+mnjhqpao@bundes-
+wehr.org
+http://www.mnkdoop-
+fue.streitkraeftebasis.d
+e
++49 731
+1690-3060
++49 731
+1690-3065
+Museum für Natur-
+kunde - Leibniz-Insti-
+tut für Evolutions-
+und Biodiversitäts-
+forschung
+Hauptadresse
+Invalidenstra-
+ße 43
+Berlin
+1011
+5
+info@mfn.berlin
+http://www.museumfu-
+ernaturkunde.berlin
++49 30
+889140-
+8591
++49 30
+889140-
+8561
+Museumsstiftung Post
+und Telekommunikati-
+on
+Hauptadresse
+Schaumain-
+kai 53
+Frankfurt
+am Main
+6059
+6
+stiftungsleitung@mspt.
+de
+http://www.museumss-
+tiftung.de
++49 69 60
+60 600
++49 69 60
+60 666
+Museumsstiftung Post
+und Telekommunikati-
+on
+Museum für
+Kommunikati-
+on Berlin
+Leipziger
+Straße 16
+Berlin
+1011
+7
+a.schaluschke@mspt.
+de
+http://www.museumss-
+tiftung.de
++49 30
+202094 101
++49 30
+202094 119
+Museumsstiftung Post
+und Telekommunikati-
+on
+Museum für
+Kommunikati-
+on Frankfurt
+Philipp-Reis-
+Straße 4-8
+Heusen-
+stamm
+6315
+0
+mfk.sammlungen@ms
+pt.de
+http://www.museumss-
+tiftung.de
++49 69
+6060-0
++49 69
+6060-666
+Museumsstiftung Post
+und Telekommunikati-
+on
+Museum für
+Kommunikati-
+on Nürnberg
+Lessingstra-
+ße 6
+Nürnberg
+9044
+3
+mfk-
+nuernberg@mspt.de
+http://www.museumss-
+tiftung.de
++49 911
+23088-0
++49 911
+23088-96
+Museumsstiftung Post
+und Telekommunikati-
+on
+Archiv für
+Philatelie
+Robert-Schu-
+man-Platz 3
+Bonn
+5317
+5
+afp@mspt.de
+http://www.museumss-
+tiftung.de
++49 228
+185-150
++49 911
+23088-96
+Nationale Agentur
+beim Bundesinstitut für
+Berufsbildung
+Hauptadresse
+Robert-Schu-
+man-Platz 3
+Bonn
+5317
+5
+na@bibb.de
+http://www.na-bibb.de
++49 228
+107-1608
++49 228
+107-2964
+Nationale Anti-Doping
+Agentur
+Hauptadresse
+Heussallee
+38
+Bonn
+5311
+3
+info@nada-bonn.de
+http://www.nada.de
++49 228
+81292-0
++49 228
+81292-219
+Nationaler Normen-
+kontrollrat
+Hauptadresse
+Mohrenstra-
+ße 37
+Berlin
+1011
+7
+nkr@bmj.bund.de
+http://www.normen-
+kontrollrat.bund.de
++49 3018
+580-8245
++49 3018
+580-1234
+Offizierschule der Luft-
+waffe
+Hauptadresse
+Straße der
+Luftwaffe 352
+Fürsten-
+feldbruck
+8225
+6
+OSLwPresseundOef-
+fentlichkeitsarbeit@bu
+ndeswehr.org
+http://www.luftwaffe.de
++49 81 41
+5360 1110
++49 81 41
+5360 2980
+Offizierschule des
+Heeres
+Hauptadresse
+Marienallee
+14
+Dresden
+0109
+9
+osh@bundeswehr.org
+http://www.deutsches-
+heer.de
++49 351
+823 - 3031
++49 351
+823 - 3653
+Ostpreußisches Lan-
+desmuseum
+Hauptadresse
+Heiligengeist-
+straße 38
+Lüneburg
+2133
+5
+info@ol-lg.de
+http://www.ostpreussi-
+sches-
+landesmuseum.de
++49 4131
+75995-0
++49 4131
+75995-11
+Otto Benecke Stiftung
+e. V.
+Hauptadresse
+Kennedyal-
+lee 105 - 107
+Bonn
+5317
+5
+post@obs-ev.de
+http://www.obs-ev.de
++49 228
+8163-0
++49 228
+8163-400
+Otto-von-Bismarck-
+Stiftung
+Hauptadresse
+Am Bahnhof
+2
+Fried-
+richsruh
+2152
+1
+info@bismarck-stif-
+tung.de
+http://www.bismarck-
+stiftung.de
++49 4104
+9771-0
++49 4104
+9771-14
+Otto-von-Bismarck-
+Stiftung
+Außenstelle
+Bismarckmu-
+seum Schön-
+hausen
+Kirchberg 4
+Schön-
+hausen
+3952
+4
+aussenstelle@bis-
+marck-stiftung.de
+http://www.bismarck-
+stiftung.de
++49 39323
+38874
++49 39323
+38874
+Seite 58 von 80

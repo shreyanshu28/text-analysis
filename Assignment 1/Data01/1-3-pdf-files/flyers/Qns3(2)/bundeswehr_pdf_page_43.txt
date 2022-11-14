@@ -1,0 +1,336 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Generalzolldirektion
+Direktion IV -
+Verbrauch-
+steuer-, Ver-
+kehrsteuer-
+recht und
+Prüfungs-
+dienst
+Direktionsprä-
+sident: Diet-
+mar Jakobs
+Wiesenstra-
+ße 32
+Neustadt
+a. d.
+Weinstra-
+ße
+6743
+3
+DIV.gzd@zoll.bund.de
+http://www.zoll.de
++49 6321
+894-0
++49 6321
+894-930
+Generalzolldirektion
+Direktion IX -
+Bildungs- und
+Wissen-
+schaftszen-
+trum der Bun-
+desfinanzver-
+waltung
+(BWZ)
+Direktionsprä-
+sident: Tho-
+mas Schoen-
+eck
+Gescherweg
+100
+Münster
+4816
+1
+DIX.gzd@zoll.bund.de
+http://www.zoll.de
++49 251
+8670-0
++49 251
+8670-8666
+Generalzolldirektion
+Direktion V -
+Allgemeines
+Zollrecht, Ma-
+ritime Aufga-
+ben
+Stubbenhuk 3
+Hamburg
+2045
+9
+DV.gzd@zoll.bund.de
+http://www.zoll.de
++49 40
+42820-0
++49 40
+42820-2592
+Generalzolldirektion
+Direktion VI -
+Recht des
+grenzüber-
+schreitenden
+Warenver-
+kehrs/Beson-
+deres Zoll-
+recht
+Direktionsprä-
+sident: Jür-
+gen Hartlich
+Krelingstraße
+50
+Nürnberg
+9040
+8
+DVI.gzd@zoll.bund.de
+http://www.zoll.de
++49 911
+376-0
++49 911
+376-2270
+Generalzolldirektion
+Direktion VII -
+Finanzkon-
+trolle
+Schwarzar-
+beit (FKS)
+Direktionsprä-
+sident: Dr. Ar-
+min Rolfink
+Wörthstraße
+1 - 3
+Köln
+5066
+8
+DVII.gzd@zoll.bund.d
+e
+http://www.zoll.de
++49 221
+222 55-0
++49 221
+222 55-
+3981
+Generalzolldirektion
+Direktion VIII
+- Zollkriminal-
+amt (ZKA)
+Direktionsprä-
+sident: Nor-
+bert Drude
+Bergisch
+Gladbacher
+Straße  837
+Köln
+5106
+9
+DVIII.gzd@zoll.bund.d
+e
+http://www.zoll.de
++49 221
+672-0
++49 221
+672-4500
+Germanisches Natio-
+nalmuseum
+Hauptadresse
+Kartäuser-
+gasse 1
+Nürnberg
+9040
+2
+info@gnm.de
++ 49 911
+1331-0
++49 911
+1331-200
+Germany Trade and
+Invest - Gesellschaft
+für Außenwirtschaft
+und Standortmarke-
+ting mbH
+Hauptadresse
+Friedrichstra-
+ße 60
+Berlin
+1011
+7
+office@gtai.com
+http://www.gtai.de
++49 30
+200099-0
++49 30
+200099-111
+Germany Trade and
+Invest - Gesellschaft
+für Außenwirtschaft
+und Standortmarke-
+ting mbH
+Standort Köln
+Agrippastra-
+ße 87 - 93
+Köln
+5067
+6
+info@gtai.de
+http://www.gtai.de
++49 221
+2057-0
++49 221
+2057-212
+Gesellschaft für Anla-
+gen und Reaktorsi-
+cherheit mbH
+Hauptadresse
+Schwertner-
+gasse 1
+Köln
+5066
+7
+info@grs.de
+http://www.grs.de
++49 221
+2068-0
++49 221
+2068-856
+Gesellschaft für Anla-
+gen und Reaktorsi-
+cherheit mbH
+Standort Ber-
+lin
+Kurfürsten-
+damm 200
+Berlin
+1071
+9
+info@grs.de
+http://www.grs.de
++49 30
+88589-0
++49 30
+88589-111
+Gesellschaft für Anla-
+gen und Reaktorsi-
+cherheit mbH
+Standort
+Braun-
+schweig
+Theodor-
+Heuss-Stra-
+ße 4
+Braun-
+schweig
+3812
+2
+info@grs.de
+http://www.grs.de
++49 531
+8012-0
++49 531
+8012-200
+Gesellschaft für Anla-
+gen und Reaktorsi-
+cherheit mbH
+Standort Gar-
+ching
+Forschungs-
+institute
+Garching
+8574
+8
+info@grs.de
+http://www.grs.de
++49 89
+32004-0
++49 89
+32004 300
+Gesellschaft für Anla-
+gen und Reaktorsi-
+cherheit mbH
+Standort Kiew
+Prospekt
+Nauki 47
+Kiew
+0302
+2
+info@grs.de
+http://www.grs.de
++38 44525
+1450
++38 4423
+02035
+Gesellschaft für Anla-
+gen und Reaktorsi-
+cherheit mbH
+Standort
+Moskau
+ul. Pechotna-
+ja 32-1
+Moskau
+1231
+82
+info@grs.de
+http://www.grs.de
++7 495
+2211802
++7 495
+2211803
+Gesellschaft für Anla-
+gen und Reaktorsi-
+cherheit mbH
+Standort Pa-
+ris
+40-44bis,
+boulevard
+Félix Faure
+Châtillon
+9232
+0
+info@grs.de
+http://www.grs.de
++33 155
+583111,
++33 155
+583112
++33 155
+583118
+Gesellschaft für
+Schwerionenfor-
+schung mbH
+Hauptadresse
+Planckstraße
+1
+Darmstadt
+6429
+1
+info@gsi.de
+http://www.gsi.de
++49 6159
+71-0
++49 6159
+71-2785
+Gesellschaft für
+Schwerionenfor-
+schung mbH
+Helmholtz-In-
+stitut Jena
+Fröbelstieg 3
+Jena
+0774
+3
+info@gsi.de
+http://www.gsi.de
++49 3641
+947-601
++49 3641
+947-602
+Seite 43 von 80

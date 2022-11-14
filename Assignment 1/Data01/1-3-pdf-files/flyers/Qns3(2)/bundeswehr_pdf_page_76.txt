@@ -1,0 +1,367 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Wasserstraßen-und
+Schifffahrtsamt Spree-
+Havel (Dienstort Ber-
+lin)
+Bauhof Berlin
+Grünauer
+Straße 213
+Berlin
+1255
+7
+wsa-spree-
+havel@wsv.bund.de
+http://www.wsa-spree-
+havel.wsv.de
++49 30
+654815-0
++49 30
+654815-15
+Wehrbeauftragter des
+Deutschen Bundesta-
+ges
+Hauptadresse
+Platz der Re-
+publik 1
+Berlin
+1101
+1
+wehrbeauftragter@bu
+ndestag.de
+http://www.bundestag.
+de
++49 30 227-
+38100
++49 30 227-
+38283
+Wehrtechnische
+Dienststelle für Infor-
+mationstechnologie
+und Elektronik
+Hauptadresse
+Bergstraße
+18
+Greding
+9117
+1
+WTD81posteingang@
+bundeswehr.org
+http://www.baainbw.de
++49 8463
+652-0
++49 8463
+652-607
+Wehrtechnische
+Dienststelle für land-
+gebundene Fahrzeug-
+systeme, Pionier- und
+Truppentechnik
+Hauptadresse
+Kolonnenweg
+Trier
+5429
+6
+wtd41@bundeswehr.o
+rg
+http://www.baainbw.de
++49 651
+9129-0
++49 651
+9129-2600
+Wehrtechnische
+Dienststelle für Luft-
+fahrzeuge und Luft-
+fahrtgerät der Bundes-
+wehr
+Hauptadresse
+Flugplatz
+Manching
+8507
+7
+wtd61posteingang@b
+undeswehr.org
+http://www.baainbw.de
++49 8459
+80-1
++49 8459
+80-2022
+Wehrtechnische
+Dienststelle für Schif-
+fe und Marinewaffen,
+Maritime Technologie
+und Forschung
+Hauptadresse
+Berliner Stra-
+ße 115
+Eckernför-
+de
+2434
+0
+wtd71posteingang@b
+undeswehr.org
+http://www.baainbw.de
++49 4351
+467-0
++49 4351
+467-120
+Wehrtechnische
+Dienststelle für Schutz
+- und Sondertechnik
+Hauptadresse
+Oberjetten-
+berg
+Schneizl-
+reuth
+8345
+8
+wtd52posteingang@b
+undeswehr.org
+http://www.baainbw.de
++49 8651
+7682-1001
++49 8651
+7682-1338
+Wehrtechnische
+Dienststelle für Waf-
+fen und Munition
+Hauptadresse
+Am Schieß-
+platz
+Meppen
+4971
+6
+WTD91@bundeswehr.
+org
+http://www.baainbw.de
++49 5931
+43-0
++49 5931
+43-2091
+Wehrtechnische Studi-
+ensammlung
+Hauptadresse
+Mayener
+Straße 85-87
+Koblenz
+5607
+0
+wts@bundeswehr.org
+http://www.baainbw.de
++49 261
+983692-
+1422/1423
++49 261
+983692-
+1424
+Wehrwissenschaftli-
+ches Institut für
+Schutztechnologien -
+ABC-Schutz
+Hauptadresse
+Humboldt-
+straße 100
+Munster
+2963
+3
+wisposteingang@bun-
+deswehr.org
+http://www.baainbw.de
++49 5192
+136-201
++49 5192
+136-355
+Wehrwissenschaftli-
+ches Institut für Werk-
+und Betriebsstoffe
+Hauptadresse
+Institutsweg 1
+Erding
+8543
+5
+wiweb@bundeswehr.o
+rg
+http://www.baainbw.de
++49 8122
+9590-0
++49 8122
+9590-3902
+Wehrwissenschaftli-
+ches Institut für Werk-
+und Betriebsstoffe
+Standort Wil-
+helmshaven
+Kasinostraße
+Tor 7
+Wilhelms-
+haven
+2638
+2
+wiweb@bundeswehr.o
+rg
+http://www.baainbw.de
++49 4421
+49-1
++49 4421
+49-3456
+Weierstraß-Institut für
+Angewandte Analysis
+und Stochastik - Leib-
+niz-Institut im For-
+schungsverbund Ber-
+lin e. V.
+Hauptadresse
+Mohrenstra-
+ße 39
+Berlin
+1011
+7
+contact@wias-
+berlin.de
+http://www.wias-
+berlin.de
++49 30
+20372-0
++49 30
+20372-303
+Wirtschaftsprüferkam-
+mer
+Hauptadresse
+Rauchstraße
+26
+Berlin
+1078
+7
+kontakt@wpk.de
+http://www.wpk.de
++49 30
+726161-0
++49 30
+726161-212
+Wirtschaftsprüferkam-
+mer
+Landesge-
+schäftsstelle
+Baden-Würt-
+temberg
+Calwer Stra-
+ße 11
+Stuttgart
+7017
+3
+lgs-stuttgart@wpk.de
+http://www.wpk.de
++49 711
+23977-0
++49 711
+23977-12
+Wirtschaftsprüferkam-
+mer
+Landesge-
+schäftsstelle
+Bayern
+Marienstras-
+se 14/16
+München
+8033
+1
+lgs-
+muenchen@wpk.de
+http://www.wpk.de
++49 89
+544616-11
++49 89
+544616-12
+Wirtschaftsprüferkam-
+mer
+Landesge-
+schäftsstelle
+Berlin, Bran-
+denburg,
+Sachsen und
+Sachsen-An-
+halt
+Rauchstraße
+26
+Berlin
+1078
+7
+lgs-berlin@wpk.de
+http://www.wpk.de
++49 30
+726161-216
++49 30
+726161-199
+Wirtschaftsprüferkam-
+mer
+Landesge-
+schäftsstelle
+Bremen,
+Hamburg,
+Mecklenburg-
+Vorpommern,
+Niedersach-
+sen und
+Schleswig-
+Holstein
+Ferdinand-
+straße 12
+Hamburg
+2009
+5
+lgs-hamburg@wpk.de
+http://www.wpk.de
++49 40
+8080343-11
++49 40
+8080343-12
+Wirtschaftsprüferkam-
+mer
+Landesge-
+schäftsstelle
+Hessen,
+Rheinland-
+Pfalz, Saar-
+land und Thü-
+ringen
+Sternstraße 8
+Frankfurt
+am Main
+6031
+8
+lgs-frankfurt@wpk.de
+http://www.wpk.de
++49 69
+3650626-30
++49 69
+3650626-32
+Wirtschaftsprüferkam-
+mer
+Landesge-
+schäftsstelle
+Nordrhein-
+Westfalen
+Tersteegen-
+straße 14
+Düssel-
+dorf
+4047
+4
+lgs-
+duesseldorf@wpk.de
+http://www.wpk.de
++49 211
+4561-187
++49 211
+4561-193
+Seite 76 von 80

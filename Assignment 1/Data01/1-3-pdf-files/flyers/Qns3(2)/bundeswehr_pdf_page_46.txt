@@ -1,0 +1,392 @@
+Organisation
+Liegenschaft
+Anschrift
+Ort
+PLZ
+E-Mail und URL
+Telefon
+Telefax
+Telefon(IV
+BB)
+Telefax(IVB
+B)
+Hauptzollamt
+Schweinfurt
+Hauptadresse
+Brückenstra-
+ße 27
+Schwein-
+furt
+9742
+1
+poststelle.hza-
+schweinfurt@zoll.bund
+.de
+http://www.zoll.de
++49 9721
+6464-0
++49 9721
+6464-1800
+Hauptzollamt
+Schweinfurt
+Dienstsitz
+Bamberg
+Memmelsdor-
+fer Straße
+211 a
+Bamberg
+9605
+2
+sgf.hza-
+schweinfurt@zoll.bund
+.de
+http://www.zoll.de
++49 951
+96666-0
++49 951
+96666-750
+Hauptzollamt Singen
+Hauptadresse
+Maggistraße
+3
+Singen
+7822
+4
+poststelle.hza-sin-
+gen@zoll.bund.de
+http://www.zoll.de
++49 7731
+8205-0
++49 7731
+8205-1901
+Hauptzollamt Stral-
+sund
+Hauptadresse
+Hiddenseer
+Straße 2
+Stralsund
+1843
+9
+poststelle.hza-stral-
+sund@zoll.bund.de
+http://www.zoll.de
++49 3831
+356-0
++49 3831
+356-1121
+Hauptzollamt Stuttgart
+Hauptadresse
+Hackstraße
+85
+Stuttgart
+7019
+0
+poststelle.hza-stutt-
+gart@zoll.bund.de
+http://www.zoll.de
++49 711
+922-0
++49 711
+922-2209
+Hauptzollamt Ulm
+Hauptadresse
+Magirusstra-
+ße 39 / 2
+Ulm
+8907
+7
+poststelle.hza-
+ulm@zoll.bund.de
+http://www.zoll.de
++49 731
+9648-0
++49 731
+9648-299
+Haus der Wannsee-
+Konferenz
+- Gedenk- und Bil-
+dungstätte -
+Hauptadresse
+Am Großen
+Wannsee 56-
+58
+Berlin
+1410
+9
+info@ghwk.de
+http://www.ghwk.de
++49
+30805001-0
+Havariekommando
+Hauptadresse
+Am Alten Ha-
+fen 2
+Cuxhaven
+2747
+2
+info@havariekomman-
+do.de
+http://www.havarie-
+kommando.de
++49 4721
+567-400
++49 4721
+567-364
+Heinrich-Böll-Stiftung
+e. V.
+Hauptadresse
+Rosenthaler
+Straße 40 -
+41
+Berlin
+1017
+8
+info@boell.de
+http://www.boell.de
++49 30
+28534-0
++49 30
+28534-109
+Helmholtz Zentrum
+München Deutsches
+Forschungszentrum
+für Gesundheit und
+Umwelt GmbH
+Hauptadresse
+Ingolstädter
+Landstraße 1
+Neuher-
+berg
+8576
+4
+http://www.helmholtz-
+muenchen.de
++49 89
+3187-0
++49 89
+3187-3322
+Helmholtz Zentrum
+München Deutsches
+Forschungszentrum
+für Gesundheit und
+Umwelt GmbH
+Standort
+Großhadern
+Marchioninis-
+traße 25
+München
+8317
+7
+http://www.helmholtz-
+muenchen.de
++49 89
+3187-1301
++49 89
+3187-3322
+Helmholtz Zentrum
+München Deutsches
+Forschungszentrum
+für Gesundheit und
+UmweltGmbH
+Standort Gar-
+ching
+Parkring 11 -
+13
+Garching
+8574
+8
+http://www.helmholtz-
+muenchen.de
++49 89
+3187-1301
++49 89
+3187-3322
+Helmholtz-Gemein-
+schaft
+Hauptadresse
+Ahrstraße 45
+Bonn
+5317
+5
+org@helmholtz.de
+http://www.helmholtz.d
+e
++49 228
+30818-0
++49 228
+30818-30
+Helmholtz-Gemein-
+schaft
+Geschäfts-
+stelle Berlin
+Anna-Louisa-
+Karsch-Stra-
+ße 2
+Berlin
+1017
+8
+org@helmholtz.de
+http://www.helmholtz.d
+e
++49 30
+206329-0
++49 30
+206329-59
+Helmholtz-Zentrum
+Berlin für Materialien
+und Energie GmbH
+Hauptadresse
+Hahn-Meit-
+ner-Platz 1
+Berlin
+1410
+9
+info@helmholtz-
+berlin.de
+http://www.helmholtz-
+berlin.de
++49 30
+8062-0
++49 30
+8062-42181
+Helmholtz-Zentrum
+Berlin für Materialien
+und Energie GmbH
+Wilhelm-Con-
+rad-Röntgen
+Campus/
+BESSY II
+Albert-Ein-
+stein-Straße
+15
+Berlin
+1248
+9
+info@helmholtz-
+berlin.de
+http://www.helmholtz-
+berlin.de
++49 30
+8062-0
++49 30
+8062-12990
+Helmholtz-Zentrum
+Dresden-Rossendorf
+e. V.
+Hauptadresse
+Bautzener
+Landstraße
+400
+Dresden
+0132
+8
+kontakt@hzdr.de
+http://www.hzdr.de
++49 351
+260-0
++49 351
+269-0461
+Helmholtz-Zentrum
+Dresden-Rossendorf
+e. V.
+Helmholtz-In-
+stitut Frei-
+berg für Res-
+sourchen-
+technologie
+Halsbrücker
+Straße 34
+Freiberg
+0959
+9
+kontakt@hzdr.de
+http://www.hzdr.de
++49 351
+260-4427
++49 351
+269-0461
+Helmholtz-Zentrum für
+Infektionsforschung
+GmbH
+Hauptadresse
+Inhoffenstra-
+ße 7
+Braun-
+schweig
+3812
+4
+http://www.helmholtz-
+hzi.de
++49 531
+6181-0
++49 531
+6181-2655
+Helmholtz-Zentrum für
+Infektionsforschung
+GmbH
+Helmholtz-In-
+stitut für
+Pharmazeuti-
+sche For-
+schung Saar-
+land (HIPS)
+Universität
+des Saarlan-
+des
+Saar-
+brücken
+6612
+3
+http://www.helmholtz-
+hzi.de
++49 681
+302-70200
++49 531
+6181-2655
+Helmholtz-Zentrum für
+Ozeanforschung Kiel
+GEOMAR
+Hauptadresse
+Wischhofstra-
+ße 1-3
+Kiel
+2414
+8
+info@geomar.de
+http://www.geomar.de
++49 431
+600-0
++49 431
+600-2805
+Helmholtz-Zentrum für
+Umweltforschung
+GmbH - UFZ
+Hauptadresse
+Permoser
+Straße 15
+Leipzig
+0431
+8
+info@ufz.de
+http://www.ufz.de
++49 341
+235-1800
++49 341
+235-1388
+Helmholtz-Zentrum für
+Umweltforschung
+GmbH - UFZ
+Standort Hal-
+le
+Theodor-Lie-
+ser-Sraße 4
+Halle
+0612
+0
+info@ufz.de
+http://www.ufz.de
++49 345
+55850
++49 341
+235-1388
+Seite 46 von 80
